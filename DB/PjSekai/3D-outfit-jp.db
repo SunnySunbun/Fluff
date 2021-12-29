@@ -9330,5 +9330,534 @@
         }
       }
     }
+  },
+  "cos0181": {
+    "name": "スパカリバルーンドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0181_head",
+          "id": "0198/a03"
+        },
+        "body": {
+          "bundle": "cos0181_body",
+          "id": "99/0198"
+        },
+        "unique_head": {
+          "bundle": "cos0181_unique_head",
+          "id": "15/0198"
+        },
+        "unique_hair": {
+          "bundle": "cos0181_unique_hair",
+          "id": "15/0198n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0181_head_01",
+          "id": "0198/a03"
+        },
+        "body": {
+          "bundle": "cos0181_body_01",
+          "id": "99/0198"
+        },
+        "unique_head": {
+          "bundle": "cos0181_unique_head_01",
+          "id": "15/0198a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0181_head_02",
+          "id": "0198/a03"
+        },
+        "body": {
+          "bundle": "cos0181_body_02",
+          "id": "99/0198"
+        },
+        "unique_head": {
+          "bundle": "cos0181_unique_head_02",
+          "id": "15/0198b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0181_head_03",
+          "id": "0198/a03"
+        },
+        "body": {
+          "bundle": "cos0181_body_03",
+          "id": "99/0198"
+        },
+        "unique_head": {
+          "bundle": "cos0181_unique_head_03",
+          "id": "15/0198c"
+        }
+      }
+    }
+  },
+  "cos0182": {
+    "name": "ギャラクシーダークスーツ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0182_head",
+          "id": "0199/a03"
+        },
+        "body": {
+          "bundle": "cos0182_body",
+          "id": "99/0199"
+        },
+        "unique_head": {
+          "bundle": "cos0182_unique_head",
+          "id": "16/0199"
+        },
+        "unique_hair": {
+          "bundle": "cos0182_unique_hair",
+          "id": "16/0199n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0182_head_01",
+          "id": "0199/a03"
+        },
+        "body": {
+          "bundle": "cos0182_body_01",
+          "id": "99/0199"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0182_head_02",
+          "id": "0199/a03"
+        },
+        "body": {
+          "bundle": "cos0182_body_02",
+          "id": "99/0199"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0182_head_03",
+          "id": "0199/a03"
+        },
+        "body": {
+          "bundle": "cos0182_body_03",
+          "id": "99/0199"
+        }
+      }
+    }
+  },
+  "cos0183": {
+    "name": "カンナギガールスタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0183_head",
+          "id": "0195/a02"
+        },
+        "body": {
+          "bundle": "cos0183_body",
+          "id": "99/0195"
+        },
+        "unique_head": {
+          "bundle": "cos0183_unique_head",
+          "id": "06/0195"
+        },
+        "unique_hair": {
+          "bundle": "cos0183_unique_hair",
+          "id": "06/0195n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0183_head_01",
+          "id": "0195/a02"
+        },
+        "body": {
+          "bundle": "cos0183_body_01",
+          "id": "99/0195"
+        },
+        "unique_head": {
+          "bundle": "cos0183_unique_head_01",
+          "id": "06/0195a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0183_head_02",
+          "id": "0195/a02"
+        },
+        "body": {
+          "bundle": "cos0183_body_02",
+          "id": "99/0195"
+        },
+        "unique_head": {
+          "bundle": "cos0183_unique_head_02",
+          "id": "06/0195b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0183_head_03",
+          "id": "0195/a02"
+        },
+        "body": {
+          "bundle": "cos0183_body_03",
+          "id": "99/0195"
+        },
+        "unique_head": {
+          "bundle": "cos0183_unique_head_03",
+          "id": "06/0195c"
+        }
+      }
+    }
+  },
+  "cos0184": {
+    "name": "ナゴミスクールスタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0184_head",
+          "id": "0197/a03"
+        },
+        "body": {
+          "bundle": "cos0184_body",
+          "id": "99/0197"
+        },
+        "unique_head": {
+          "bundle": "cos0184_unique_head",
+          "id": "03/0197"
+        },
+        "unique_hair": {
+          "bundle": "cos0184_unique_hair",
+          "id": "03/0197n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0184_head_01",
+          "id": "0197/a03"
+        },
+        "body": {
+          "bundle": "cos0184_body_01",
+          "id": "99/0197"
+        },
+        "unique_head": {
+          "bundle": "cos0184_unique_head_01",
+          "id": "03/0197a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0184_head_02",
+          "id": "0197/a03"
+        },
+        "body": {
+          "bundle": "cos0184_body_02",
+          "id": "99/0197"
+        },
+        "unique_head": {
+          "bundle": "cos0184_unique_head_02",
+          "id": "03/0197b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0184_head_03",
+          "id": "0197/a03"
+        },
+        "body": {
+          "bundle": "cos0184_body_03",
+          "id": "99/0197"
+        },
+        "unique_head": {
+          "bundle": "cos0184_unique_head_03",
+          "id": "03/0197c"
+        }
+      }
+    }
+  },
+  "cos0185": {
+    "name": "ミヤビストリートスタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0185_head",
+          "id": "0196/a04"
+        },
+        "body": {
+          "bundle": "cos0185_body",
+          "id": "99/0196"
+        },
+        "unique_head": {
+          "bundle": "cos0185_unique_head",
+          "id": "09/0196"
+        },
+        "unique_hair": {
+          "bundle": "cos0185_unique_hair",
+          "id": "09/0196n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0185_head_01",
+          "id": "0196/a04"
+        },
+        "body": {
+          "bundle": "cos0185_body_01",
+          "id": "99/0196"
+        },
+        "unique_head": {
+          "bundle": "cos0185_unique_head_01",
+          "id": "09/0196a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0185_head_02",
+          "id": "0196/a04"
+        },
+        "body": {
+          "bundle": "cos0185_body_02",
+          "id": "99/0196"
+        },
+        "unique_head": {
+          "bundle": "cos0185_unique_head_02",
+          "id": "09/0196b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0185_head_03",
+          "id": "0196/a04"
+        },
+        "body": {
+          "bundle": "cos0185_body_03",
+          "id": "99/0196"
+        },
+        "unique_head": {
+          "bundle": "cos0185_unique_head_03",
+          "id": "09/0196c"
+        }
+      }
+    }
+  },
+  "cos0186": {
+    "name": "キュートタイガースタイル",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0186_head",
+          "id": "0192/a05"
+        },
+        "body": {
+          "bundle": "cos0186_body",
+          "id": "99/0192"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0186_head_01",
+          "id": "0192/a05"
+        },
+        "body": {
+          "bundle": "cos0186_body_01",
+          "id": "99/0192"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0186_head_02",
+          "id": "0192/a05"
+        },
+        "body": {
+          "bundle": "cos0186_body_02",
+          "id": "99/0192"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0186_head_03",
+          "id": "0192/a05"
+        },
+        "body": {
+          "bundle": "cos0186_body_03",
+          "id": "99/0192"
+        }
+      }
+    }
+  },
+  "cos0187": {
+    "name": "オシャタイガースタイル",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1640930400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0187_head",
+          "id": "0191/a05"
+        },
+        "body": {
+          "bundle": "cos0187_body",
+          "id": "99/0191"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0187_head_01",
+          "id": "0191/a05"
+        },
+        "body": {
+          "bundle": "cos0187_body_01",
+          "id": "99/0191"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0187_head_02",
+          "id": "0191/a05"
+        },
+        "body": {
+          "bundle": "cos0187_body_02",
+          "id": "99/0191"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0187_head_03",
+          "id": "0191/a05"
+        },
+        "body": {
+          "bundle": "cos0187_body_03",
+          "id": "99/0191"
+        }
+      }
+    }
+  },
+  "cos0188": {
+    "name": "cosmic rhythm shooter",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1640962800000,
+    "design": "しろ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0188_head",
+          "id": "0194/a05"
+        },
+        "body": {
+          "bundle": "cos0188_body",
+          "id": "99/0194"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0188_head_01",
+          "id": "0194/a05"
+        },
+        "body": {
+          "bundle": "cos0188_body_01",
+          "id": "99/0194"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0188_head_02",
+          "id": "0194/a05"
+        },
+        "body": {
+          "bundle": "cos0188_body_02",
+          "id": "99/0194"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0188_head_03",
+          "id": "0194/a05"
+        },
+        "body": {
+          "bundle": "cos0188_body_03",
+          "id": "99/0194"
+        }
+      }
+    }
+  },
+  "cos0189": {
+    "name": "planet SEKAI",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1640962800000,
+    "design": "ちり",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0189_head",
+          "id": "0193/a01"
+        },
+        "body": {
+          "bundle": "cos0189_body",
+          "id": "99/0193"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0189_head_01",
+          "id": "0193/a01"
+        },
+        "body": {
+          "bundle": "cos0189_body_01",
+          "id": "99/0193"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0189_head_02",
+          "id": "0193/a01"
+        },
+        "body": {
+          "bundle": "cos0189_body_02",
+          "id": "99/0193"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0189_head_03",
+          "id": "0193/a01"
+        },
+        "body": {
+          "bundle": "cos0189_body_03",
+          "id": "99/0193"
+        }
+      }
+    }
   }
 }
