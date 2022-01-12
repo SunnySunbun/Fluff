@@ -9859,5 +9859,200 @@
         }
       }
     }
+  },
+  "cos0190": {
+    "name": "キャプテン☆ミックスキャンディ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1641967200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0190_head",
+          "id": "0208/a04"
+        },
+        "body": {
+          "bundle": "cos0190_body",
+          "id": "99/0208"
+        },
+        "unique_head": {
+          "bundle": "cos0190_unique_head",
+          "id": "14/0208"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0190_head_01",
+          "id": "0208/a04"
+        },
+        "body": {
+          "bundle": "cos0190_body_01",
+          "id": "99/0208"
+        },
+        "unique_head": {
+          "bundle": "cos0190_unique_head_01",
+          "id": "14/0208a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0190_head_02",
+          "id": "0208/a04"
+        },
+        "body": {
+          "bundle": "cos0190_body_02",
+          "id": "99/0208"
+        },
+        "unique_head": {
+          "bundle": "cos0190_unique_head_02",
+          "id": "14/0208b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0190_head_03",
+          "id": "0208/a04"
+        },
+        "body": {
+          "bundle": "cos0190_body_03",
+          "id": "99/0208"
+        },
+        "unique_head": {
+          "bundle": "cos0190_unique_head_03",
+          "id": "14/0208c"
+        }
+      }
+    }
+  },
+  "cos0191": {
+    "name": "ワッフルアンバサダー",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1641967200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0191_head",
+          "id": "0207/a04"
+        },
+        "body": {
+          "bundle": "cos0191_body",
+          "id": "99/0207"
+        },
+        "unique_head": {
+          "bundle": "cos0191_unique_head",
+          "id": "13/0207"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0191_head_01",
+          "id": "0207/a04"
+        },
+        "body": {
+          "bundle": "cos0191_body_01",
+          "id": "99/0207"
+        },
+        "unique_head": {
+          "bundle": "cos0191_unique_head_01",
+          "id": "13/0207a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0191_head_02",
+          "id": "0207/a04"
+        },
+        "body": {
+          "bundle": "cos0191_body_02",
+          "id": "99/0207"
+        },
+        "unique_head": {
+          "bundle": "cos0191_unique_head_02",
+          "id": "13/0207b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0191_head_03",
+          "id": "0207/a04"
+        },
+        "body": {
+          "bundle": "cos0191_body_03",
+          "id": "99/0207"
+        },
+        "unique_head": {
+          "bundle": "cos0191_unique_head_03",
+          "id": "13/0207c"
+        }
+      }
+    }
+  },
+  "cos0192": {
+    "name": "ベアグミツアーガイド",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1641967200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0192_head",
+          "id": "0206/a03"
+        },
+        "body": {
+          "bundle": "cos0192_body",
+          "id": "99/0206"
+        },
+        "unique_head": {
+          "bundle": "cos0192_unique_head",
+          "id": "25/0206"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0192_head_01",
+          "id": "0206/a03"
+        },
+        "body": {
+          "bundle": "cos0192_body_01",
+          "id": "99/0206"
+        },
+        "unique_head": {
+          "bundle": "cos0192_unique_head_01",
+          "id": "25/0206a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0192_head_02",
+          "id": "0206/a03"
+        },
+        "body": {
+          "bundle": "cos0192_body_02",
+          "id": "99/0206"
+        },
+        "unique_head": {
+          "bundle": "cos0192_unique_head_02",
+          "id": "25/0206b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0192_head_03",
+          "id": "0206/a03"
+        },
+        "body": {
+          "bundle": "cos0192_body_03",
+          "id": "99/0206"
+        },
+        "unique_head": {
+          "bundle": "cos0192_unique_head_03",
+          "id": "25/0206c"
+        }
+      }
+    }
   }
 }
