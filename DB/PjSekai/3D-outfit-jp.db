@@ -10054,5 +10054,200 @@
         }
       }
     }
+  },
+  "cos0193": {
+    "name": "レミニセンス・ゴシック",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1642744800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0193_head",
+          "id": "0209/a04"
+        },
+        "body": {
+          "bundle": "cos0193_body",
+          "id": "99/0209"
+        },
+        "unique_head": {
+          "bundle": "cos0193_unique_head",
+          "id": "17/0209"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0193_head_01",
+          "id": "0209/a04"
+        },
+        "body": {
+          "bundle": "cos0193_body_01",
+          "id": "99/0209"
+        },
+        "unique_head": {
+          "bundle": "cos0193_unique_head_01",
+          "id": "17/0209a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0193_head_02",
+          "id": "0209/a04"
+        },
+        "body": {
+          "bundle": "cos0193_body_02",
+          "id": "99/0209"
+        },
+        "unique_head": {
+          "bundle": "cos0193_unique_head_02",
+          "id": "17/0209b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0193_head_03",
+          "id": "0209/a04"
+        },
+        "body": {
+          "bundle": "cos0193_body_03",
+          "id": "99/0209"
+        },
+        "unique_head": {
+          "bundle": "cos0193_unique_head_03",
+          "id": "17/0209c"
+        }
+      }
+    }
+  },
+  "cos0194": {
+    "name": "ディムライト・ゴシック",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1642744800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0194_head",
+          "id": "0210/a02"
+        },
+        "body": {
+          "bundle": "cos0194_body",
+          "id": "99/0210"
+        },
+        "unique_head": {
+          "bundle": "cos0194_unique_head",
+          "id": "18/0210"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0194_head_01",
+          "id": "0210/a02"
+        },
+        "body": {
+          "bundle": "cos0194_body_01",
+          "id": "99/0210"
+        },
+        "unique_head": {
+          "bundle": "cos0194_unique_head_01",
+          "id": "18/0210a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0194_head_02",
+          "id": "0210/a02"
+        },
+        "body": {
+          "bundle": "cos0194_body_02",
+          "id": "99/0210"
+        },
+        "unique_head": {
+          "bundle": "cos0194_unique_head_02",
+          "id": "18/0210b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0194_head_03",
+          "id": "0210/a02"
+        },
+        "body": {
+          "bundle": "cos0194_body_03",
+          "id": "99/0210"
+        },
+        "unique_head": {
+          "bundle": "cos0194_unique_head_03",
+          "id": "18/0210c"
+        }
+      }
+    }
+  },
+  "cos0195": {
+    "name": "ノットロスト・ゴシック",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1642744800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0195_head",
+          "id": "0211/a03"
+        },
+        "body": {
+          "bundle": "cos0195_body",
+          "id": "99/0211"
+        },
+        "unique_head": {
+          "bundle": "cos0195_unique_head",
+          "id": "20/0211"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0195_head_01",
+          "id": "0211/a03"
+        },
+        "body": {
+          "bundle": "cos0195_body_01",
+          "id": "99/0211"
+        },
+        "unique_head": {
+          "bundle": "cos0195_unique_head_01",
+          "id": "20/0211a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0195_head_02",
+          "id": "0211/a03"
+        },
+        "body": {
+          "bundle": "cos0195_body_02",
+          "id": "99/0211"
+        },
+        "unique_head": {
+          "bundle": "cos0195_unique_head_02",
+          "id": "20/0211b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0195_head_03",
+          "id": "0211/a03"
+        },
+        "body": {
+          "bundle": "cos0195_body_03",
+          "id": "99/0211"
+        },
+        "unique_head": {
+          "bundle": "cos0195_unique_head_03",
+          "id": "20/0211c"
+        }
+      }
+    }
   }
 }
