@@ -10249,5 +10249,604 @@
         }
       }
     }
+  },
+  "cos0196": {
+    "name": "スイートハート・レディ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1643608800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0196_head",
+          "id": "0213/a04"
+        },
+        "body": {
+          "bundle": "cos0196_body",
+          "id": "99/0213"
+        },
+        "unique_head": {
+          "bundle": "cos0196_unique_head",
+          "id": "07/0213"
+        },
+        "unique_hair": {
+          "bundle": "cos0196_unique_hair",
+          "id": "07/0213n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0196_head_01",
+          "id": "0213/a04"
+        },
+        "body": {
+          "bundle": "cos0196_body_01",
+          "id": "99/0213"
+        },
+        "unique_head": {
+          "bundle": "cos0196_unique_head_01",
+          "id": "07/0213a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0196_head_02",
+          "id": "0213/a04"
+        },
+        "body": {
+          "bundle": "cos0196_body_02",
+          "id": "99/0213"
+        },
+        "unique_head": {
+          "bundle": "cos0196_unique_head_02",
+          "id": "07/0213b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0196_head_03",
+          "id": "0213/a04"
+        },
+        "body": {
+          "bundle": "cos0196_body_03",
+          "id": "99/0213"
+        },
+        "unique_head": {
+          "bundle": "cos0196_unique_head_03",
+          "id": "07/0213c"
+        }
+      }
+    }
+  },
+  "cos0197": {
+    "name": "カフェモカ・ドーター",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1643608800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0197_head",
+          "id": "0212/a02"
+        },
+        "body": {
+          "bundle": "cos0197_body",
+          "id": "99/0212"
+        },
+        "unique_head": {
+          "bundle": "cos0197_unique_head",
+          "id": "02/0212"
+        },
+        "unique_hair": {
+          "bundle": "cos0197_unique_hair",
+          "id": "02/0212n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0197_head_01",
+          "id": "0212/a02"
+        },
+        "body": {
+          "bundle": "cos0197_body_01",
+          "id": "99/0212"
+        },
+        "unique_head": {
+          "bundle": "cos0197_unique_head_01",
+          "id": "02/0212a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0197_head_02",
+          "id": "0212/a02"
+        },
+        "body": {
+          "bundle": "cos0197_body_02",
+          "id": "99/0212"
+        },
+        "unique_head": {
+          "bundle": "cos0197_unique_head_02",
+          "id": "02/0212b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0197_head_03",
+          "id": "0212/a02"
+        },
+        "body": {
+          "bundle": "cos0197_body_03",
+          "id": "99/0212"
+        },
+        "unique_head": {
+          "bundle": "cos0197_unique_head_03",
+          "id": "02/0212c"
+        }
+      }
+    }
+  },
+  "cos0198": {
+    "name": "キューティリボン・ガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1643608800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0198_head",
+          "id": "0214/a04"
+        },
+        "body": {
+          "bundle": "cos0198_body",
+          "id": "99/0214"
+        },
+        "unique_head": {
+          "bundle": "cos0198_unique_head",
+          "id": "14/0214"
+        },
+        "unique_hair": {
+          "bundle": "cos0198_unique_hair",
+          "id": "14/0214n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0198_head_01",
+          "id": "0214/a04"
+        },
+        "body": {
+          "bundle": "cos0198_body_01",
+          "id": "99/0214"
+        },
+        "unique_head": {
+          "bundle": "cos0198_unique_head_01",
+          "id": "14/0214a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0198_head_02",
+          "id": "0214/a04"
+        },
+        "body": {
+          "bundle": "cos0198_body_02",
+          "id": "99/0214"
+        },
+        "unique_head": {
+          "bundle": "cos0198_unique_head_02",
+          "id": "14/0214b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0198_head_03",
+          "id": "0214/a04"
+        },
+        "body": {
+          "bundle": "cos0198_body_03",
+          "id": "99/0214"
+        },
+        "unique_head": {
+          "bundle": "cos0198_unique_head_03",
+          "id": "14/0214c"
+        }
+      }
+    }
+  },
+  "cos0199": {
+    "name": "ハンドメイド・アップル",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1643641200000,
+    "design": "なすび",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0199_head",
+          "id": "0216/a05"
+        },
+        "body": {
+          "bundle": "cos0199_body",
+          "id": "99/0216"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0199_head_01",
+          "id": "0216/a05"
+        },
+        "body": {
+          "bundle": "cos0199_body_01",
+          "id": "99/0216"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0199_head_02",
+          "id": "0216/a05"
+        },
+        "body": {
+          "bundle": "cos0199_body_02",
+          "id": "99/0216"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0199_head_03",
+          "id": "0216/a05"
+        },
+        "body": {
+          "bundle": "cos0199_body_03",
+          "id": "99/0216"
+        }
+      }
+    }
+  },
+  "cos0200": {
+    "name": "はちみつレモレモン",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1643641200000,
+    "design": "オム",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0200_head",
+          "id": "0215/a05"
+        },
+        "body": {
+          "bundle": "cos0200_body",
+          "id": "99/0215"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0200_head_01",
+          "id": "0215/a05"
+        },
+        "body": {
+          "bundle": "cos0200_body_01",
+          "id": "99/0215"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0200_head_02",
+          "id": "0215/a05"
+        },
+        "body": {
+          "bundle": "cos0200_body_02",
+          "id": "99/0215"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0200_head_03",
+          "id": "0215/a05"
+        },
+        "body": {
+          "bundle": "cos0200_body_03",
+          "id": "99/0215"
+        }
+      }
+    }
+  },
+  "cos0201": {
+    "name": "SNOW MIKU 2022（初音ミク）",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0201_head",
+          "id": "0200/a05"
+        },
+        "body": {
+          "bundle": "cos0201_body",
+          "id": "99/0200"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0201_head_01",
+          "id": "0200/a05"
+        },
+        "body": {
+          "bundle": "cos0201_body_01",
+          "id": "99/0200"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0201_head_02",
+          "id": "0200/a05"
+        },
+        "body": {
+          "bundle": "cos0201_body_02",
+          "id": "99/0200"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0201_head_03",
+          "id": "0200/a05"
+        },
+        "body": {
+          "bundle": "cos0201_body_03",
+          "id": "99/0200"
+        }
+      }
+    }
+  },
+  "cos0202": {
+    "name": "SNOW MIKU 2022（鏡音リン）",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0202_head",
+          "id": "0201/a04"
+        },
+        "body": {
+          "bundle": "cos0202_body",
+          "id": "99/0201"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0202_head_01",
+          "id": "0201/a04"
+        },
+        "body": {
+          "bundle": "cos0202_body_01",
+          "id": "99/0201"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0202_head_02",
+          "id": "0201/a04"
+        },
+        "body": {
+          "bundle": "cos0202_body_02",
+          "id": "99/0201"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0202_head_03",
+          "id": "0201/a04"
+        },
+        "body": {
+          "bundle": "cos0202_body_03",
+          "id": "99/0201"
+        }
+      }
+    }
+  },
+  "cos0203": {
+    "name": "SNOW MIKU 2022（鏡音レン）",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0203_head",
+          "id": "0202/a04"
+        },
+        "body": {
+          "bundle": "cos0203_body",
+          "id": "99/0202"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0203_head_01",
+          "id": "0202/a04"
+        },
+        "body": {
+          "bundle": "cos0203_body_01",
+          "id": "99/0202"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0203_head_02",
+          "id": "0202/a04"
+        },
+        "body": {
+          "bundle": "cos0203_body_02",
+          "id": "99/0202"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0203_head_03",
+          "id": "0202/a04"
+        },
+        "body": {
+          "bundle": "cos0203_body_03",
+          "id": "99/0202"
+        }
+      }
+    }
+  },
+  "cos0204": {
+    "name": "SNOW MIKU 2022（巡音ルカ）",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0204_head",
+          "id": "0203/a05"
+        },
+        "body": {
+          "bundle": "cos0204_body",
+          "id": "99/0203"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0204_head_01",
+          "id": "0203/a05"
+        },
+        "body": {
+          "bundle": "cos0204_body_01",
+          "id": "99/0203"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0204_head_02",
+          "id": "0203/a05"
+        },
+        "body": {
+          "bundle": "cos0204_body_02",
+          "id": "99/0203"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0204_head_03",
+          "id": "0203/a05"
+        },
+        "body": {
+          "bundle": "cos0204_body_03",
+          "id": "99/0203"
+        }
+      }
+    }
+  },
+  "cos0205": {
+    "name": "SNOW MIKU 2022（MEIKO）",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0205_head",
+          "id": "0204/a05"
+        },
+        "body": {
+          "bundle": "cos0205_body",
+          "id": "99/0204"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0205_head_01",
+          "id": "0204/a05"
+        },
+        "body": {
+          "bundle": "cos0205_body_01",
+          "id": "99/0204"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0205_head_02",
+          "id": "0204/a05"
+        },
+        "body": {
+          "bundle": "cos0205_body_02",
+          "id": "99/0204"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0205_head_03",
+          "id": "0204/a05"
+        },
+        "body": {
+          "bundle": "cos0205_body_03",
+          "id": "99/0204"
+        }
+      }
+    }
+  },
+  "cos0206": {
+    "name": "SNOW MIKU 2022（KAITO）",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1644040800000,
+    "design": "でつ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0206_head",
+          "id": "0205/a05"
+        },
+        "body": {
+          "bundle": "cos0206_body",
+          "id": "99/0205"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0206_head_01",
+          "id": "0205/a05"
+        },
+        "body": {
+          "bundle": "cos0206_body_01",
+          "id": "99/0205"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0206_head_02",
+          "id": "0205/a05"
+        },
+        "body": {
+          "bundle": "cos0206_body_02",
+          "id": "99/0205"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0206_head_03",
+          "id": "0205/a05"
+        },
+        "body": {
+          "bundle": "cos0206_body_03",
+          "id": "99/0205"
+        }
+      }
+    }
   }
 }
