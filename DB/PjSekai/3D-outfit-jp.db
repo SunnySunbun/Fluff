@@ -10848,5 +10848,200 @@
         }
       }
     }
+  },
+  "cos0207": {
+    "name": "スカイランナー・ジャケット",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1644386400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0207_head",
+          "id": "0218/a03"
+        },
+        "body": {
+          "bundle": "cos0207_body",
+          "id": "99/0218"
+        },
+        "unique_head": {
+          "bundle": "cos0207_unique_head",
+          "id": "09/0218"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0207_head_01",
+          "id": "0218/a03"
+        },
+        "body": {
+          "bundle": "cos0207_body_01",
+          "id": "99/0218"
+        },
+        "unique_head": {
+          "bundle": "cos0207_unique_head_01",
+          "id": "09/0218a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0207_head_02",
+          "id": "0218/a03"
+        },
+        "body": {
+          "bundle": "cos0207_body_02",
+          "id": "99/0218"
+        },
+        "unique_head": {
+          "bundle": "cos0207_unique_head_02",
+          "id": "09/0218b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0207_head_03",
+          "id": "0218/a03"
+        },
+        "body": {
+          "bundle": "cos0207_body_03",
+          "id": "99/0218"
+        },
+        "unique_head": {
+          "bundle": "cos0207_unique_head_03",
+          "id": "09/0218c"
+        }
+      }
+    }
+  },
+  "cos0208": {
+    "name": "ドリームシーナリー・スタイル",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1644386400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0208_head",
+          "id": "0219/a04"
+        },
+        "body": {
+          "bundle": "cos0208_body",
+          "id": "99/0219"
+        },
+        "unique_head": {
+          "bundle": "cos0208_unique_head",
+          "id": "12/0219"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0208_head_01",
+          "id": "0219/a04"
+        },
+        "body": {
+          "bundle": "cos0208_body_01",
+          "id": "99/0219"
+        },
+        "unique_head": {
+          "bundle": "cos0208_unique_head_01",
+          "id": "12/0219a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0208_head_02",
+          "id": "0219/a04"
+        },
+        "body": {
+          "bundle": "cos0208_body_02",
+          "id": "99/0219"
+        },
+        "unique_head": {
+          "bundle": "cos0208_unique_head_02",
+          "id": "12/0219b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0208_head_03",
+          "id": "0219/a04"
+        },
+        "body": {
+          "bundle": "cos0208_body_03",
+          "id": "99/0219"
+        },
+        "unique_head": {
+          "bundle": "cos0208_unique_head_03",
+          "id": "12/0219c"
+        }
+      }
+    }
+  },
+  "cos0209": {
+    "name": "ブルーミースカイ・パーカー",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1644386400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0209_head",
+          "id": "0217/a03"
+        },
+        "body": {
+          "bundle": "cos0209_body",
+          "id": "99/0217"
+        },
+        "unique_head": {
+          "bundle": "cos0209_unique_head",
+          "id": "23/0217"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0209_head_01",
+          "id": "0217/a03"
+        },
+        "body": {
+          "bundle": "cos0209_body_01",
+          "id": "99/0217"
+        },
+        "unique_head": {
+          "bundle": "cos0209_unique_head_01",
+          "id": "23/0217a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0209_head_02",
+          "id": "0217/a03"
+        },
+        "body": {
+          "bundle": "cos0209_body_02",
+          "id": "99/0217"
+        },
+        "unique_head": {
+          "bundle": "cos0209_unique_head_02",
+          "id": "23/0217b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0209_head_03",
+          "id": "0217/a03"
+        },
+        "body": {
+          "bundle": "cos0209_body_03",
+          "id": "99/0217"
+        },
+        "unique_head": {
+          "bundle": "cos0209_unique_head_03",
+          "id": "23/0217c"
+        }
+      }
+    }
   }
 }
