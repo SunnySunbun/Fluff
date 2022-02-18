@@ -11043,5 +11043,172 @@
         }
       }
     }
+  },
+  "cos0210": {
+    "name": "ライダーオンザロード",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1645164000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0210_head",
+          "id": "0222/a04"
+        },
+        "body": {
+          "bundle": "cos0210_body",
+          "id": "99/0222"
+        },
+        "unique_head": {
+          "bundle": "cos0210_unique_head",
+          "id": "04/0222"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0210_head_01",
+          "id": "0222/a04"
+        },
+        "body": {
+          "bundle": "cos0210_body_01",
+          "id": "99/0222"
+        },
+        "unique_head": {
+          "bundle": "cos0210_unique_head_01",
+          "id": "04/0222a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0210_head_02",
+          "id": "0222/a04"
+        },
+        "body": {
+          "bundle": "cos0210_body_02",
+          "id": "99/0222"
+        },
+        "unique_head": {
+          "bundle": "cos0210_unique_head_02",
+          "id": "04/0222b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0210_head_03",
+          "id": "0222/a04"
+        },
+        "body": {
+          "bundle": "cos0210_body_03",
+          "id": "99/0222"
+        },
+        "unique_head": {
+          "bundle": "cos0210_unique_head_03",
+          "id": "04/0222c"
+        }
+      }
+    }
+  },
+  "cos0211": {
+    "name": "ハードロックライダース",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1645164000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0211_unique_head",
+          "id": "01/0221"
+        },
+        "body": {
+          "bundle": "cos0211_body",
+          "id": "99/0221"
+        },
+        "head": {
+          "bundle": "cos0211_head",
+          "id": "0221/a04"
+        }
+      },
+      "アナザー1": {
+        "body": {
+          "bundle": "cos0211_body_01",
+          "id": "99/0221"
+        },
+        "head": {
+          "bundle": "cos0211_head_01",
+          "id": "0221/a04"
+        }
+      },
+      "アナザー2": {
+        "body": {
+          "bundle": "cos0211_body_02",
+          "id": "99/0221"
+        },
+        "head": {
+          "bundle": "cos0211_head_02",
+          "id": "0221/a04"
+        }
+      },
+      "アナザー3": {
+        "body": {
+          "bundle": "cos0211_body_03",
+          "id": "99/0221"
+        },
+        "head": {
+          "bundle": "cos0211_head_03",
+          "id": "0221/a04"
+        }
+      }
+    }
+  },
+  "cos0212": {
+    "name": "ロングトリップライダース",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1645164000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0212_head",
+          "id": "0220/a04"
+        },
+        "body": {
+          "bundle": "cos0212_body",
+          "id": "99/0220"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0212_head_01",
+          "id": "0220/a04"
+        },
+        "body": {
+          "bundle": "cos0212_body_01",
+          "id": "99/0220"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0212_head_02",
+          "id": "0220/a04"
+        },
+        "body": {
+          "bundle": "cos0212_body_02",
+          "id": "99/0220"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0212_head_03",
+          "id": "0220/a04"
+        },
+        "body": {
+          "bundle": "cos0212_body_03",
+          "id": "99/0220"
+        }
+      }
+    }
   }
 }
