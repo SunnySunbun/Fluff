@@ -11210,5 +11210,294 @@
         }
       }
     }
+  },
+  "cos0213": {
+    "name": "シヴァルラス・シュヴァリエ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1646028000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0213_head",
+          "id": "0225/a04"
+        },
+        "body": {
+          "bundle": "cos0213_body",
+          "id": "99/0225"
+        },
+        "unique_hair": {
+          "bundle": "cos0213_unique_hair",
+          "id": "13/0225n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0213_head_01",
+          "id": "0225/a04"
+        },
+        "body": {
+          "bundle": "cos0213_body_01",
+          "id": "99/0225"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0213_head_02",
+          "id": "0225/a04"
+        },
+        "body": {
+          "bundle": "cos0213_body_02",
+          "id": "99/0225"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0213_head_03",
+          "id": "0225/a04"
+        },
+        "body": {
+          "bundle": "cos0213_body_03",
+          "id": "99/0225"
+        }
+      }
+    }
+  },
+  "cos0214": {
+    "name": "ノウブル・パラディン",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1646028000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0214_unique_head",
+          "id": "11/0226"
+        },
+        "body": {
+          "bundle": "cos0214_body",
+          "id": "99/0226"
+        },
+        "head": {
+          "bundle": "cos0214_head",
+          "id": "0226/a05"
+        },
+        "unique_hair": {
+          "bundle": "cos0214_unique_hair",
+          "id": "11/0226n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0214_unique_head_01",
+          "id": "11/0226a"
+        },
+        "body": {
+          "bundle": "cos0214_body_01",
+          "id": "99/0226"
+        },
+        "head": {
+          "bundle": "cos0214_head_01",
+          "id": "0226/a05"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0214_unique_head_02",
+          "id": "11/0226b"
+        },
+        "body": {
+          "bundle": "cos0214_body_02",
+          "id": "99/0226"
+        },
+        "head": {
+          "bundle": "cos0214_head_02",
+          "id": "0226/a05"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0214_unique_head_03",
+          "id": "11/0226c"
+        },
+        "body": {
+          "bundle": "cos0214_body_03",
+          "id": "99/0226"
+        },
+        "head": {
+          "bundle": "cos0214_head_03",
+          "id": "0226/a05"
+        }
+      }
+    }
+  },
+  "cos0215": {
+    "name": "オプタティオ・エクエス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1646028000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0215_head",
+          "id": "0227/a04"
+        },
+        "body": {
+          "bundle": "cos0215_body",
+          "id": "99/0227"
+        },
+        "unique_head": {
+          "bundle": "cos0215_unique_head",
+          "id": "20/0227"
+        },
+        "unique_hair": {
+          "bundle": "cos0215_unique_hair",
+          "id": "20/0227n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0215_head_01",
+          "id": "0227/a04"
+        },
+        "body": {
+          "bundle": "cos0215_body_01",
+          "id": "99/0227"
+        },
+        "unique_head": {
+          "bundle": "cos0215_unique_head_01",
+          "id": "20/0227a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0215_head_02",
+          "id": "0227/a04"
+        },
+        "body": {
+          "bundle": "cos0215_body_02",
+          "id": "99/0227"
+        },
+        "unique_head": {
+          "bundle": "cos0215_unique_head_02",
+          "id": "20/0227b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0215_head_03",
+          "id": "0227/a04"
+        },
+        "body": {
+          "bundle": "cos0215_body_03",
+          "id": "99/0227"
+        },
+        "unique_head": {
+          "bundle": "cos0215_unique_head_03",
+          "id": "20/0227c"
+        }
+      }
+    }
+  },
+  "cos0216": {
+    "name": "Petit Printemps",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1646060400000,
+    "design": "増殖型うどん屋",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0216_head",
+          "id": "0224/a05"
+        },
+        "body": {
+          "bundle": "cos0216_body",
+          "id": "99/0224"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0216_head_01",
+          "id": "0224/a05"
+        },
+        "body": {
+          "bundle": "cos0216_body_01",
+          "id": "99/0224"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0216_head_02",
+          "id": "0224/a05"
+        },
+        "body": {
+          "bundle": "cos0216_body_02",
+          "id": "99/0224"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0216_head_03",
+          "id": "0224/a05"
+        },
+        "body": {
+          "bundle": "cos0216_body_03",
+          "id": "99/0224"
+        }
+      }
+    }
+  },
+  "cos0217": {
+    "name": "Devil move heart",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1646060400000,
+    "design": "ライカ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0217_head",
+          "id": "0223/a05"
+        },
+        "body": {
+          "bundle": "cos0217_body",
+          "id": "99/0223"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0217_head_01",
+          "id": "0223/a05"
+        },
+        "body": {
+          "bundle": "cos0217_body_01",
+          "id": "99/0223"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0217_head_02",
+          "id": "0223/a05"
+        },
+        "body": {
+          "bundle": "cos0217_body_02",
+          "id": "99/0223"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0217_head_03",
+          "id": "0223/a05"
+        },
+        "body": {
+          "bundle": "cos0217_body_03",
+          "id": "99/0223"
+        }
+      }
+    }
   }
 }
