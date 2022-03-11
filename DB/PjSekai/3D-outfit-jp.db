@@ -11499,5 +11499,200 @@
         }
       }
     }
+  },
+  "cos0218": {
+    "name": "マジカルテイラー・ウィッチ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1646978400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0218_head",
+          "id": "0230/a03"
+        },
+        "body": {
+          "bundle": "cos0218_body",
+          "id": "99/0230"
+        },
+        "unique_head": {
+          "bundle": "cos0218_unique_head",
+          "id": "08/0230"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0218_head_01",
+          "id": "0230/a03"
+        },
+        "body": {
+          "bundle": "cos0218_body_01",
+          "id": "99/0230"
+        },
+        "unique_head": {
+          "bundle": "cos0218_unique_head_01",
+          "id": "08/0230a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0218_head_02",
+          "id": "0230/a03"
+        },
+        "body": {
+          "bundle": "cos0218_body_02",
+          "id": "99/0230"
+        },
+        "unique_head": {
+          "bundle": "cos0218_unique_head_02",
+          "id": "08/0230b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0218_head_03",
+          "id": "0230/a03"
+        },
+        "body": {
+          "bundle": "cos0218_body_03",
+          "id": "99/0230"
+        },
+        "unique_head": {
+          "bundle": "cos0218_unique_head_03",
+          "id": "08/0230c"
+        }
+      }
+    }
+  },
+  "cos0219": {
+    "name": "プリティーキャット・ウィッチ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1646978400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0219_head",
+          "id": "0229/a02"
+        },
+        "body": {
+          "bundle": "cos0219_body",
+          "id": "99/0229"
+        },
+        "unique_head": {
+          "bundle": "cos0219_unique_head",
+          "id": "05/0229"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0219_head_01",
+          "id": "0229/a02"
+        },
+        "body": {
+          "bundle": "cos0219_body_01",
+          "id": "99/0229"
+        },
+        "unique_head": {
+          "bundle": "cos0219_unique_head_01",
+          "id": "05/0229a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0219_head_02",
+          "id": "0229/a02"
+        },
+        "body": {
+          "bundle": "cos0219_body_02",
+          "id": "99/0229"
+        },
+        "unique_head": {
+          "bundle": "cos0219_unique_head_02",
+          "id": "05/0229b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0219_head_03",
+          "id": "0229/a02"
+        },
+        "body": {
+          "bundle": "cos0219_body_03",
+          "id": "99/0229"
+        },
+        "unique_head": {
+          "bundle": "cos0219_unique_head_03",
+          "id": "05/0229c"
+        }
+      }
+    }
+  },
+  "cos0220": {
+    "name": "モアフォーチュン・ウィッチ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1646978400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0220_head",
+          "id": "0228/a04"
+        },
+        "body": {
+          "bundle": "cos0220_body",
+          "id": "99/0228"
+        },
+        "unique_head": {
+          "bundle": "cos0220_unique_head",
+          "id": "28/0228"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0220_head_01",
+          "id": "0228/a04"
+        },
+        "body": {
+          "bundle": "cos0220_body_01",
+          "id": "99/0228"
+        },
+        "unique_head": {
+          "bundle": "cos0220_unique_head_01",
+          "id": "28/0228a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0220_head_02",
+          "id": "0228/a04"
+        },
+        "body": {
+          "bundle": "cos0220_body_02",
+          "id": "99/0228"
+        },
+        "unique_head": {
+          "bundle": "cos0220_unique_head_02",
+          "id": "28/0228b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0220_head_03",
+          "id": "0228/a04"
+        },
+        "body": {
+          "bundle": "cos0220_body_03",
+          "id": "99/0228"
+        },
+        "unique_head": {
+          "bundle": "cos0220_unique_head_03",
+          "id": "28/0228c"
+        }
+      }
+    }
   }
 }
