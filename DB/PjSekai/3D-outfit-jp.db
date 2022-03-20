@@ -11694,5 +11694,298 @@
         }
       }
     }
+  },
+  "cos0221": {
+    "name": "Sonic Style(レディース)",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1647577800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0221_head",
+          "id": "0173/a05"
+        },
+        "body": {
+          "bundle": "cos0221_body",
+          "id": "99/0173"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0221_head_01",
+          "id": "0173/a05"
+        },
+        "body": {
+          "bundle": "cos0221_body_01",
+          "id": "99/0173"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0221_head_02",
+          "id": "0173/a05"
+        },
+        "body": {
+          "bundle": "cos0221_body_02",
+          "id": "99/0173"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0221_head_03",
+          "id": "0173/a05"
+        },
+        "body": {
+          "bundle": "cos0221_body_03",
+          "id": "99/0173"
+        }
+      }
+    }
+  },
+  "cos0222": {
+    "name": "Sonic Style(メンズ)",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1647577800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0222_head",
+          "id": "0172/a05"
+        },
+        "body": {
+          "bundle": "cos0222_body",
+          "id": "99/0172"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0222_head_01",
+          "id": "0172/a05"
+        },
+        "body": {
+          "bundle": "cos0222_body_01",
+          "id": "99/0172"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0222_head_02",
+          "id": "0172/a05"
+        },
+        "body": {
+          "bundle": "cos0222_body_02",
+          "id": "99/0172"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0222_head_03",
+          "id": "0172/a05"
+        },
+        "body": {
+          "bundle": "cos0222_body_03",
+          "id": "99/0172"
+        }
+      }
+    }
+  },
+  "cos0223": {
+    "name": "パンチュールクロス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1647756000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0223_head",
+          "id": "0241/a03"
+        },
+        "body": {
+          "bundle": "cos0223_body",
+          "id": "99/0241"
+        },
+        "unique_head": {
+          "bundle": "cos0223_unique_head",
+          "id": "19/0241"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0223_head_01",
+          "id": "0241/a03"
+        },
+        "body": {
+          "bundle": "cos0223_body_01",
+          "id": "99/0241"
+        },
+        "unique_head": {
+          "bundle": "cos0223_unique_head_01",
+          "id": "19/0241a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0223_head_02",
+          "id": "0241/a03"
+        },
+        "body": {
+          "bundle": "cos0223_body_02",
+          "id": "99/0241"
+        },
+        "unique_head": {
+          "bundle": "cos0223_unique_head_02",
+          "id": "19/0241b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0223_head_03",
+          "id": "0241/a03"
+        },
+        "body": {
+          "bundle": "cos0223_body_03",
+          "id": "99/0241"
+        },
+        "unique_head": {
+          "bundle": "cos0223_unique_head_03",
+          "id": "19/0241c"
+        }
+      }
+    }
+  },
+  "cos0224": {
+    "name": "ポーエトリークロス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1647756000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0224_head",
+          "id": "0240/a03"
+        },
+        "body": {
+          "bundle": "cos0224_body",
+          "id": "99/0240"
+        },
+        "unique_head": {
+          "bundle": "cos0224_unique_head",
+          "id": "17/0240"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0224_head_01",
+          "id": "0240/a03"
+        },
+        "body": {
+          "bundle": "cos0224_body_01",
+          "id": "99/0240"
+        },
+        "unique_head": {
+          "bundle": "cos0224_unique_head_01",
+          "id": "17/0240a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0224_head_02",
+          "id": "0240/a03"
+        },
+        "body": {
+          "bundle": "cos0224_body_02",
+          "id": "99/0240"
+        },
+        "unique_head": {
+          "bundle": "cos0224_unique_head_02",
+          "id": "17/0240b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0224_head_03",
+          "id": "0240/a03"
+        },
+        "body": {
+          "bundle": "cos0224_body_03",
+          "id": "99/0240"
+        },
+        "unique_head": {
+          "bundle": "cos0224_unique_head_03",
+          "id": "17/0240c"
+        }
+      }
+    }
+  },
+  "cos0225": {
+    "name": "パストラルクロス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1647756000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0225_head",
+          "id": "0239/a03"
+        },
+        "body": {
+          "bundle": "cos0225_body",
+          "id": "99/0239"
+        },
+        "unique_head": {
+          "bundle": "cos0225_unique_head",
+          "id": "22/0239"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0225_head_01",
+          "id": "0239/a03"
+        },
+        "body": {
+          "bundle": "cos0225_body_01",
+          "id": "99/0239"
+        },
+        "unique_head": {
+          "bundle": "cos0225_unique_head_01",
+          "id": "22/0239a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0225_head_02",
+          "id": "0239/a03"
+        },
+        "body": {
+          "bundle": "cos0225_body_02",
+          "id": "99/0239"
+        },
+        "unique_head": {
+          "bundle": "cos0225_unique_head_02",
+          "id": "22/0239b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0225_head_03",
+          "id": "0239/a03"
+        },
+        "body": {
+          "bundle": "cos0225_body_03",
+          "id": "99/0239"
+        },
+        "unique_head": {
+          "bundle": "cos0225_unique_head_03",
+          "id": "22/0239c"
+        }
+      }
+    }
   }
 }
