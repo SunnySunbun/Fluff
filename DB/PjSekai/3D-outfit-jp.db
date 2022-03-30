@@ -11987,5 +11987,599 @@
         }
       }
     }
+  },
+  "cos0226": {
+    "name": "想いのリアンモルソードレス",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1648620000000,
+    "design": "Mika Pikazo",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0226_head",
+          "id": "0243/a02"
+        },
+        "body": {
+          "bundle": "cos0226_body",
+          "id": "99/0243"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0226_head_01",
+          "id": "0243/a02"
+        },
+        "body": {
+          "bundle": "cos0226_body_01",
+          "id": "99/0243"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0226_head_02",
+          "id": "0243/a02"
+        },
+        "body": {
+          "bundle": "cos0226_body_02",
+          "id": "99/0243"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0226_head_03",
+          "id": "0243/a02"
+        },
+        "body": {
+          "bundle": "cos0226_body_03",
+          "id": "99/0243"
+        }
+      }
+    }
+  },
+  "cos0227": {
+    "name": "想いのオーバーレイテール",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1648620000000,
+    "design": "Mika Pikazo",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0227_head",
+          "id": "0242/a05"
+        },
+        "body": {
+          "bundle": "cos0227_body",
+          "id": "99/0242"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0227_head_01",
+          "id": "0242/a05"
+        },
+        "body": {
+          "bundle": "cos0227_body_01",
+          "id": "99/0242"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0227_head_02",
+          "id": "0242/a05"
+        },
+        "body": {
+          "bundle": "cos0227_body_02",
+          "id": "99/0242"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0227_head_03",
+          "id": "0242/a05"
+        },
+        "body": {
+          "bundle": "cos0227_body_03",
+          "id": "99/0242"
+        }
+      }
+    }
+  },
+  "cos0228": {
+    "name": "ラブリービビッドデビル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0228_head",
+          "id": "0235/a03"
+        },
+        "body": {
+          "bundle": "cos0228_body",
+          "id": "99/0235"
+        },
+        "unique_head": {
+          "bundle": "cos0228_unique_head",
+          "id": "10/0235"
+        },
+        "unique_hair": {
+          "bundle": "cos0228_unique_hair",
+          "id": "10/0235n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0228_head_01",
+          "id": "0235/a03"
+        },
+        "body": {
+          "bundle": "cos0228_body_01",
+          "id": "99/0235"
+        },
+        "unique_head": {
+          "bundle": "cos0228_unique_head_01",
+          "id": "10/0235a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0228_head_02",
+          "id": "0235/a03"
+        },
+        "body": {
+          "bundle": "cos0228_body_02",
+          "id": "99/0235"
+        },
+        "unique_head": {
+          "bundle": "cos0228_unique_head_02",
+          "id": "10/0235b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0228_head_03",
+          "id": "0235/a03"
+        },
+        "body": {
+          "bundle": "cos0228_body_03",
+          "id": "99/0235"
+        },
+        "unique_head": {
+          "bundle": "cos0228_unique_head_03",
+          "id": "10/0235c"
+        }
+      }
+    }
+  },
+  "cos0229": {
+    "name": "ノーティス・ブレイシーズ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0229_head",
+          "id": "0236/a04"
+        },
+        "body": {
+          "bundle": "cos0229_body",
+          "id": "99/0236"
+        },
+        "unique_hair": {
+          "bundle": "cos0229_unique_hair",
+          "id": "12/0236n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0229_head_01",
+          "id": "0236/a04"
+        },
+        "body": {
+          "bundle": "cos0229_body_01",
+          "id": "99/0236"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0229_head_02",
+          "id": "0236/a04"
+        },
+        "body": {
+          "bundle": "cos0229_body_02",
+          "id": "99/0236"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0229_head_03",
+          "id": "0236/a04"
+        },
+        "body": {
+          "bundle": "cos0229_body_03",
+          "id": "99/0236"
+        }
+      }
+    }
+  },
+  "cos0230": {
+    "name": "夜桜ノ纏",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0230_head",
+          "id": "0233/a04"
+        },
+        "body": {
+          "bundle": "cos0230_body",
+          "id": "99/0233"
+        },
+        "unique_head": {
+          "bundle": "cos0230_unique_head",
+          "id": "31/0233"
+        },
+        "unique_hair": {
+          "bundle": "cos0230_unique_hair",
+          "id": "31/0233n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0230_head_01",
+          "id": "0233/a04"
+        },
+        "body": {
+          "bundle": "cos0230_body_01",
+          "id": "99/0233"
+        },
+        "unique_head": {
+          "bundle": "cos0230_unique_head_01",
+          "id": "31/0233a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0230_head_02",
+          "id": "0233/a04"
+        },
+        "body": {
+          "bundle": "cos0230_body_02",
+          "id": "99/0233"
+        },
+        "unique_head": {
+          "bundle": "cos0230_unique_head_02",
+          "id": "31/0233b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0230_head_03",
+          "id": "0233/a04"
+        },
+        "body": {
+          "bundle": "cos0230_body_03",
+          "id": "99/0233"
+        },
+        "unique_head": {
+          "bundle": "cos0230_unique_head_03",
+          "id": "31/0233c"
+        }
+      }
+    }
+  },
+  "cos0231": {
+    "name": "ハルイロ・スカジャン",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0231_head",
+          "id": "0231/a03"
+        },
+        "body": {
+          "bundle": "cos0231_body",
+          "id": "99/0231"
+        },
+        "unique_head": {
+          "bundle": "cos0231_unique_head",
+          "id": "23/0231"
+        },
+        "unique_hair": {
+          "bundle": "cos0231_unique_hair",
+          "id": "23/0231n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0231_head_01",
+          "id": "0231/a03"
+        },
+        "body": {
+          "bundle": "cos0231_body_01",
+          "id": "99/0231"
+        },
+        "unique_head": {
+          "bundle": "cos0231_unique_head_01",
+          "id": "23/0231a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0231_head_02",
+          "id": "0231/a03"
+        },
+        "body": {
+          "bundle": "cos0231_body_02",
+          "id": "99/0231"
+        },
+        "unique_head": {
+          "bundle": "cos0231_unique_head_02",
+          "id": "23/0231b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0231_head_03",
+          "id": "0231/a03"
+        },
+        "body": {
+          "bundle": "cos0231_body_03",
+          "id": "99/0231"
+        },
+        "unique_head": {
+          "bundle": "cos0231_unique_head_03",
+          "id": "23/0231c"
+        }
+      }
+    }
+  },
+  "cos0232": {
+    "name": "サクラ・スチューデント",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0232_head",
+          "id": "0232/a04"
+        },
+        "body": {
+          "bundle": "cos0232_body",
+          "id": "99/0232"
+        },
+        "unique_head": {
+          "bundle": "cos0232_unique_head",
+          "id": "24/0232"
+        },
+        "unique_hair": {
+          "bundle": "cos0232_unique_hair",
+          "id": "24/0232n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0232_head_01",
+          "id": "0232/a04"
+        },
+        "body": {
+          "bundle": "cos0232_body_01",
+          "id": "99/0232"
+        },
+        "unique_head": {
+          "bundle": "cos0232_unique_head_01",
+          "id": "24/0232a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0232_head_02",
+          "id": "0232/a04"
+        },
+        "body": {
+          "bundle": "cos0232_body_02",
+          "id": "99/0232"
+        },
+        "unique_head": {
+          "bundle": "cos0232_unique_head_02",
+          "id": "24/0232b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0232_head_03",
+          "id": "0232/a04"
+        },
+        "body": {
+          "bundle": "cos0232_body_03",
+          "id": "99/0232"
+        },
+        "unique_head": {
+          "bundle": "cos0232_unique_head_03",
+          "id": "24/0232c"
+        }
+      }
+    }
+  },
+  "cos0233": {
+    "name": "華劇装束・桜",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1648620000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0233_head",
+          "id": "0234/a04"
+        },
+        "body": {
+          "bundle": "cos0233_body",
+          "id": "99/0234"
+        },
+        "unique_head": {
+          "bundle": "cos0233_unique_head",
+          "id": "26/0234"
+        },
+        "unique_hair": {
+          "bundle": "cos0233_unique_hair",
+          "id": "26/0234n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0233_head_01",
+          "id": "0234/a04"
+        },
+        "body": {
+          "bundle": "cos0233_body_01",
+          "id": "99/0234"
+        },
+        "unique_head": {
+          "bundle": "cos0233_unique_head_01",
+          "id": "26/0234a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0233_head_02",
+          "id": "0234/a04"
+        },
+        "body": {
+          "bundle": "cos0233_body_02",
+          "id": "99/0234"
+        },
+        "unique_head": {
+          "bundle": "cos0233_unique_head_02",
+          "id": "26/0234b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0233_head_03",
+          "id": "0234/a04"
+        },
+        "body": {
+          "bundle": "cos0233_body_03",
+          "id": "99/0234"
+        },
+        "unique_head": {
+          "bundle": "cos0233_unique_head_03",
+          "id": "26/0234c"
+        }
+      }
+    }
+  },
+  "cos0234": {
+    "name": "イースターマーチングドール",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1648738800000,
+    "design": "きぬみやこ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0234_head",
+          "id": "0238/a05"
+        },
+        "body": {
+          "bundle": "cos0234_body",
+          "id": "99/0238"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0234_head_01",
+          "id": "0238/a05"
+        },
+        "body": {
+          "bundle": "cos0234_body_01",
+          "id": "99/0238"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0234_head_02",
+          "id": "0238/a05"
+        },
+        "body": {
+          "bundle": "cos0234_body_02",
+          "id": "99/0238"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0234_head_03",
+          "id": "0238/a05"
+        },
+        "body": {
+          "bundle": "cos0234_body_03",
+          "id": "99/0238"
+        }
+      }
+    }
+  },
+  "cos0235": {
+    "name": "Eastar・Bunny Boy",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1648738800000,
+    "design": "青鳥パラン",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0235_head",
+          "id": "0237/a05"
+        },
+        "body": {
+          "bundle": "cos0235_body",
+          "id": "99/0237"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0235_head_01",
+          "id": "0237/a05"
+        },
+        "body": {
+          "bundle": "cos0235_body_01",
+          "id": "99/0237"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0235_head_02",
+          "id": "0237/a05"
+        },
+        "body": {
+          "bundle": "cos0235_body_02",
+          "id": "99/0237"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0235_head_03",
+          "id": "0237/a05"
+        },
+        "body": {
+          "bundle": "cos0235_body_03",
+          "id": "99/0237"
+        }
+      }
+    }
   }
 }
