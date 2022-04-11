@@ -12581,5 +12581,200 @@
         }
       }
     }
+  },
+  "cos0236": {
+    "name": "エクラエトワール",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1649646000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0236_head",
+          "id": "0246/a04"
+        },
+        "body": {
+          "bundle": "cos0236_body",
+          "id": "99/0246"
+        },
+        "unique_head": {
+          "bundle": "cos0236_unique_head",
+          "id": "13/0246"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0236_head_01",
+          "id": "0246/a04"
+        },
+        "body": {
+          "bundle": "cos0236_body_01",
+          "id": "99/0246"
+        },
+        "unique_head": {
+          "bundle": "cos0236_unique_head_01",
+          "id": "13/0246a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0236_head_02",
+          "id": "0246/a04"
+        },
+        "body": {
+          "bundle": "cos0236_body_02",
+          "id": "99/0246"
+        },
+        "unique_head": {
+          "bundle": "cos0236_unique_head_02",
+          "id": "13/0246b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0236_head_03",
+          "id": "0246/a04"
+        },
+        "body": {
+          "bundle": "cos0236_body_03",
+          "id": "99/0246"
+        },
+        "unique_head": {
+          "bundle": "cos0236_unique_head_03",
+          "id": "13/0246c"
+        }
+      }
+    }
+  },
+  "cos0237": {
+    "name": "トラッドモードガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1649646000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0237_head",
+          "id": "0247/a04"
+        },
+        "body": {
+          "bundle": "cos0237_body",
+          "id": "99/0247"
+        },
+        "unique_head": {
+          "bundle": "cos0237_unique_head",
+          "id": "15/0247"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0237_head_01",
+          "id": "0247/a04"
+        },
+        "body": {
+          "bundle": "cos0237_body_01",
+          "id": "99/0247"
+        },
+        "unique_head": {
+          "bundle": "cos0237_unique_head_01",
+          "id": "15/0247a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0237_head_02",
+          "id": "0247/a04"
+        },
+        "body": {
+          "bundle": "cos0237_body_02",
+          "id": "99/0247"
+        },
+        "unique_head": {
+          "bundle": "cos0237_unique_head_02",
+          "id": "15/0247b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0237_head_03",
+          "id": "0247/a04"
+        },
+        "body": {
+          "bundle": "cos0237_body_03",
+          "id": "99/0247"
+        },
+        "unique_head": {
+          "bundle": "cos0237_unique_head_03",
+          "id": "15/0247c"
+        }
+      }
+    }
+  },
+  "cos0238": {
+    "name": "クラシカルジェントルコート",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1649646000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0238_head",
+          "id": "0248/a03"
+        },
+        "body": {
+          "bundle": "cos0238_body",
+          "id": "99/0248"
+        },
+        "unique_head": {
+          "bundle": "cos0238_unique_head",
+          "id": "16/0248"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0238_head_01",
+          "id": "0248/a03"
+        },
+        "body": {
+          "bundle": "cos0238_body_01",
+          "id": "99/0248"
+        },
+        "unique_head": {
+          "bundle": "cos0238_unique_head_01",
+          "id": "16/0248a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0238_head_02",
+          "id": "0248/a03"
+        },
+        "body": {
+          "bundle": "cos0238_body_02",
+          "id": "99/0248"
+        },
+        "unique_head": {
+          "bundle": "cos0238_unique_head_02",
+          "id": "16/0248b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0238_head_03",
+          "id": "0248/a03"
+        },
+        "body": {
+          "bundle": "cos0238_body_03",
+          "id": "99/0248"
+        },
+        "unique_head": {
+          "bundle": "cos0238_unique_head_03",
+          "id": "16/0248c"
+        }
+      }
+    }
   }
 }
