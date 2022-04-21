@@ -12776,5 +12776,200 @@
         }
       }
     }
+  },
+  "cos0239": {
+    "name": "エストレッラガード",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1650510000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0239_unique_head",
+          "id": "01/0249"
+        },
+        "body": {
+          "bundle": "cos0239_body",
+          "id": "99/0249"
+        },
+        "head": {
+          "bundle": "cos0239_head",
+          "id": "0249/a04"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0239_unique_head_01",
+          "id": "01/0249a"
+        },
+        "body": {
+          "bundle": "cos0239_body_01",
+          "id": "99/0249"
+        },
+        "head": {
+          "bundle": "cos0239_head_01",
+          "id": "0249/a04"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0239_unique_head_02",
+          "id": "01/0249b"
+        },
+        "body": {
+          "bundle": "cos0239_body_02",
+          "id": "99/0249"
+        },
+        "head": {
+          "bundle": "cos0239_head_02",
+          "id": "0249/a04"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0239_unique_head_03",
+          "id": "01/0249c"
+        },
+        "body": {
+          "bundle": "cos0239_body_03",
+          "id": "99/0249"
+        },
+        "head": {
+          "bundle": "cos0239_head_03",
+          "id": "0249/a04"
+        }
+      }
+    }
+  },
+  "cos0240": {
+    "name": "エストレージャガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1650510000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0240_head",
+          "id": "0250/a04"
+        },
+        "body": {
+          "bundle": "cos0240_body",
+          "id": "99/0250"
+        },
+        "unique_head": {
+          "bundle": "cos0240_unique_head",
+          "id": "02/0250"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0240_head_01",
+          "id": "0250/a04"
+        },
+        "body": {
+          "bundle": "cos0240_body_01",
+          "id": "99/0250"
+        },
+        "unique_head": {
+          "bundle": "cos0240_unique_head_01",
+          "id": "02/0250a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0240_head_02",
+          "id": "0250/a04"
+        },
+        "body": {
+          "bundle": "cos0240_body_02",
+          "id": "99/0250"
+        },
+        "unique_head": {
+          "bundle": "cos0240_unique_head_02",
+          "id": "02/0250b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0240_head_03",
+          "id": "0250/a04"
+        },
+        "body": {
+          "bundle": "cos0240_body_03",
+          "id": "99/0250"
+        },
+        "unique_head": {
+          "bundle": "cos0240_unique_head_03",
+          "id": "02/0250c"
+        }
+      }
+    }
+  },
+  "cos0241": {
+    "name": "シュテルンクルー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1650510000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0241_head",
+          "id": "0251/a04"
+        },
+        "body": {
+          "bundle": "cos0241_body",
+          "id": "99/0251"
+        },
+        "unique_head": {
+          "bundle": "cos0241_unique_head",
+          "id": "03/0251"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0241_head_01",
+          "id": "0251/a04"
+        },
+        "body": {
+          "bundle": "cos0241_body_01",
+          "id": "99/0251"
+        },
+        "unique_head": {
+          "bundle": "cos0241_unique_head_01",
+          "id": "03/0251a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0241_head_02",
+          "id": "0251/a04"
+        },
+        "body": {
+          "bundle": "cos0241_body_02",
+          "id": "99/0251"
+        },
+        "unique_head": {
+          "bundle": "cos0241_unique_head_02",
+          "id": "03/0251b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0241_head_03",
+          "id": "0251/a04"
+        },
+        "body": {
+          "bundle": "cos0241_body_03",
+          "id": "99/0251"
+        },
+        "unique_head": {
+          "bundle": "cos0241_unique_head_03",
+          "id": "03/0251c"
+        }
+      }
+    }
   }
 }
