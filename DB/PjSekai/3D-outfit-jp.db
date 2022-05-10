@@ -13276,5 +13276,200 @@
         }
       }
     }
+  },
+  "cos0247": {
+    "name": "古装参謀衣装",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1652151600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0247_head",
+          "id": "0259/a04"
+        },
+        "body": {
+          "bundle": "cos0247_body",
+          "id": "99/0259"
+        },
+        "unique_head": {
+          "bundle": "cos0247_unique_head",
+          "id": "16/0259"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0247_head_01",
+          "id": "0259/a04"
+        },
+        "body": {
+          "bundle": "cos0247_body_01",
+          "id": "99/0259"
+        },
+        "unique_head": {
+          "bundle": "cos0247_unique_head_01",
+          "id": "16/0259a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0247_head_02",
+          "id": "0259/a04"
+        },
+        "body": {
+          "bundle": "cos0247_body_02",
+          "id": "99/0259"
+        },
+        "unique_head": {
+          "bundle": "cos0247_unique_head_02",
+          "id": "16/0259b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0247_head_03",
+          "id": "0259/a04"
+        },
+        "body": {
+          "bundle": "cos0247_body_03",
+          "id": "99/0259"
+        },
+        "unique_head": {
+          "bundle": "cos0247_unique_head_03",
+          "id": "16/0259c"
+        }
+      }
+    }
+  },
+  "cos0248": {
+    "name": "爛漫娘花衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1652151600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0248_head",
+          "id": "0258/a02"
+        },
+        "body": {
+          "bundle": "cos0248_body",
+          "id": "99/0258"
+        },
+        "unique_head": {
+          "bundle": "cos0248_unique_head",
+          "id": "20/0258"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0248_head_01",
+          "id": "0258/a02"
+        },
+        "body": {
+          "bundle": "cos0248_body_01",
+          "id": "99/0258"
+        },
+        "unique_head": {
+          "bundle": "cos0248_unique_head_01",
+          "id": "20/0258a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0248_head_02",
+          "id": "0258/a02"
+        },
+        "body": {
+          "bundle": "cos0248_body_02",
+          "id": "99/0258"
+        },
+        "unique_head": {
+          "bundle": "cos0248_unique_head_02",
+          "id": "20/0258b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0248_head_03",
+          "id": "0258/a02"
+        },
+        "body": {
+          "bundle": "cos0248_body_03",
+          "id": "99/0258"
+        },
+        "unique_head": {
+          "bundle": "cos0248_unique_head_03",
+          "id": "20/0258c"
+        }
+      }
+    }
+  },
+  "cos0249": {
+    "name": "妖艶姐姐花衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1652151600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0249_head",
+          "id": "0257/a02"
+        },
+        "body": {
+          "bundle": "cos0249_body",
+          "id": "99/0257"
+        },
+        "unique_head": {
+          "bundle": "cos0249_unique_head",
+          "id": "24/0257"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0249_head_01",
+          "id": "0257/a02"
+        },
+        "body": {
+          "bundle": "cos0249_body_01",
+          "id": "99/0257"
+        },
+        "unique_head": {
+          "bundle": "cos0249_unique_head_01",
+          "id": "24/0257a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0249_head_02",
+          "id": "0257/a02"
+        },
+        "body": {
+          "bundle": "cos0249_body_02",
+          "id": "99/0257"
+        },
+        "unique_head": {
+          "bundle": "cos0249_unique_head_02",
+          "id": "24/0257b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0249_head_03",
+          "id": "0257/a02"
+        },
+        "body": {
+          "bundle": "cos0249_body_03",
+          "id": "99/0257"
+        },
+        "unique_head": {
+          "bundle": "cos0249_unique_head_03",
+          "id": "24/0257c"
+        }
+      }
+    }
   }
 }
