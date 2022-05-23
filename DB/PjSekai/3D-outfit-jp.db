@@ -13471,5 +13471,184 @@
         }
       }
     }
+  },
+  "cos0250": {
+    "name": "V.B.S SURVIVOR",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1653015600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0250_unique_head",
+          "id": "11/0279"
+        },
+        "body": {
+          "bundle": "cos0250_body",
+          "id": "99/0279"
+        },
+        "head": {
+          "bundle": "cos0250_head",
+          "id": "0279/a04"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0250_unique_head_01",
+          "id": "11/0279a"
+        },
+        "body": {
+          "bundle": "cos0250_body_01",
+          "id": "99/0279"
+        },
+        "head": {
+          "bundle": "cos0250_head_01",
+          "id": "0279/a04"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0250_unique_head_02",
+          "id": "11/0279b"
+        },
+        "body": {
+          "bundle": "cos0250_body_02",
+          "id": "99/0279"
+        },
+        "head": {
+          "bundle": "cos0250_head_02",
+          "id": "0279/a04"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0250_unique_head_03",
+          "id": "11/0279c"
+        },
+        "body": {
+          "bundle": "cos0250_body_03",
+          "id": "99/0279"
+        },
+        "head": {
+          "bundle": "cos0250_head_03",
+          "id": "0279/a04"
+        }
+      }
+    }
+  },
+  "cos0251": {
+    "name": "ROOKIE SURVIVOR",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1653015600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0251_head",
+          "id": "0278/a04"
+        },
+        "body": {
+          "bundle": "cos0251_body",
+          "id": "99/0278"
+        },
+        "unique_head": {
+          "bundle": "cos0251_unique_head",
+          "id": "09/0278"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0251_head_01",
+          "id": "0278/a04"
+        },
+        "body": {
+          "bundle": "cos0251_body_01",
+          "id": "99/0278"
+        },
+        "unique_head": {
+          "bundle": "cos0251_unique_head_01",
+          "id": "09/0278a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0251_head_02",
+          "id": "0278/a04"
+        },
+        "body": {
+          "bundle": "cos0251_body_02",
+          "id": "99/0278"
+        },
+        "unique_head": {
+          "bundle": "cos0251_unique_head_02",
+          "id": "09/0278b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0251_head_03",
+          "id": "0278/a04"
+        },
+        "body": {
+          "bundle": "cos0251_body_03",
+          "id": "99/0278"
+        },
+        "unique_head": {
+          "bundle": "cos0251_unique_head_03",
+          "id": "09/0278c"
+        }
+      }
+    }
+  },
+  "cos0252": {
+    "name": "COOL SURVIVOR",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1653015600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0252_head",
+          "id": "0277/a02"
+        },
+        "body": {
+          "bundle": "cos0252_body",
+          "id": "99/0277"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0252_head_01",
+          "id": "0277/a02"
+        },
+        "body": {
+          "bundle": "cos0252_body_01",
+          "id": "99/0277"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0252_head_02",
+          "id": "0277/a02"
+        },
+        "body": {
+          "bundle": "cos0252_body_02",
+          "id": "99/0277"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0252_head_03",
+          "id": "0277/a02"
+        },
+        "body": {
+          "bundle": "cos0252_body_03",
+          "id": "99/0277"
+        }
+      }
+    }
   }
 }
