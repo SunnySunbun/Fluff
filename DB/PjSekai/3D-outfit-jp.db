@@ -13650,5 +13650,294 @@
         }
       }
     }
+  },
+  "cos0253": {
+    "name": "ガーネット・ローゼン",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1653966000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0253_head",
+          "id": "0281/a03"
+        },
+        "body": {
+          "bundle": "cos0253_body",
+          "id": "99/0281"
+        },
+        "unique_head": {
+          "bundle": "cos0253_unique_head",
+          "id": "10/0281"
+        },
+        "unique_hair": {
+          "bundle": "cos0253_unique_hair",
+          "id": "10/0281n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0253_head_01",
+          "id": "0281/a03"
+        },
+        "body": {
+          "bundle": "cos0253_body_01",
+          "id": "99/0281"
+        },
+        "unique_head": {
+          "bundle": "cos0253_unique_head_01",
+          "id": "10/0281a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0253_head_02",
+          "id": "0281/a03"
+        },
+        "body": {
+          "bundle": "cos0253_body_02",
+          "id": "99/0281"
+        },
+        "unique_head": {
+          "bundle": "cos0253_unique_head_02",
+          "id": "10/0281b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0253_head_03",
+          "id": "0281/a03"
+        },
+        "body": {
+          "bundle": "cos0253_body_03",
+          "id": "99/0281"
+        },
+        "unique_head": {
+          "bundle": "cos0253_unique_head_03",
+          "id": "10/0281c"
+        }
+      }
+    }
+  },
+  "cos0254": {
+    "name": "リファインドベル・タキシード",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1653966000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0254_head",
+          "id": "0282/a04"
+        },
+        "body": {
+          "bundle": "cos0254_body",
+          "id": "99/0282"
+        },
+        "unique_head": {
+          "bundle": "cos0254_unique_head",
+          "id": "08/0282"
+        },
+        "unique_hair": {
+          "bundle": "cos0254_unique_hair",
+          "id": "08/0282n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0254_head_01",
+          "id": "0282/a04"
+        },
+        "body": {
+          "bundle": "cos0254_body_01",
+          "id": "99/0282"
+        },
+        "unique_head": {
+          "bundle": "cos0254_unique_head_01",
+          "id": "08/0282a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0254_head_02",
+          "id": "0282/a04"
+        },
+        "body": {
+          "bundle": "cos0254_body_02",
+          "id": "99/0282"
+        },
+        "unique_head": {
+          "bundle": "cos0254_unique_head_02",
+          "id": "08/0282b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0254_head_03",
+          "id": "0282/a04"
+        },
+        "body": {
+          "bundle": "cos0254_body_03",
+          "id": "99/0282"
+        },
+        "unique_head": {
+          "bundle": "cos0254_unique_head_03",
+          "id": "08/0282c"
+        }
+      }
+    }
+  },
+  "cos0255": {
+    "name": "レディ・エレガント",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1653966000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0255_head",
+          "id": "0280/a03"
+        },
+        "body": {
+          "bundle": "cos0255_body",
+          "id": "99/0280"
+        },
+        "unique_head": {
+          "bundle": "cos0255_unique_head",
+          "id": "25/0280"
+        },
+        "unique_hair": {
+          "bundle": "cos0255_unique_hair",
+          "id": "25/0280n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0255_head_01",
+          "id": "0280/a03"
+        },
+        "body": {
+          "bundle": "cos0255_body_01",
+          "id": "99/0280"
+        },
+        "unique_head": {
+          "bundle": "cos0255_unique_head_01",
+          "id": "25/0280a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0255_head_02",
+          "id": "0280/a03"
+        },
+        "body": {
+          "bundle": "cos0255_body_02",
+          "id": "99/0280"
+        },
+        "unique_head": {
+          "bundle": "cos0255_unique_head_02",
+          "id": "25/0280b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0255_head_03",
+          "id": "0280/a03"
+        },
+        "body": {
+          "bundle": "cos0255_body_03",
+          "id": "99/0280"
+        },
+        "unique_head": {
+          "bundle": "cos0255_unique_head_03",
+          "id": "25/0280c"
+        }
+      }
+    }
+  },
+  "cos0256": {
+    "name": "キューティースコアラー♥",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1654009200000,
+    "design": "ゐ透",
+    "3d": {
+      "オリジナル": {
+        "body": {
+          "bundle": "cos0256_body",
+          "id": "99/0256"
+        }
+      },
+      "アナザー1": {
+        "body": {
+          "bundle": "cos0256_body_01",
+          "id": "99/0256"
+        }
+      },
+      "アナザー2": {
+        "body": {
+          "bundle": "cos0256_body_02",
+          "id": "99/0256"
+        }
+      },
+      "アナザー3": {
+        "body": {
+          "bundle": "cos0256_body_03",
+          "id": "99/0256"
+        }
+      }
+    }
+  },
+  "cos0257": {
+    "name": "SEKAI step wear",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1654009200000,
+    "design": "白夜 零月",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0257_head",
+          "id": "0255/a05"
+        },
+        "body": {
+          "bundle": "cos0257_body",
+          "id": "99/0255"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0257_head_01",
+          "id": "0255/a05"
+        },
+        "body": {
+          "bundle": "cos0257_body_01",
+          "id": "99/0255"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0257_head_02",
+          "id": "0255/a05"
+        },
+        "body": {
+          "bundle": "cos0257_body_02",
+          "id": "99/0255"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0257_head_03",
+          "id": "0255/a05"
+        },
+        "body": {
+          "bundle": "cos0257_body_03",
+          "id": "99/0255"
+        }
+      }
+    }
   }
 }
