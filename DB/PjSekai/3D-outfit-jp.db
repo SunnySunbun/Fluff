@@ -13939,5 +13939,188 @@
         }
       }
     }
+  },
+  "cos0258": {
+    "name": "コンフュージョン・ナース",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1654830000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0258_head",
+          "id": "0284/a02"
+        },
+        "body": {
+          "bundle": "cos0258_body",
+          "id": "99/0284"
+        },
+        "unique_head": {
+          "bundle": "cos0258_unique_head",
+          "id": "18/0284"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0258_head_01",
+          "id": "0284/a02"
+        },
+        "body": {
+          "bundle": "cos0258_body_01",
+          "id": "99/0284"
+        },
+        "unique_head": {
+          "bundle": "cos0258_unique_head_01",
+          "id": "18/0284a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0258_head_02",
+          "id": "0284/a02"
+        },
+        "body": {
+          "bundle": "cos0258_body_02",
+          "id": "99/0284"
+        },
+        "unique_head": {
+          "bundle": "cos0258_unique_head_02",
+          "id": "18/0284b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0258_head_03",
+          "id": "0284/a02"
+        },
+        "body": {
+          "bundle": "cos0258_body_03",
+          "id": "99/0284"
+        },
+        "unique_head": {
+          "bundle": "cos0258_unique_head_03",
+          "id": "18/0284c"
+        }
+      }
+    }
+  },
+  "cos0259": {
+    "name": "デセプション・ナース",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1654830000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0259_head",
+          "id": "0285/a04"
+        },
+        "body": {
+          "bundle": "cos0259_body",
+          "id": "99/0285"
+        },
+        "unique_head": {
+          "bundle": "cos0259_unique_head",
+          "id": "20/0285"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0259_head_01",
+          "id": "0285/a04"
+        },
+        "body": {
+          "bundle": "cos0259_body_01",
+          "id": "99/0285"
+        },
+        "unique_head": {
+          "bundle": "cos0259_unique_head_01",
+          "id": "20/0285a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0259_head_02",
+          "id": "0285/a04"
+        },
+        "body": {
+          "bundle": "cos0259_body_02",
+          "id": "99/0285"
+        },
+        "unique_head": {
+          "bundle": "cos0259_unique_head_02",
+          "id": "20/0285b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0259_head_03",
+          "id": "0285/a04"
+        },
+        "body": {
+          "bundle": "cos0259_body_03",
+          "id": "99/0285"
+        },
+        "unique_head": {
+          "bundle": "cos0259_unique_head_03",
+          "id": "20/0285c"
+        }
+      }
+    }
+  },
+  "cos0260": {
+    "name": "エンデュア・ナイトガウン",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1654830000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0260_head",
+          "id": "0283/a03"
+        },
+        "body": {
+          "bundle": "cos0260_body",
+          "id": "99/0283"
+        },
+        "unique_head": {
+          "bundle": "cos0260_unique_head",
+          "id": "23/0283"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0260_head_01",
+          "id": "0283/a03"
+        },
+        "body": {
+          "bundle": "cos0260_body_01",
+          "id": "99/0283"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0260_head_02",
+          "id": "0283/a03"
+        },
+        "body": {
+          "bundle": "cos0260_body_02",
+          "id": "99/0283"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0260_head_03",
+          "id": "0283/a03"
+        },
+        "body": {
+          "bundle": "cos0260_body_03",
+          "id": "99/0283"
+        }
+      }
+    }
   }
 }
