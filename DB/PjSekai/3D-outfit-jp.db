@@ -14122,5 +14122,200 @@
         }
       }
     }
+  },
+  "cos0261": {
+    "name": "チアフル・シトラス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1655694000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0261_head",
+          "id": "0288/a02"
+        },
+        "body": {
+          "bundle": "cos0261_body",
+          "id": "99/0288"
+        },
+        "unique_head": {
+          "bundle": "cos0261_unique_head",
+          "id": "15/0288"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0261_head_01",
+          "id": "0288/a02"
+        },
+        "body": {
+          "bundle": "cos0261_body_01",
+          "id": "99/0288"
+        },
+        "unique_head": {
+          "bundle": "cos0261_unique_head_01",
+          "id": "15/0288a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0261_head_02",
+          "id": "0288/a02"
+        },
+        "body": {
+          "bundle": "cos0261_body_02",
+          "id": "99/0288"
+        },
+        "unique_head": {
+          "bundle": "cos0261_unique_head_02",
+          "id": "15/0288b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0261_head_03",
+          "id": "0288/a02"
+        },
+        "body": {
+          "bundle": "cos0261_body_03",
+          "id": "99/0288"
+        },
+        "unique_head": {
+          "bundle": "cos0261_unique_head_03",
+          "id": "15/0288c"
+        }
+      }
+    }
+  },
+  "cos0262": {
+    "name": "パッショナブル・キビス",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1655694000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0262_head",
+          "id": "0286/a02"
+        },
+        "body": {
+          "bundle": "cos0262_body",
+          "id": "99/0286"
+        },
+        "unique_head": {
+          "bundle": "cos0262_unique_head",
+          "id": "13/0286"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0262_head_01",
+          "id": "0286/a02"
+        },
+        "body": {
+          "bundle": "cos0262_body_01",
+          "id": "99/0286"
+        },
+        "unique_head": {
+          "bundle": "cos0262_unique_head_01",
+          "id": "13/0286a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0262_head_02",
+          "id": "0286/a02"
+        },
+        "body": {
+          "bundle": "cos0262_body_02",
+          "id": "99/0286"
+        },
+        "unique_head": {
+          "bundle": "cos0262_unique_head_02",
+          "id": "13/0286b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0262_head_03",
+          "id": "0286/a02"
+        },
+        "body": {
+          "bundle": "cos0262_body_03",
+          "id": "99/0286"
+        },
+        "unique_head": {
+          "bundle": "cos0262_unique_head_03",
+          "id": "13/0286c"
+        }
+      }
+    }
+  },
+  "cos0263": {
+    "name": "エネルギッシュ・キトルッルス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1655694000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0263_head",
+          "id": "0287/a03"
+        },
+        "body": {
+          "bundle": "cos0263_body",
+          "id": "99/0287"
+        },
+        "unique_head": {
+          "bundle": "cos0263_unique_head",
+          "id": "14/0287"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0263_head_01",
+          "id": "0287/a03"
+        },
+        "body": {
+          "bundle": "cos0263_body_01",
+          "id": "99/0287"
+        },
+        "unique_head": {
+          "bundle": "cos0263_unique_head_01",
+          "id": "14/0287a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0263_head_02",
+          "id": "0287/a03"
+        },
+        "body": {
+          "bundle": "cos0263_body_02",
+          "id": "99/0287"
+        },
+        "unique_head": {
+          "bundle": "cos0263_unique_head_02",
+          "id": "14/0287b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0263_head_03",
+          "id": "0287/a03"
+        },
+        "body": {
+          "bundle": "cos0263_body_03",
+          "id": "99/0287"
+        },
+        "unique_head": {
+          "bundle": "cos0263_unique_head_03",
+          "id": "14/0287c"
+        }
+      }
+    }
   }
 }
