@@ -14317,5 +14317,416 @@
         }
       }
     }
+  },
+  "cos0264": {
+    "name": "揺れるエクリュールドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1656558000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0264_head",
+          "id": "0289/a02"
+        },
+        "body": {
+          "bundle": "cos0264_body",
+          "id": "99/0289"
+        },
+        "unique_hair": {
+          "bundle": "cos0264_unique_hair",
+          "id": "03/0289n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0264_head_01",
+          "id": "0289/a02"
+        },
+        "body": {
+          "bundle": "cos0264_body_01",
+          "id": "99/0289"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0264_head_02",
+          "id": "0289/a02"
+        },
+        "body": {
+          "bundle": "cos0264_body_02",
+          "id": "99/0289"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0264_head_03",
+          "id": "0289/a02"
+        },
+        "body": {
+          "bundle": "cos0264_body_03",
+          "id": "99/0289"
+        }
+      }
+    }
+  },
+  "cos0265": {
+    "name": "不動のエナメルジャケット",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1656558000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0265_head",
+          "id": "0290/a03"
+        },
+        "body": {
+          "bundle": "cos0265_body",
+          "id": "99/0290"
+        },
+        "unique_head": {
+          "bundle": "cos0265_unique_head",
+          "id": "04/0290"
+        },
+        "unique_hair": {
+          "bundle": "cos0265_unique_hair",
+          "id": "04/0290n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0265_head_01",
+          "id": "0290/a03"
+        },
+        "body": {
+          "bundle": "cos0265_body_01",
+          "id": "99/0290"
+        },
+        "unique_head": {
+          "bundle": "cos0265_unique_head_01",
+          "id": "04/0290a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0265_head_02",
+          "id": "0290/a03"
+        },
+        "body": {
+          "bundle": "cos0265_body_02",
+          "id": "99/0290"
+        },
+        "unique_head": {
+          "bundle": "cos0265_unique_head_02",
+          "id": "04/0290b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0265_head_03",
+          "id": "0290/a03"
+        },
+        "body": {
+          "bundle": "cos0265_body_03",
+          "id": "99/0290"
+        },
+        "unique_head": {
+          "bundle": "cos0265_unique_head_03",
+          "id": "04/0290c"
+        }
+      }
+    }
+  },
+  "cos0266": {
+    "name": "フレッシュガール・ユニフォーム",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1656558000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0266_head",
+          "id": "0292/a04"
+        },
+        "body": {
+          "bundle": "cos0266_body",
+          "id": "99/0292"
+        },
+        "unique_head": {
+          "bundle": "cos0266_unique_head",
+          "id": "17/0292"
+        },
+        "unique_hair": {
+          "bundle": "cos0266_unique_hair",
+          "id": "17/0292n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0266_head_01",
+          "id": "0292/a04"
+        },
+        "body": {
+          "bundle": "cos0266_body_01",
+          "id": "99/0292"
+        },
+        "unique_head": {
+          "bundle": "cos0266_unique_head_01",
+          "id": "17/0292a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0266_head_02",
+          "id": "0292/a04"
+        },
+        "body": {
+          "bundle": "cos0266_body_02",
+          "id": "99/0292"
+        },
+        "unique_head": {
+          "bundle": "cos0266_unique_head_02",
+          "id": "17/0292b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0266_head_03",
+          "id": "0292/a04"
+        },
+        "body": {
+          "bundle": "cos0266_body_03",
+          "id": "99/0292"
+        },
+        "unique_head": {
+          "bundle": "cos0266_unique_head_03",
+          "id": "17/0292c"
+        }
+      }
+    }
+  },
+  "cos0267": {
+    "name": "エネルギッシュ・ユニフォーム",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1656558000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0267_head",
+          "id": "0291/a03"
+        },
+        "body": {
+          "bundle": "cos0267_body",
+          "id": "99/0291"
+        },
+        "unique_head": {
+          "bundle": "cos0267_unique_head",
+          "id": "05/0291"
+        },
+        "unique_hair": {
+          "bundle": "cos0267_unique_hair",
+          "id": "05/0291n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0267_head_01",
+          "id": "0291/a03"
+        },
+        "body": {
+          "bundle": "cos0267_body_01",
+          "id": "99/0291"
+        },
+        "unique_head": {
+          "bundle": "cos0267_unique_head_01",
+          "id": "05/0291a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0267_head_02",
+          "id": "0291/a03"
+        },
+        "body": {
+          "bundle": "cos0267_body_02",
+          "id": "99/0291"
+        },
+        "unique_head": {
+          "bundle": "cos0267_unique_head_02",
+          "id": "05/0291b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0267_head_03",
+          "id": "0291/a03"
+        },
+        "body": {
+          "bundle": "cos0267_body_03",
+          "id": "99/0291"
+        },
+        "unique_head": {
+          "bundle": "cos0267_unique_head_03",
+          "id": "05/0291c"
+        }
+      }
+    }
+  },
+  "cos0268": {
+    "name": "ラブリーフリル・ユニフォーム",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1656558000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0268_head",
+          "id": "0293/a02"
+        },
+        "body": {
+          "bundle": "cos0268_body",
+          "id": "99/0293"
+        },
+        "unique_head": {
+          "bundle": "cos0268_unique_head",
+          "id": "19/0293"
+        },
+        "unique_hair": {
+          "bundle": "cos0268_unique_hair",
+          "id": "19/0293n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0268_head_01",
+          "id": "0293/a02"
+        },
+        "body": {
+          "bundle": "cos0268_body_01",
+          "id": "99/0293"
+        },
+        "unique_head": {
+          "bundle": "cos0268_unique_head_01",
+          "id": "19/0293a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0268_head_02",
+          "id": "0293/a02"
+        },
+        "body": {
+          "bundle": "cos0268_body_02",
+          "id": "99/0293"
+        },
+        "unique_head": {
+          "bundle": "cos0268_unique_head_02",
+          "id": "19/0293b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0268_head_03",
+          "id": "0293/a02"
+        },
+        "body": {
+          "bundle": "cos0268_body_03",
+          "id": "99/0293"
+        },
+        "unique_head": {
+          "bundle": "cos0268_unique_head_03",
+          "id": "19/0293c"
+        }
+      }
+    }
+  },
+  "cos0269": {
+    "name": "Summer time Flamingo",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1656601200000,
+    "design": "ノズ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0269_head",
+          "id": "0295/a05"
+        },
+        "body": {
+          "bundle": "cos0269_body",
+          "id": "99/0295"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0269_head_01",
+          "id": "0295/a05"
+        },
+        "body": {
+          "bundle": "cos0269_body_01",
+          "id": "99/0295"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0269_head_02",
+          "id": "0295/a05"
+        },
+        "body": {
+          "bundle": "cos0269_body_02",
+          "id": "99/0295"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0269_head_03",
+          "id": "0295/a05"
+        },
+        "body": {
+          "bundle": "cos0269_body_03",
+          "id": "99/0295"
+        }
+      }
+    }
+  },
+  "cos0270": {
+    "name": "サマースカイウォーカー",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1656601200000,
+    "design": "家上",
+    "3d": {
+      "オリジナル": {
+        "body": {
+          "bundle": "cos0270_body",
+          "id": "99/0294"
+        }
+      },
+      "アナザー1": {
+        "body": {
+          "bundle": "cos0270_body_01",
+          "id": "99/0294"
+        }
+      },
+      "アナザー2": {
+        "body": {
+          "bundle": "cos0270_body_02",
+          "id": "99/0294"
+        }
+      },
+      "アナザー3": {
+        "body": {
+          "bundle": "cos0270_body_03",
+          "id": "99/0294"
+        }
+      }
+    }
   }
 }
