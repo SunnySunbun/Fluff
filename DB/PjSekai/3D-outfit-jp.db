@@ -14728,5 +14728,200 @@
         }
       }
     }
+  },
+  "cos0271": {
+    "name": "Loving Sunflower",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1657508400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0271_head",
+          "id": "0297/a03"
+        },
+        "body": {
+          "bundle": "cos0271_body",
+          "id": "99/0297"
+        },
+        "unique_head": {
+          "bundle": "cos0271_unique_head",
+          "id": "10/0297"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0271_head_01",
+          "id": "0297/a03"
+        },
+        "body": {
+          "bundle": "cos0271_body_01",
+          "id": "99/0297"
+        },
+        "unique_head": {
+          "bundle": "cos0271_unique_head_01",
+          "id": "10/0297a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0271_head_02",
+          "id": "0297/a03"
+        },
+        "body": {
+          "bundle": "cos0271_body_02",
+          "id": "99/0297"
+        },
+        "unique_head": {
+          "bundle": "cos0271_unique_head_02",
+          "id": "10/0297b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0271_head_03",
+          "id": "0297/a03"
+        },
+        "body": {
+          "bundle": "cos0271_body_03",
+          "id": "99/0297"
+        },
+        "unique_head": {
+          "bundle": "cos0271_unique_head_03",
+          "id": "10/0297c"
+        }
+      }
+    }
+  },
+  "cos0272": {
+    "name": "Old Days Boy",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1657508400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0272_unique_head",
+          "id": "11/0298"
+        },
+        "body": {
+          "bundle": "cos0272_body",
+          "id": "99/0298"
+        },
+        "head": {
+          "bundle": "cos0272_head",
+          "id": "0298/a02"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0272_unique_head_01",
+          "id": "11/0298a"
+        },
+        "body": {
+          "bundle": "cos0272_body_01",
+          "id": "99/0298"
+        },
+        "head": {
+          "bundle": "cos0272_head_01",
+          "id": "0298/a02"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0272_unique_head_02",
+          "id": "11/0298b"
+        },
+        "body": {
+          "bundle": "cos0272_body_02",
+          "id": "99/0298"
+        },
+        "head": {
+          "bundle": "cos0272_head_02",
+          "id": "0298/a02"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0272_unique_head_03",
+          "id": "11/0298c"
+        },
+        "body": {
+          "bundle": "cos0272_body_03",
+          "id": "99/0298"
+        },
+        "head": {
+          "bundle": "cos0272_head_03",
+          "id": "0298/a02"
+        }
+      }
+    }
+  },
+  "cos0273": {
+    "name": "My Little Shine",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1657508400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0273_head",
+          "id": "0296/a02"
+        },
+        "body": {
+          "bundle": "cos0273_body",
+          "id": "99/0296"
+        },
+        "unique_head": {
+          "bundle": "cos0273_unique_head",
+          "id": "22/0296"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0273_head_01",
+          "id": "0296/a02"
+        },
+        "body": {
+          "bundle": "cos0273_body_01",
+          "id": "99/0296"
+        },
+        "unique_head": {
+          "bundle": "cos0273_unique_head_01",
+          "id": "22/0296a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0273_head_02",
+          "id": "0296/a02"
+        },
+        "body": {
+          "bundle": "cos0273_body_02",
+          "id": "99/0296"
+        },
+        "unique_head": {
+          "bundle": "cos0273_unique_head_02",
+          "id": "22/0296b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0273_head_03",
+          "id": "0296/a02"
+        },
+        "body": {
+          "bundle": "cos0273_body_03",
+          "id": "99/0296"
+        },
+        "unique_head": {
+          "bundle": "cos0273_unique_head_03",
+          "id": "22/0296c"
+        }
+      }
+    }
   }
 }
