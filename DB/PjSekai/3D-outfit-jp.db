@@ -15423,5 +15423,200 @@
         }
       }
     }
+  },
+  "cos0282": {
+    "name": "ブルーマリン・クルースタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660100400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0282_head",
+          "id": "0305/a03"
+        },
+        "body": {
+          "bundle": "cos0282_body",
+          "id": "99/0305"
+        },
+        "unique_head": {
+          "bundle": "cos0282_unique_head",
+          "id": "07/0305"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0282_head_01",
+          "id": "0305/a03"
+        },
+        "body": {
+          "bundle": "cos0282_body_01",
+          "id": "99/0305"
+        },
+        "unique_head": {
+          "bundle": "cos0282_unique_head_01",
+          "id": "07/0305a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0282_head_02",
+          "id": "0305/a03"
+        },
+        "body": {
+          "bundle": "cos0282_body_02",
+          "id": "99/0305"
+        },
+        "unique_head": {
+          "bundle": "cos0282_unique_head_02",
+          "id": "07/0305b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0282_head_03",
+          "id": "0305/a03"
+        },
+        "body": {
+          "bundle": "cos0282_body_03",
+          "id": "99/0305"
+        },
+        "unique_head": {
+          "bundle": "cos0282_unique_head_03",
+          "id": "07/0305c"
+        }
+      }
+    }
+  },
+  "cos0283": {
+    "name": "ブルーマリン・フリルフレア",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660100400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0283_head",
+          "id": "0306/a02"
+        },
+        "body": {
+          "bundle": "cos0283_body",
+          "id": "99/0306"
+        },
+        "unique_head": {
+          "bundle": "cos0283_unique_head",
+          "id": "08/0306"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0283_head_01",
+          "id": "0306/a02"
+        },
+        "body": {
+          "bundle": "cos0283_body_01",
+          "id": "99/0306"
+        },
+        "unique_head": {
+          "bundle": "cos0283_unique_head_01",
+          "id": "08/0306a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0283_head_02",
+          "id": "0306/a02"
+        },
+        "body": {
+          "bundle": "cos0283_body_02",
+          "id": "99/0306"
+        },
+        "unique_head": {
+          "bundle": "cos0283_unique_head_02",
+          "id": "08/0306b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0283_head_03",
+          "id": "0306/a02"
+        },
+        "body": {
+          "bundle": "cos0283_body_03",
+          "id": "99/0306"
+        },
+        "unique_head": {
+          "bundle": "cos0283_unique_head_03",
+          "id": "08/0306c"
+        }
+      }
+    }
+  },
+  "cos0284": {
+    "name": "ブルーマリン・マーメイド",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660100400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0284_head",
+          "id": "0304/a02"
+        },
+        "body": {
+          "bundle": "cos0284_body",
+          "id": "99/0304"
+        },
+        "unique_head": {
+          "bundle": "cos0284_unique_head",
+          "id": "25/0304"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0284_head_01",
+          "id": "0304/a02"
+        },
+        "body": {
+          "bundle": "cos0284_body_01",
+          "id": "99/0304"
+        },
+        "unique_head": {
+          "bundle": "cos0284_unique_head_01",
+          "id": "25/0304a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0284_head_02",
+          "id": "0304/a02"
+        },
+        "body": {
+          "bundle": "cos0284_body_02",
+          "id": "99/0304"
+        },
+        "unique_head": {
+          "bundle": "cos0284_unique_head_02",
+          "id": "25/0304b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0284_head_03",
+          "id": "0304/a02"
+        },
+        "body": {
+          "bundle": "cos0284_body_03",
+          "id": "99/0304"
+        },
+        "unique_head": {
+          "bundle": "cos0284_unique_head_03",
+          "id": "25/0304c"
+        }
+      }
+    }
   }
 }
