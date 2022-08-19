@@ -15618,5 +15618,200 @@
         }
       }
     }
+  },
+  "cos0285": {
+    "name": "レリーフ・ナイトウェア",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660964400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0285_head",
+          "id": "0323/a02"
+        },
+        "body": {
+          "bundle": "cos0285_body",
+          "id": "99/0323"
+        },
+        "unique_head": {
+          "bundle": "cos0285_unique_head",
+          "id": "20/0323"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0285_head_01",
+          "id": "0323/a02"
+        },
+        "body": {
+          "bundle": "cos0285_body_01",
+          "id": "99/0323"
+        },
+        "unique_head": {
+          "bundle": "cos0285_unique_head_01",
+          "id": "20/0323a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0285_head_02",
+          "id": "0323/a02"
+        },
+        "body": {
+          "bundle": "cos0285_body_02",
+          "id": "99/0323"
+        },
+        "unique_head": {
+          "bundle": "cos0285_unique_head_02",
+          "id": "20/0323b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0285_head_03",
+          "id": "0323/a02"
+        },
+        "body": {
+          "bundle": "cos0285_body_03",
+          "id": "99/0323"
+        },
+        "unique_head": {
+          "bundle": "cos0285_unique_head_03",
+          "id": "20/0323c"
+        }
+      }
+    }
+  },
+  "cos0286": {
+    "name": "リラクゼーション・ナイトウェア",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660964400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0286_head",
+          "id": "0321/a02"
+        },
+        "body": {
+          "bundle": "cos0286_body",
+          "id": "99/0321"
+        },
+        "unique_head": {
+          "bundle": "cos0286_unique_head",
+          "id": "17/0321"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0286_head_01",
+          "id": "0321/a02"
+        },
+        "body": {
+          "bundle": "cos0286_body_01",
+          "id": "99/0321"
+        },
+        "unique_head": {
+          "bundle": "cos0286_unique_head_01",
+          "id": "17/0321a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0286_head_02",
+          "id": "0321/a02"
+        },
+        "body": {
+          "bundle": "cos0286_body_02",
+          "id": "99/0321"
+        },
+        "unique_head": {
+          "bundle": "cos0286_unique_head_02",
+          "id": "17/0321b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0286_head_03",
+          "id": "0321/a02"
+        },
+        "body": {
+          "bundle": "cos0286_body_03",
+          "id": "99/0321"
+        },
+        "unique_head": {
+          "bundle": "cos0286_unique_head_03",
+          "id": "17/0321c"
+        }
+      }
+    }
+  },
+  "cos0287": {
+    "name": "コーズィ・ナイトウェア",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1660964400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0287_head",
+          "id": "0322/a02"
+        },
+        "body": {
+          "bundle": "cos0287_body",
+          "id": "99/0322"
+        },
+        "unique_head": {
+          "bundle": "cos0287_unique_head",
+          "id": "18/0322"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0287_head_01",
+          "id": "0322/a02"
+        },
+        "body": {
+          "bundle": "cos0287_body_01",
+          "id": "99/0322"
+        },
+        "unique_head": {
+          "bundle": "cos0287_unique_head_01",
+          "id": "18/0322a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0287_head_02",
+          "id": "0322/a02"
+        },
+        "body": {
+          "bundle": "cos0287_body_02",
+          "id": "99/0322"
+        },
+        "unique_head": {
+          "bundle": "cos0287_unique_head_02",
+          "id": "18/0322b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0287_head_03",
+          "id": "0322/a02"
+        },
+        "body": {
+          "bundle": "cos0287_body_03",
+          "id": "99/0322"
+        },
+        "unique_head": {
+          "bundle": "cos0287_unique_head_03",
+          "id": "18/0322c"
+        }
+      }
+    }
   }
 }
