@@ -16118,5 +16118,395 @@
         }
       }
     }
+  },
+  "cos0293": {
+    "name": "オエカキ☆コーチスタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1662692400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0293_head",
+          "id": "0326/a02"
+        },
+        "body": {
+          "bundle": "cos0293_body",
+          "id": "99/0326"
+        },
+        "unique_head": {
+          "bundle": "cos0293_unique_head",
+          "id": "19/0326"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0293_head_01",
+          "id": "0326/a02"
+        },
+        "body": {
+          "bundle": "cos0293_body_01",
+          "id": "99/0326"
+        },
+        "unique_head": {
+          "bundle": "cos0293_unique_head_01",
+          "id": "19/0326a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0293_head_02",
+          "id": "0326/a02"
+        },
+        "body": {
+          "bundle": "cos0293_body_02",
+          "id": "99/0326"
+        },
+        "unique_head": {
+          "bundle": "cos0293_unique_head_02",
+          "id": "19/0326b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0293_head_03",
+          "id": "0326/a02"
+        },
+        "body": {
+          "bundle": "cos0293_body_03",
+          "id": "99/0326"
+        },
+        "unique_head": {
+          "bundle": "cos0293_unique_head_03",
+          "id": "19/0326c"
+        }
+      }
+    }
+  },
+  "cos0294": {
+    "name": "バクハツ☆アートスタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1662692400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0294_head",
+          "id": "0324/a02"
+        },
+        "body": {
+          "bundle": "cos0294_body",
+          "id": "99/0324"
+        },
+        "unique_head": {
+          "bundle": "cos0294_unique_head",
+          "id": "03/0324"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0294_head_01",
+          "id": "0324/a02"
+        },
+        "body": {
+          "bundle": "cos0294_body_01",
+          "id": "99/0324"
+        },
+        "unique_head": {
+          "bundle": "cos0294_unique_head_01",
+          "id": "03/0324a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0294_head_02",
+          "id": "0324/a02"
+        },
+        "body": {
+          "bundle": "cos0294_body_02",
+          "id": "99/0324"
+        },
+        "unique_head": {
+          "bundle": "cos0294_unique_head_02",
+          "id": "03/0324b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0294_head_03",
+          "id": "0324/a02"
+        },
+        "body": {
+          "bundle": "cos0294_body_03",
+          "id": "99/0324"
+        },
+        "unique_head": {
+          "bundle": "cos0294_unique_head_03",
+          "id": "03/0324c"
+        }
+      }
+    }
+  },
+  "cos0295": {
+    "name": "ラクガキ☆フリースタイル",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1662692400000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0295_head",
+          "id": "0325/a02"
+        },
+        "body": {
+          "bundle": "cos0295_body",
+          "id": "99/0325"
+        },
+        "unique_head": {
+          "bundle": "cos0295_unique_head",
+          "id": "14/0325"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0295_head_01",
+          "id": "0325/a02"
+        },
+        "body": {
+          "bundle": "cos0295_body_01",
+          "id": "99/0325"
+        },
+        "unique_head": {
+          "bundle": "cos0295_unique_head_01",
+          "id": "14/0325a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0295_head_02",
+          "id": "0325/a02"
+        },
+        "body": {
+          "bundle": "cos0295_body_02",
+          "id": "99/0325"
+        },
+        "unique_head": {
+          "bundle": "cos0295_unique_head_02",
+          "id": "14/0325b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0295_head_03",
+          "id": "0325/a02"
+        },
+        "body": {
+          "bundle": "cos0295_body_03",
+          "id": "99/0325"
+        },
+        "unique_head": {
+          "bundle": "cos0295_unique_head_03",
+          "id": "14/0325c"
+        }
+      }
+    }
+  },
+  "cos0296": {
+    "name": "Melody Walker",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1663642800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0296_head",
+          "id": "0336/a02"
+        },
+        "body": {
+          "bundle": "cos0296_body",
+          "id": "99/0336"
+        },
+        "unique_head": {
+          "bundle": "cos0296_unique_head",
+          "id": "12/0336"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0296_head_01",
+          "id": "0336/a02"
+        },
+        "body": {
+          "bundle": "cos0296_body_01",
+          "id": "99/0336"
+        },
+        "unique_head": {
+          "bundle": "cos0296_unique_head_01",
+          "id": "12/0336a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0296_head_02",
+          "id": "0336/a02"
+        },
+        "body": {
+          "bundle": "cos0296_body_02",
+          "id": "99/0336"
+        },
+        "unique_head": {
+          "bundle": "cos0296_unique_head_02",
+          "id": "12/0336b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0296_head_03",
+          "id": "0336/a02"
+        },
+        "body": {
+          "bundle": "cos0296_body_03",
+          "id": "99/0336"
+        },
+        "unique_head": {
+          "bundle": "cos0296_unique_head_03",
+          "id": "12/0336c"
+        }
+      }
+    }
+  },
+  "cos0297": {
+    "name": "Pure Walker",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1663642800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0297_head",
+          "id": "0335/a02"
+        },
+        "body": {
+          "bundle": "cos0297_body",
+          "id": "99/0335"
+        },
+        "unique_head": {
+          "bundle": "cos0297_unique_head",
+          "id": "09/0335"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0297_head_01",
+          "id": "0335/a02"
+        },
+        "body": {
+          "bundle": "cos0297_body_01",
+          "id": "99/0335"
+        },
+        "unique_head": {
+          "bundle": "cos0297_unique_head_01",
+          "id": "09/0335a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0297_head_02",
+          "id": "0335/a02"
+        },
+        "body": {
+          "bundle": "cos0297_body_02",
+          "id": "99/0335"
+        },
+        "unique_head": {
+          "bundle": "cos0297_unique_head_02",
+          "id": "09/0335b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0297_head_03",
+          "id": "0335/a02"
+        },
+        "body": {
+          "bundle": "cos0297_body_03",
+          "id": "99/0335"
+        },
+        "unique_head": {
+          "bundle": "cos0297_unique_head_03",
+          "id": "09/0335c"
+        }
+      }
+    }
+  },
+  "cos0298": {
+    "name": "House Walker",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1663642800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0298_head",
+          "id": "0334/a02"
+        },
+        "body": {
+          "bundle": "cos0298_body",
+          "id": "99/0334"
+        },
+        "unique_head": {
+          "bundle": "cos0298_unique_head",
+          "id": "26/0334"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0298_head_01",
+          "id": "0334/a02"
+        },
+        "body": {
+          "bundle": "cos0298_body_01",
+          "id": "99/0334"
+        },
+        "unique_head": {
+          "bundle": "cos0298_unique_head_01",
+          "id": "26/0334a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0298_head_02",
+          "id": "0334/a02"
+        },
+        "body": {
+          "bundle": "cos0298_body_02",
+          "id": "99/0334"
+        },
+        "unique_head": {
+          "bundle": "cos0298_unique_head_02",
+          "id": "26/0334b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0298_head_03",
+          "id": "0334/a02"
+        },
+        "body": {
+          "bundle": "cos0298_body_03",
+          "id": "99/0334"
+        },
+        "unique_head": {
+          "bundle": "cos0298_unique_head_03",
+          "id": "26/0334c"
+        }
+      }
+    }
   }
 }
