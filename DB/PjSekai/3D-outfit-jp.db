@@ -17461,5 +17461,200 @@
         }
       }
     }
+  },
+  "cos0316": {
+    "name": "ドリーミングフェアリー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1665543600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0316_head",
+          "id": "0343/a03"
+        },
+        "body": {
+          "bundle": "cos0316_body",
+          "id": "99/0343"
+        },
+        "unique_head": {
+          "bundle": "cos0316_unique_head",
+          "id": "05/0343"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0316_head_01",
+          "id": "0343/a03"
+        },
+        "body": {
+          "bundle": "cos0316_body_01",
+          "id": "99/0343"
+        },
+        "unique_head": {
+          "bundle": "cos0316_unique_head_01",
+          "id": "05/0343a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0316_head_02",
+          "id": "0343/a03"
+        },
+        "body": {
+          "bundle": "cos0316_body_02",
+          "id": "99/0343"
+        },
+        "unique_head": {
+          "bundle": "cos0316_unique_head_02",
+          "id": "05/0343b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0316_head_03",
+          "id": "0343/a03"
+        },
+        "body": {
+          "bundle": "cos0316_body_03",
+          "id": "99/0343"
+        },
+        "unique_head": {
+          "bundle": "cos0316_unique_head_03",
+          "id": "05/0343c"
+        }
+      }
+    }
+  },
+  "cos0317": {
+    "name": "ガイディングフェアリー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1665543600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0317_head",
+          "id": "0344/a03"
+        },
+        "body": {
+          "bundle": "cos0317_body",
+          "id": "99/0344"
+        },
+        "unique_head": {
+          "bundle": "cos0317_unique_head",
+          "id": "06/0344"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0317_head_01",
+          "id": "0344/a03"
+        },
+        "body": {
+          "bundle": "cos0317_body_01",
+          "id": "99/0344"
+        },
+        "unique_head": {
+          "bundle": "cos0317_unique_head_01",
+          "id": "06/0344a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0317_head_02",
+          "id": "0344/a03"
+        },
+        "body": {
+          "bundle": "cos0317_body_02",
+          "id": "99/0344"
+        },
+        "unique_head": {
+          "bundle": "cos0317_unique_head_02",
+          "id": "06/0344b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0317_head_03",
+          "id": "0344/a03"
+        },
+        "body": {
+          "bundle": "cos0317_body_03",
+          "id": "99/0344"
+        },
+        "unique_head": {
+          "bundle": "cos0317_unique_head_03",
+          "id": "06/0344c"
+        }
+      }
+    }
+  },
+  "cos0318": {
+    "name": "ベコニングフェアリー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1665543600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0318_head",
+          "id": "0345/a03"
+        },
+        "body": {
+          "bundle": "cos0318_body",
+          "id": "99/0345"
+        },
+        "unique_head": {
+          "bundle": "cos0318_unique_head",
+          "id": "07/0345"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0318_head_01",
+          "id": "0345/a03"
+        },
+        "body": {
+          "bundle": "cos0318_body_01",
+          "id": "99/0345"
+        },
+        "unique_head": {
+          "bundle": "cos0318_unique_head_01",
+          "id": "07/0345a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0318_head_02",
+          "id": "0345/a03"
+        },
+        "body": {
+          "bundle": "cos0318_body_02",
+          "id": "99/0345"
+        },
+        "unique_head": {
+          "bundle": "cos0318_unique_head_02",
+          "id": "07/0345b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0318_head_03",
+          "id": "0345/a03"
+        },
+        "body": {
+          "bundle": "cos0318_body_03",
+          "id": "99/0345"
+        },
+        "unique_head": {
+          "bundle": "cos0318_unique_head_03",
+          "id": "07/0345c"
+        }
+      }
+    }
   }
 }
