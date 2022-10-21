@@ -17656,5 +17656,298 @@
         }
       }
     }
+  },
+  "cos0319": {
+    "name": "アワーグラス・タキシード",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1666321200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0319_head",
+          "id": "0348/a02"
+        },
+        "body": {
+          "bundle": "cos0319_body",
+          "id": "99/0348"
+        },
+        "unique_head": {
+          "bundle": "cos0319_unique_head",
+          "id": "16/0348"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0319_head_01",
+          "id": "0348/a02"
+        },
+        "body": {
+          "bundle": "cos0319_body_01",
+          "id": "99/0348"
+        },
+        "unique_head": {
+          "bundle": "cos0319_unique_head_01",
+          "id": "16/0348a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0319_head_02",
+          "id": "0348/a02"
+        },
+        "body": {
+          "bundle": "cos0319_body_02",
+          "id": "99/0348"
+        },
+        "unique_head": {
+          "bundle": "cos0319_unique_head_02",
+          "id": "16/0348b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0319_head_03",
+          "id": "0348/a02"
+        },
+        "body": {
+          "bundle": "cos0319_body_03",
+          "id": "99/0348"
+        },
+        "unique_head": {
+          "bundle": "cos0319_unique_head_03",
+          "id": "16/0348c"
+        }
+      }
+    }
+  },
+  "cos0320": {
+    "name": "アドバンス・タキシード",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1666321200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0320_head",
+          "id": "0346/a02"
+        },
+        "body": {
+          "bundle": "cos0320_body",
+          "id": "99/0346"
+        },
+        "unique_head": {
+          "bundle": "cos0320_unique_head",
+          "id": "13/0346"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0320_head_01",
+          "id": "0346/a02"
+        },
+        "body": {
+          "bundle": "cos0320_body_01",
+          "id": "99/0346"
+        },
+        "unique_head": {
+          "bundle": "cos0320_unique_head_01",
+          "id": "13/0346a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0320_head_02",
+          "id": "0346/a02"
+        },
+        "body": {
+          "bundle": "cos0320_body_02",
+          "id": "99/0346"
+        },
+        "unique_head": {
+          "bundle": "cos0320_unique_head_02",
+          "id": "13/0346b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0320_head_03",
+          "id": "0346/a02"
+        },
+        "body": {
+          "bundle": "cos0320_body_03",
+          "id": "99/0346"
+        },
+        "unique_head": {
+          "bundle": "cos0320_unique_head_03",
+          "id": "13/0346c"
+        }
+      }
+    }
+  },
+  "cos0321": {
+    "name": "フェアウェル・ドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1666321200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0321_head",
+          "id": "0347/a04"
+        },
+        "body": {
+          "bundle": "cos0321_body",
+          "id": "99/0347"
+        },
+        "unique_head": {
+          "bundle": "cos0321_unique_head",
+          "id": "15/0347"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0321_head_01",
+          "id": "0347/a04"
+        },
+        "body": {
+          "bundle": "cos0321_body_01",
+          "id": "99/0347"
+        },
+        "unique_head": {
+          "bundle": "cos0321_unique_head_01",
+          "id": "15/0347a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0321_head_02",
+          "id": "0347/a04"
+        },
+        "body": {
+          "bundle": "cos0321_body_02",
+          "id": "99/0347"
+        },
+        "unique_head": {
+          "bundle": "cos0321_unique_head_02",
+          "id": "15/0347b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0321_head_03",
+          "id": "0347/a04"
+        },
+        "body": {
+          "bundle": "cos0321_body_03",
+          "id": "99/0347"
+        },
+        "unique_head": {
+          "bundle": "cos0321_unique_head_03",
+          "id": "15/0347c"
+        }
+      }
+    }
+  },
+  "cos0322": {
+    "name": "スイートゴースト・ガール",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1667023200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0322_head",
+          "id": "0350/a02"
+        },
+        "body": {
+          "bundle": "cos0322_body",
+          "id": "99/0350"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0322_head_01",
+          "id": "0350/a02"
+        },
+        "body": {
+          "bundle": "cos0322_body_01",
+          "id": "99/0350"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0322_head_02",
+          "id": "0350/a02"
+        },
+        "body": {
+          "bundle": "cos0322_body_02",
+          "id": "99/0350"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0322_head_03",
+          "id": "0350/a02"
+        },
+        "body": {
+          "bundle": "cos0322_body_03",
+          "id": "99/0350"
+        }
+      }
+    }
+  },
+  "cos0323": {
+    "name": "トリート・ナイトメアコート",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1667023200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0323_head",
+          "id": "0349/a05"
+        },
+        "body": {
+          "bundle": "cos0323_body",
+          "id": "99/0349"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0323_head_01",
+          "id": "0349/a05"
+        },
+        "body": {
+          "bundle": "cos0323_body_01",
+          "id": "99/0349"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0323_head_02",
+          "id": "0349/a05"
+        },
+        "body": {
+          "bundle": "cos0323_body_02",
+          "id": "99/0349"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0323_head_03",
+          "id": "0349/a05"
+        },
+        "body": {
+          "bundle": "cos0323_body_03",
+          "id": "99/0349"
+        }
+      }
+    }
   }
 }
