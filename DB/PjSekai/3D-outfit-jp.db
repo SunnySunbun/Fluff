@@ -17949,5 +17949,310 @@
         }
       }
     }
+  },
+  "cos0324": {
+    "name": "赤ずきんのおでかけドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1667185200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0324_head",
+          "id": "0353/a02"
+        },
+        "body": {
+          "bundle": "cos0324_body",
+          "id": "99/0353"
+        },
+        "unique_head": {
+          "bundle": "cos0324_unique_head",
+          "id": "09/0353"
+        },
+        "unique_hair": {
+          "bundle": "cos0324_unique_hair",
+          "id": "09/0353n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0324_head_01",
+          "id": "0353/a02"
+        },
+        "body": {
+          "bundle": "cos0324_body_01",
+          "id": "99/0353"
+        },
+        "unique_head": {
+          "bundle": "cos0324_unique_head_01",
+          "id": "09/0353a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0324_head_02",
+          "id": "0353/a02"
+        },
+        "body": {
+          "bundle": "cos0324_body_02",
+          "id": "99/0353"
+        },
+        "unique_head": {
+          "bundle": "cos0324_unique_head_02",
+          "id": "09/0353b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0324_head_03",
+          "id": "0353/a02"
+        },
+        "body": {
+          "bundle": "cos0324_body_03",
+          "id": "99/0353"
+        },
+        "unique_head": {
+          "bundle": "cos0324_unique_head_03",
+          "id": "09/0353c"
+        }
+      }
+    }
+  },
+  "cos0325": {
+    "name": "オオカミさんのダークマント",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1667185200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0325_head",
+          "id": "0351/a02"
+        },
+        "body": {
+          "bundle": "cos0325_body",
+          "id": "99/0351"
+        },
+        "unique_head": {
+          "bundle": "cos0325_unique_head",
+          "id": "04/0351"
+        },
+        "unique_hair": {
+          "bundle": "cos0325_unique_hair",
+          "id": "04/0351n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0325_head_01",
+          "id": "0351/a02"
+        },
+        "body": {
+          "bundle": "cos0325_body_01",
+          "id": "99/0351"
+        },
+        "unique_head": {
+          "bundle": "cos0325_unique_head_01",
+          "id": "04/0351a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0325_head_02",
+          "id": "0351/a02"
+        },
+        "body": {
+          "bundle": "cos0325_body_02",
+          "id": "99/0351"
+        },
+        "unique_head": {
+          "bundle": "cos0325_unique_head_02",
+          "id": "04/0351b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0325_head_03",
+          "id": "0351/a02"
+        },
+        "body": {
+          "bundle": "cos0325_body_03",
+          "id": "99/0351"
+        },
+        "unique_head": {
+          "bundle": "cos0325_unique_head_03",
+          "id": "04/0351c"
+        }
+      }
+    }
+  },
+  "cos0326": {
+    "name": "子ヤギさんのフリフリドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1667185200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0326_head",
+          "id": "0352/a02"
+        },
+        "body": {
+          "bundle": "cos0326_body",
+          "id": "99/0352"
+        },
+        "unique_head": {
+          "bundle": "cos0326_unique_head",
+          "id": "05/0352"
+        },
+        "unique_hair": {
+          "bundle": "cos0326_unique_hair",
+          "id": "05/0352n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0326_head_01",
+          "id": "0352/a02"
+        },
+        "body": {
+          "bundle": "cos0326_body_01",
+          "id": "99/0352"
+        },
+        "unique_head": {
+          "bundle": "cos0326_unique_head_01",
+          "id": "05/0352a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0326_head_02",
+          "id": "0352/a02"
+        },
+        "body": {
+          "bundle": "cos0326_body_02",
+          "id": "99/0352"
+        },
+        "unique_head": {
+          "bundle": "cos0326_unique_head_02",
+          "id": "05/0352b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0326_head_03",
+          "id": "0352/a02"
+        },
+        "body": {
+          "bundle": "cos0326_body_03",
+          "id": "99/0352"
+        },
+        "unique_head": {
+          "bundle": "cos0326_unique_head_03",
+          "id": "05/0352c"
+        }
+      }
+    }
+  },
+  "cos0327": {
+    "name": "妖椿鬼",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1667228400000,
+    "design": "ライカ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0327_head",
+          "id": "0342/a05"
+        },
+        "body": {
+          "bundle": "cos0327_body",
+          "id": "99/0342"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0327_head_01",
+          "id": "0342/a05"
+        },
+        "body": {
+          "bundle": "cos0327_body_01",
+          "id": "99/0342"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0327_head_02",
+          "id": "0342/a05"
+        },
+        "body": {
+          "bundle": "cos0327_body_02",
+          "id": "99/0342"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0327_head_03",
+          "id": "0342/a05"
+        },
+        "body": {
+          "bundle": "cos0327_body_03",
+          "id": "99/0342"
+        }
+      }
+    }
+  },
+  "cos0328": {
+    "name": "神之使",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1667228400000,
+    "design": "紅茶マジ太郎",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0328_head",
+          "id": "0341/a05"
+        },
+        "body": {
+          "bundle": "cos0328_body",
+          "id": "99/0341"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0328_head_01",
+          "id": "0341/a05"
+        },
+        "body": {
+          "bundle": "cos0328_body_01",
+          "id": "99/0341"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0328_head_02",
+          "id": "0341/a05"
+        },
+        "body": {
+          "bundle": "cos0328_body_02",
+          "id": "99/0341"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0328_head_03",
+          "id": "0341/a05"
+        },
+        "body": {
+          "bundle": "cos0328_body_03",
+          "id": "99/0341"
+        }
+      }
+    }
   }
 }
