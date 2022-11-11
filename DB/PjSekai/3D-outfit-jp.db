@@ -18254,5 +18254,200 @@
         }
       }
     }
+  },
+  "cos0329": {
+    "name": "NEON Vo.",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668135600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0329_unique_head",
+          "id": "01/0358"
+        },
+        "body": {
+          "bundle": "cos0329_body",
+          "id": "99/0358"
+        },
+        "head": {
+          "bundle": "cos0329_head",
+          "id": "0358/a03"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0329_unique_head_01",
+          "id": "01/0358a"
+        },
+        "body": {
+          "bundle": "cos0329_body_01",
+          "id": "99/0358"
+        },
+        "head": {
+          "bundle": "cos0329_head_01",
+          "id": "0358/a03"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0329_unique_head_02",
+          "id": "01/0358b"
+        },
+        "body": {
+          "bundle": "cos0329_body_02",
+          "id": "99/0358"
+        },
+        "head": {
+          "bundle": "cos0329_head_02",
+          "id": "0358/a03"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0329_unique_head_03",
+          "id": "01/0358c"
+        },
+        "body": {
+          "bundle": "cos0329_body_03",
+          "id": "99/0358"
+        },
+        "head": {
+          "bundle": "cos0329_head_03",
+          "id": "0358/a03"
+        }
+      }
+    }
+  },
+  "cos0330": {
+    "name": "NEON Dr.",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668135600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0330_head",
+          "id": "0359/a02"
+        },
+        "body": {
+          "bundle": "cos0330_body",
+          "id": "99/0359"
+        },
+        "unique_head": {
+          "bundle": "cos0330_unique_head",
+          "id": "03/0359"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0330_head_01",
+          "id": "0359/a02"
+        },
+        "body": {
+          "bundle": "cos0330_body_01",
+          "id": "99/0359"
+        },
+        "unique_head": {
+          "bundle": "cos0330_unique_head_01",
+          "id": "03/0359a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0330_head_02",
+          "id": "0359/a02"
+        },
+        "body": {
+          "bundle": "cos0330_body_02",
+          "id": "99/0359"
+        },
+        "unique_head": {
+          "bundle": "cos0330_unique_head_02",
+          "id": "03/0359b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0330_head_03",
+          "id": "0359/a02"
+        },
+        "body": {
+          "bundle": "cos0330_body_03",
+          "id": "99/0359"
+        },
+        "unique_head": {
+          "bundle": "cos0330_unique_head_03",
+          "id": "03/0359c"
+        }
+      }
+    }
+  },
+  "cos0331": {
+    "name": "NEON SINGER",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668135600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0331_head",
+          "id": "0357/a03"
+        },
+        "body": {
+          "bundle": "cos0331_body",
+          "id": "99/0357"
+        },
+        "unique_head": {
+          "bundle": "cos0331_unique_head",
+          "id": "27/0357"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0331_head_01",
+          "id": "0357/a03"
+        },
+        "body": {
+          "bundle": "cos0331_body_01",
+          "id": "99/0357"
+        },
+        "unique_head": {
+          "bundle": "cos0331_unique_head_01",
+          "id": "27/0357a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0331_head_02",
+          "id": "0357/a03"
+        },
+        "body": {
+          "bundle": "cos0331_body_02",
+          "id": "99/0357"
+        },
+        "unique_head": {
+          "bundle": "cos0331_unique_head_02",
+          "id": "27/0357b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0331_head_03",
+          "id": "0357/a03"
+        },
+        "body": {
+          "bundle": "cos0331_body_03",
+          "id": "99/0357"
+        },
+        "unique_head": {
+          "bundle": "cos0331_unique_head_03",
+          "id": "27/0357c"
+        }
+      }
+    }
   }
 }
