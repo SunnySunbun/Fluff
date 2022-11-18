@@ -18449,5 +18449,200 @@
         }
       }
     }
+  },
+  "cos0332": {
+    "name": "ダークデコラ・スイートガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668913200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0332_head",
+          "id": "0356/a02"
+        },
+        "body": {
+          "bundle": "cos0332_body",
+          "id": "99/0356"
+        },
+        "unique_head": {
+          "bundle": "cos0332_unique_head",
+          "id": "19/0356"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0332_head_01",
+          "id": "0356/a02"
+        },
+        "body": {
+          "bundle": "cos0332_body_01",
+          "id": "99/0356"
+        },
+        "unique_head": {
+          "bundle": "cos0332_unique_head_01",
+          "id": "19/0356a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0332_head_02",
+          "id": "0356/a02"
+        },
+        "body": {
+          "bundle": "cos0332_body_02",
+          "id": "99/0356"
+        },
+        "unique_head": {
+          "bundle": "cos0332_unique_head_02",
+          "id": "19/0356b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0332_head_03",
+          "id": "0356/a02"
+        },
+        "body": {
+          "bundle": "cos0332_body_03",
+          "id": "99/0356"
+        },
+        "unique_head": {
+          "bundle": "cos0332_unique_head_03",
+          "id": "19/0356c"
+        }
+      }
+    }
+  },
+  "cos0333": {
+    "name": "ダークデコラ・キャットガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668913200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0333_head",
+          "id": "0354/a02"
+        },
+        "body": {
+          "bundle": "cos0333_body",
+          "id": "99/0354"
+        },
+        "unique_head": {
+          "bundle": "cos0333_unique_head",
+          "id": "17/0354"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0333_head_01",
+          "id": "0354/a02"
+        },
+        "body": {
+          "bundle": "cos0333_body_01",
+          "id": "99/0354"
+        },
+        "unique_head": {
+          "bundle": "cos0333_unique_head_01",
+          "id": "17/0354a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0333_head_02",
+          "id": "0354/a02"
+        },
+        "body": {
+          "bundle": "cos0333_body_02",
+          "id": "99/0354"
+        },
+        "unique_head": {
+          "bundle": "cos0333_unique_head_02",
+          "id": "17/0354b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0333_head_03",
+          "id": "0354/a02"
+        },
+        "body": {
+          "bundle": "cos0333_body_03",
+          "id": "99/0354"
+        },
+        "unique_head": {
+          "bundle": "cos0333_unique_head_03",
+          "id": "17/0354c"
+        }
+      }
+    }
+  },
+  "cos0334": {
+    "name": "ダークデコラ・ハートガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1668913200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0334_head",
+          "id": "0355/a02"
+        },
+        "body": {
+          "bundle": "cos0334_body",
+          "id": "99/0355"
+        },
+        "unique_head": {
+          "bundle": "cos0334_unique_head",
+          "id": "18/0355"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0334_head_01",
+          "id": "0355/a02"
+        },
+        "body": {
+          "bundle": "cos0334_body_01",
+          "id": "99/0355"
+        },
+        "unique_head": {
+          "bundle": "cos0334_unique_head_01",
+          "id": "18/0355a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0334_head_02",
+          "id": "0355/a02"
+        },
+        "body": {
+          "bundle": "cos0334_body_02",
+          "id": "99/0355"
+        },
+        "unique_head": {
+          "bundle": "cos0334_unique_head_02",
+          "id": "18/0355b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0334_head_03",
+          "id": "0355/a02"
+        },
+        "body": {
+          "bundle": "cos0334_body_03",
+          "id": "99/0355"
+        },
+        "unique_head": {
+          "bundle": "cos0334_unique_head_03",
+          "id": "18/0355c"
+        }
+      }
+    }
   }
 }
