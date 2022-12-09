@@ -18949,5 +18949,200 @@
         }
       }
     }
+  },
+  "cos0340": {
+    "name": "Beat Rider",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1670727600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0340_unique_head",
+          "id": "11/0366"
+        },
+        "body": {
+          "bundle": "cos0340_body",
+          "id": "99/0366"
+        },
+        "head": {
+          "bundle": "cos0340_head",
+          "id": "0366/a02"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0340_unique_head_01",
+          "id": "11/0366a"
+        },
+        "body": {
+          "bundle": "cos0340_body_01",
+          "id": "99/0366"
+        },
+        "head": {
+          "bundle": "cos0340_head_01",
+          "id": "0366/a02"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0340_unique_head_02",
+          "id": "11/0366b"
+        },
+        "body": {
+          "bundle": "cos0340_body_02",
+          "id": "99/0366"
+        },
+        "head": {
+          "bundle": "cos0340_head_02",
+          "id": "0366/a02"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0340_unique_head_03",
+          "id": "11/0366c"
+        },
+        "body": {
+          "bundle": "cos0340_body_03",
+          "id": "99/0366"
+        },
+        "head": {
+          "bundle": "cos0340_head_03",
+          "id": "0366/a02"
+        }
+      }
+    }
+  },
+  "cos0341": {
+    "name": "Calm Rider",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1670727600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0341_head",
+          "id": "0367/a02"
+        },
+        "body": {
+          "bundle": "cos0341_body",
+          "id": "99/0367"
+        },
+        "unique_head": {
+          "bundle": "cos0341_unique_head",
+          "id": "12/0367"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0341_head_01",
+          "id": "0367/a02"
+        },
+        "body": {
+          "bundle": "cos0341_body_01",
+          "id": "99/0367"
+        },
+        "unique_head": {
+          "bundle": "cos0341_unique_head_01",
+          "id": "12/0367a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0341_head_02",
+          "id": "0367/a02"
+        },
+        "body": {
+          "bundle": "cos0341_body_02",
+          "id": "99/0367"
+        },
+        "unique_head": {
+          "bundle": "cos0341_unique_head_02",
+          "id": "12/0367b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0341_head_03",
+          "id": "0367/a02"
+        },
+        "body": {
+          "bundle": "cos0341_body_03",
+          "id": "99/0367"
+        },
+        "unique_head": {
+          "bundle": "cos0341_unique_head_03",
+          "id": "12/0367c"
+        }
+      }
+    }
+  },
+  "cos0342": {
+    "name": "Ramble Rider",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1670727600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0342_head",
+          "id": "0365/a02"
+        },
+        "body": {
+          "bundle": "cos0342_body",
+          "id": "99/0365"
+        },
+        "unique_head": {
+          "bundle": "cos0342_unique_head",
+          "id": "24/0365"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0342_head_01",
+          "id": "0365/a02"
+        },
+        "body": {
+          "bundle": "cos0342_body_01",
+          "id": "99/0365"
+        },
+        "unique_head": {
+          "bundle": "cos0342_unique_head_01",
+          "id": "24/0365a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0342_head_02",
+          "id": "0365/a02"
+        },
+        "body": {
+          "bundle": "cos0342_body_02",
+          "id": "99/0365"
+        },
+        "unique_head": {
+          "bundle": "cos0342_unique_head_02",
+          "id": "24/0365b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0342_head_03",
+          "id": "0365/a02"
+        },
+        "body": {
+          "bundle": "cos0342_body_03",
+          "id": "99/0365"
+        },
+        "unique_head": {
+          "bundle": "cos0342_unique_head_03",
+          "id": "24/0365c"
+        }
+      }
+    }
   }
 }
