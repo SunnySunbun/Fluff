@@ -19144,5 +19144,298 @@
         }
       }
     }
+  },
+  "cos0343": {
+    "name": "ホーリースノウ・アーチャー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1671591600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0343_head",
+          "id": "0388/a03"
+        },
+        "body": {
+          "bundle": "cos0343_body",
+          "id": "99/0388"
+        },
+        "unique_head": {
+          "bundle": "cos0343_unique_head",
+          "id": "08/0388"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0343_head_01",
+          "id": "0388/a03"
+        },
+        "body": {
+          "bundle": "cos0343_body_01",
+          "id": "99/0388"
+        },
+        "unique_head": {
+          "bundle": "cos0343_unique_head_01",
+          "id": "08/0388a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0343_head_02",
+          "id": "0388/a03"
+        },
+        "body": {
+          "bundle": "cos0343_body_02",
+          "id": "99/0388"
+        },
+        "unique_head": {
+          "bundle": "cos0343_unique_head_02",
+          "id": "08/0388b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0343_head_03",
+          "id": "0388/a03"
+        },
+        "body": {
+          "bundle": "cos0343_body_03",
+          "id": "99/0388"
+        },
+        "unique_head": {
+          "bundle": "cos0343_unique_head_03",
+          "id": "08/0388c"
+        }
+      }
+    }
+  },
+  "cos0344": {
+    "name": "カームナイト・アーチャー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1671591600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0344_head",
+          "id": "0387/a03"
+        },
+        "body": {
+          "bundle": "cos0344_body",
+          "id": "99/0387"
+        },
+        "unique_head": {
+          "bundle": "cos0344_unique_head",
+          "id": "18/0387"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0344_head_01",
+          "id": "0387/a03"
+        },
+        "body": {
+          "bundle": "cos0344_body_01",
+          "id": "99/0387"
+        },
+        "unique_head": {
+          "bundle": "cos0344_unique_head_01",
+          "id": "18/0387a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0344_head_02",
+          "id": "0387/a03"
+        },
+        "body": {
+          "bundle": "cos0344_body_02",
+          "id": "99/0387"
+        },
+        "unique_head": {
+          "bundle": "cos0344_unique_head_02",
+          "id": "18/0387b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0344_head_03",
+          "id": "0387/a03"
+        },
+        "body": {
+          "bundle": "cos0344_body_03",
+          "id": "99/0387"
+        },
+        "unique_head": {
+          "bundle": "cos0344_unique_head_03",
+          "id": "18/0387c"
+        }
+      }
+    }
+  },
+  "cos0345": {
+    "name": "イルミネート・アーチャー",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1671591600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0345_head",
+          "id": "0386/a02"
+        },
+        "body": {
+          "bundle": "cos0345_body",
+          "id": "99/0386"
+        },
+        "unique_head": {
+          "bundle": "cos0345_unique_head",
+          "id": "26/0386"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0345_head_01",
+          "id": "0386/a02"
+        },
+        "body": {
+          "bundle": "cos0345_body_01",
+          "id": "99/0386"
+        },
+        "unique_head": {
+          "bundle": "cos0345_unique_head_01",
+          "id": "26/0386a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0345_head_02",
+          "id": "0386/a02"
+        },
+        "body": {
+          "bundle": "cos0345_body_02",
+          "id": "99/0386"
+        },
+        "unique_head": {
+          "bundle": "cos0345_unique_head_02",
+          "id": "26/0386b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0345_head_03",
+          "id": "0386/a02"
+        },
+        "body": {
+          "bundle": "cos0345_body_03",
+          "id": "99/0386"
+        },
+        "unique_head": {
+          "bundle": "cos0345_unique_head_03",
+          "id": "26/0386c"
+        }
+      }
+    }
+  },
+  "cos0346": {
+    "name": "メリーベルドレス",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1671688800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0346_head",
+          "id": "0379/a03"
+        },
+        "body": {
+          "bundle": "cos0346_body",
+          "id": "99/0379"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0346_head_01",
+          "id": "0379/a03"
+        },
+        "body": {
+          "bundle": "cos0346_body_01",
+          "id": "99/0379"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0346_head_02",
+          "id": "0379/a03"
+        },
+        "body": {
+          "bundle": "cos0346_body_02",
+          "id": "99/0379"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0346_head_03",
+          "id": "0379/a03"
+        },
+        "body": {
+          "bundle": "cos0346_body_03",
+          "id": "99/0379"
+        }
+      }
+    }
+  },
+  "cos0347": {
+    "name": "メリーベルタキシード",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1671688800000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0347_head",
+          "id": "0378/a02"
+        },
+        "body": {
+          "bundle": "cos0347_body",
+          "id": "99/0378"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0347_head_01",
+          "id": "0378/a02"
+        },
+        "body": {
+          "bundle": "cos0347_body_01",
+          "id": "99/0378"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0347_head_02",
+          "id": "0378/a02"
+        },
+        "body": {
+          "bundle": "cos0347_body_02",
+          "id": "99/0378"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0347_head_03",
+          "id": "0378/a02"
+        },
+        "body": {
+          "bundle": "cos0347_body_03",
+          "id": "99/0378"
+        }
+      }
+    }
   }
 }
