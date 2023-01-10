@@ -19437,5 +19437,741 @@
         }
       }
     }
+  },
+  "cos0348": {
+    "name": "ナルキッソスサロペット",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0348_head",
+          "id": "0376/a02"
+        },
+        "body": {
+          "bundle": "cos0348_body",
+          "id": "99/0376"
+        },
+        "unique_head": {
+          "bundle": "cos0348_unique_head",
+          "id": "19/0376"
+        },
+        "unique_hair": {
+          "bundle": "cos0348_unique_hair",
+          "id": "19/0376n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0348_head_01",
+          "id": "0376/a02"
+        },
+        "body": {
+          "bundle": "cos0348_body_01",
+          "id": "99/0376"
+        },
+        "unique_head": {
+          "bundle": "cos0348_unique_head_01",
+          "id": "19/0376a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0348_head_02",
+          "id": "0376/a02"
+        },
+        "body": {
+          "bundle": "cos0348_body_02",
+          "id": "99/0376"
+        },
+        "unique_head": {
+          "bundle": "cos0348_unique_head_02",
+          "id": "19/0376b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0348_head_03",
+          "id": "0376/a02"
+        },
+        "body": {
+          "bundle": "cos0348_body_03",
+          "id": "99/0376"
+        },
+        "unique_head": {
+          "bundle": "cos0348_unique_head_03",
+          "id": "19/0376c"
+        }
+      }
+    }
+  },
+  "cos0349": {
+    "name": "コラージュロリータ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0349_head",
+          "id": "0377/a02"
+        },
+        "body": {
+          "bundle": "cos0349_body",
+          "id": "99/0377"
+        },
+        "unique_head": {
+          "bundle": "cos0349_unique_head",
+          "id": "20/0377"
+        },
+        "unique_hair": {
+          "bundle": "cos0349_unique_hair",
+          "id": "20/0377n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0349_head_01",
+          "id": "0377/a02"
+        },
+        "body": {
+          "bundle": "cos0349_body_01",
+          "id": "99/0377"
+        },
+        "unique_head": {
+          "bundle": "cos0349_unique_head_01",
+          "id": "20/0377a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0349_head_02",
+          "id": "0377/a02"
+        },
+        "body": {
+          "bundle": "cos0349_body_02",
+          "id": "99/0377"
+        },
+        "unique_head": {
+          "bundle": "cos0349_unique_head_02",
+          "id": "20/0377b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0349_head_03",
+          "id": "0377/a02"
+        },
+        "body": {
+          "bundle": "cos0349_body_03",
+          "id": "99/0377"
+        },
+        "unique_head": {
+          "bundle": "cos0349_unique_head_03",
+          "id": "20/0377c"
+        }
+      }
+    }
+  },
+  "cos0350": {
+    "name": "翔る龍神の衣",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0350_head",
+          "id": "0381/a02"
+        },
+        "body": {
+          "bundle": "cos0350_body",
+          "id": "99/0381"
+        },
+        "unique_head": {
+          "bundle": "cos0350_unique_head",
+          "id": "13/0381"
+        },
+        "unique_hair": {
+          "bundle": "cos0350_unique_hair",
+          "id": "13/0381n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0350_head_01",
+          "id": "0381/a02"
+        },
+        "body": {
+          "bundle": "cos0350_body_01",
+          "id": "99/0381"
+        },
+        "unique_head": {
+          "bundle": "cos0350_unique_head_01",
+          "id": "13/0381a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0350_head_02",
+          "id": "0381/a02"
+        },
+        "body": {
+          "bundle": "cos0350_body_02",
+          "id": "99/0381"
+        },
+        "unique_head": {
+          "bundle": "cos0350_unique_head_02",
+          "id": "13/0381b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0350_head_03",
+          "id": "0381/a02"
+        },
+        "body": {
+          "bundle": "cos0350_body_03",
+          "id": "99/0381"
+        },
+        "unique_head": {
+          "bundle": "cos0350_unique_head_03",
+          "id": "13/0381c"
+        }
+      }
+    }
+  },
+  "cos0351": {
+    "name": "侍る白狐の衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0351_head",
+          "id": "0382/a02"
+        },
+        "body": {
+          "bundle": "cos0351_body",
+          "id": "99/0382"
+        },
+        "unique_head": {
+          "bundle": "cos0351_unique_head",
+          "id": "10/0382"
+        },
+        "unique_hair": {
+          "bundle": "cos0351_unique_hair",
+          "id": "10/0382n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0351_head_01",
+          "id": "0382/a02"
+        },
+        "body": {
+          "bundle": "cos0351_body_01",
+          "id": "99/0382"
+        },
+        "unique_head": {
+          "bundle": "cos0351_unique_head_01",
+          "id": "10/0382a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0351_head_02",
+          "id": "0382/a02"
+        },
+        "body": {
+          "bundle": "cos0351_body_02",
+          "id": "99/0382"
+        },
+        "unique_head": {
+          "bundle": "cos0351_unique_head_02",
+          "id": "10/0382b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0351_head_03",
+          "id": "0382/a02"
+        },
+        "body": {
+          "bundle": "cos0351_body_03",
+          "id": "99/0382"
+        },
+        "unique_head": {
+          "bundle": "cos0351_unique_head_03",
+          "id": "10/0382c"
+        }
+      }
+    }
+  },
+  "cos0352": {
+    "name": "跳ねる狛犬の衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0352_head",
+          "id": "0380/a04"
+        },
+        "body": {
+          "bundle": "cos0352_body",
+          "id": "99/0380"
+        },
+        "unique_head": {
+          "bundle": "cos0352_unique_head",
+          "id": "22/0380"
+        },
+        "unique_hair": {
+          "bundle": "cos0352_unique_hair",
+          "id": "22/0380n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0352_head_01",
+          "id": "0380/a04"
+        },
+        "body": {
+          "bundle": "cos0352_body_01",
+          "id": "99/0380"
+        },
+        "unique_head": {
+          "bundle": "cos0352_unique_head_01",
+          "id": "22/0380a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0352_head_02",
+          "id": "0380/a04"
+        },
+        "body": {
+          "bundle": "cos0352_body_02",
+          "id": "99/0380"
+        },
+        "unique_head": {
+          "bundle": "cos0352_unique_head_02",
+          "id": "22/0380b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0352_head_03",
+          "id": "0380/a04"
+        },
+        "body": {
+          "bundle": "cos0352_body_03",
+          "id": "99/0380"
+        },
+        "unique_head": {
+          "bundle": "cos0352_unique_head_03",
+          "id": "22/0380c"
+        }
+      }
+    }
+  },
+  "cos0353": {
+    "name": "ウサキャロットコート",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0353_head",
+          "id": "0390/a05"
+        },
+        "body": {
+          "bundle": "cos0353_body",
+          "id": "99/0390"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0353_head_01",
+          "id": "0390/a05"
+        },
+        "body": {
+          "bundle": "cos0353_body_01",
+          "id": "99/0390"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0353_head_02",
+          "id": "0390/a05"
+        },
+        "body": {
+          "bundle": "cos0353_body_02",
+          "id": "99/0390"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0353_head_03",
+          "id": "0390/a05"
+        },
+        "body": {
+          "bundle": "cos0353_body_03",
+          "id": "99/0390"
+        }
+      }
+    }
+  },
+  "cos0354": {
+    "name": "ウサモコットカーディガン",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1672455600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0354_head",
+          "id": "0389/a05"
+        },
+        "body": {
+          "bundle": "cos0354_body",
+          "id": "99/0389"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0354_head_01",
+          "id": "0389/a05"
+        },
+        "body": {
+          "bundle": "cos0354_body_01",
+          "id": "99/0389"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0354_head_02",
+          "id": "0389/a05"
+        },
+        "body": {
+          "bundle": "cos0354_body_02",
+          "id": "99/0389"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0354_head_03",
+          "id": "0389/a05"
+        },
+        "body": {
+          "bundle": "cos0354_body_03",
+          "id": "99/0389"
+        }
+      }
+    }
+  },
+  "cos0355": {
+    "name": "Snowflake White Rabbit彡",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1672498800000,
+    "design": "mell°",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0355_head",
+          "id": "0375/a05"
+        },
+        "body": {
+          "bundle": "cos0355_body",
+          "id": "99/0375"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0355_head_01",
+          "id": "0375/a05"
+        },
+        "body": {
+          "bundle": "cos0355_body_01",
+          "id": "99/0375"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0355_head_02",
+          "id": "0375/a05"
+        },
+        "body": {
+          "bundle": "cos0355_body_02",
+          "id": "99/0375"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0355_head_03",
+          "id": "0375/a05"
+        },
+        "body": {
+          "bundle": "cos0355_body_03",
+          "id": "99/0375"
+        }
+      }
+    }
+  },
+  "cos0356": {
+    "name": "プログラム『オーロラ六花』",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1672498800000,
+    "design": "一登",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0356_head",
+          "id": "0374/a01"
+        },
+        "body": {
+          "bundle": "cos0356_body",
+          "id": "99/0374"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0356_head_01",
+          "id": "0374/a01"
+        },
+        "body": {
+          "bundle": "cos0356_body_01",
+          "id": "99/0374"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0356_head_02",
+          "id": "0374/a01"
+        },
+        "body": {
+          "bundle": "cos0356_body_02",
+          "id": "99/0374"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0356_head_03",
+          "id": "0374/a01"
+        },
+        "body": {
+          "bundle": "cos0356_body_03",
+          "id": "99/0374"
+        }
+      }
+    }
+  },
+  "cos0359": {
+    "name": "エターナルドリーマー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1673319600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0359_head",
+          "id": "0384/a02"
+        },
+        "body": {
+          "bundle": "cos0359_body",
+          "id": "99/0384"
+        },
+        "unique_head": {
+          "bundle": "cos0359_unique_head",
+          "id": "14/0384"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0359_head_01",
+          "id": "0384/a02"
+        },
+        "body": {
+          "bundle": "cos0359_body_01",
+          "id": "99/0384"
+        },
+        "unique_head": {
+          "bundle": "cos0359_unique_head_01",
+          "id": "14/0384a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0359_head_02",
+          "id": "0384/a02"
+        },
+        "body": {
+          "bundle": "cos0359_body_02",
+          "id": "99/0384"
+        },
+        "unique_head": {
+          "bundle": "cos0359_unique_head_02",
+          "id": "14/0384b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0359_head_03",
+          "id": "0384/a02"
+        },
+        "body": {
+          "bundle": "cos0359_body_03",
+          "id": "99/0384"
+        },
+        "unique_head": {
+          "bundle": "cos0359_unique_head_03",
+          "id": "14/0384c"
+        }
+      }
+    }
+  },
+  "cos0360": {
+    "name": "ドリーミングアウェイ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1673319600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0360_head",
+          "id": "0385/a03"
+        },
+        "body": {
+          "bundle": "cos0360_body",
+          "id": "99/0385"
+        },
+        "unique_head": {
+          "bundle": "cos0360_unique_head",
+          "id": "16/0385"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0360_head_01",
+          "id": "0385/a03"
+        },
+        "body": {
+          "bundle": "cos0360_body_01",
+          "id": "99/0385"
+        },
+        "unique_head": {
+          "bundle": "cos0360_unique_head_01",
+          "id": "16/0385a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0360_head_02",
+          "id": "0385/a03"
+        },
+        "body": {
+          "bundle": "cos0360_body_02",
+          "id": "99/0385"
+        },
+        "unique_head": {
+          "bundle": "cos0360_unique_head_02",
+          "id": "16/0385b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0360_head_03",
+          "id": "0385/a03"
+        },
+        "body": {
+          "bundle": "cos0360_body_03",
+          "id": "99/0385"
+        },
+        "unique_head": {
+          "bundle": "cos0360_unique_head_03",
+          "id": "16/0385c"
+        }
+      }
+    }
+  },
+  "cos0361": {
+    "name": "フェアリーティンク",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1673319600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0361_head",
+          "id": "0383/a03"
+        },
+        "body": {
+          "bundle": "cos0361_body",
+          "id": "99/0383"
+        },
+        "unique_head": {
+          "bundle": "cos0361_unique_head",
+          "id": "23/0383"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0361_head_01",
+          "id": "0383/a03"
+        },
+        "body": {
+          "bundle": "cos0361_body_01",
+          "id": "99/0383"
+        },
+        "unique_head": {
+          "bundle": "cos0361_unique_head_01",
+          "id": "23/0383a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0361_head_02",
+          "id": "0383/a03"
+        },
+        "body": {
+          "bundle": "cos0361_body_02",
+          "id": "99/0383"
+        },
+        "unique_head": {
+          "bundle": "cos0361_unique_head_02",
+          "id": "23/0383b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0361_head_03",
+          "id": "0383/a03"
+        },
+        "body": {
+          "bundle": "cos0361_body_03",
+          "id": "99/0383"
+        },
+        "unique_head": {
+          "bundle": "cos0361_unique_head_03",
+          "id": "23/0383c"
+        }
+      }
+    }
   }
 }
