@@ -20173,5 +20173,200 @@
         }
       }
     }
+  },
+  "cos0362": {
+    "name": "コンダクター・ライブスーツ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1674270000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0362_head",
+          "id": "0394/a02"
+        },
+        "body": {
+          "bundle": "cos0362_body",
+          "id": "99/0394"
+        },
+        "unique_head": {
+          "bundle": "cos0362_unique_head",
+          "id": "03/0394"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0362_head_01",
+          "id": "0394/a02"
+        },
+        "body": {
+          "bundle": "cos0362_body_01",
+          "id": "99/0394"
+        },
+        "unique_head": {
+          "bundle": "cos0362_unique_head_01",
+          "id": "03/0394a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0362_head_02",
+          "id": "0394/a02"
+        },
+        "body": {
+          "bundle": "cos0362_body_02",
+          "id": "99/0394"
+        },
+        "unique_head": {
+          "bundle": "cos0362_unique_head_02",
+          "id": "03/0394b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0362_head_03",
+          "id": "0394/a02"
+        },
+        "body": {
+          "bundle": "cos0362_body_03",
+          "id": "99/0394"
+        },
+        "unique_head": {
+          "bundle": "cos0362_unique_head_03",
+          "id": "03/0394c"
+        }
+      }
+    }
+  },
+  "cos0363": {
+    "name": "エレガンス・ライブスーツ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1674270000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0363_head",
+          "id": "0393/a02"
+        },
+        "body": {
+          "bundle": "cos0363_body",
+          "id": "99/0393"
+        },
+        "unique_head": {
+          "bundle": "cos0363_unique_head",
+          "id": "02/0393"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0363_head_01",
+          "id": "0393/a02"
+        },
+        "body": {
+          "bundle": "cos0363_body_01",
+          "id": "99/0393"
+        },
+        "unique_head": {
+          "bundle": "cos0363_unique_head_01",
+          "id": "02/0393a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0363_head_02",
+          "id": "0393/a02"
+        },
+        "body": {
+          "bundle": "cos0363_body_02",
+          "id": "99/0393"
+        },
+        "unique_head": {
+          "bundle": "cos0363_unique_head_02",
+          "id": "02/0393b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0363_head_03",
+          "id": "0393/a02"
+        },
+        "body": {
+          "bundle": "cos0363_body_03",
+          "id": "99/0393"
+        },
+        "unique_head": {
+          "bundle": "cos0363_unique_head_03",
+          "id": "02/0393c"
+        }
+      }
+    }
+  },
+  "cos0364": {
+    "name": "ビリーフ・ライブスーツ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1674270000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0364_head",
+          "id": "0395/a02"
+        },
+        "body": {
+          "bundle": "cos0364_body",
+          "id": "99/0395"
+        },
+        "unique_head": {
+          "bundle": "cos0364_unique_head",
+          "id": "04/0395"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0364_head_01",
+          "id": "0395/a02"
+        },
+        "body": {
+          "bundle": "cos0364_body_01",
+          "id": "99/0395"
+        },
+        "unique_head": {
+          "bundle": "cos0364_unique_head_01",
+          "id": "04/0395a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0364_head_02",
+          "id": "0395/a02"
+        },
+        "body": {
+          "bundle": "cos0364_body_02",
+          "id": "99/0395"
+        },
+        "unique_head": {
+          "bundle": "cos0364_unique_head_02",
+          "id": "04/0395b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0364_head_03",
+          "id": "0395/a02"
+        },
+        "body": {
+          "bundle": "cos0364_body_03",
+          "id": "99/0395"
+        },
+        "unique_head": {
+          "bundle": "cos0364_unique_head_03",
+          "id": "04/0395c"
+        }
+      }
+    }
   }
 }
