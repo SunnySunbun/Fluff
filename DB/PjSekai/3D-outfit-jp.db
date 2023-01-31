@@ -20368,5 +20368,310 @@
         }
       }
     }
+  },
+  "cos0365": {
+    "name": "メルティオレンジ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675134000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0365_unique_head",
+          "id": "01/0396"
+        },
+        "body": {
+          "bundle": "cos0365_body",
+          "id": "99/0396"
+        },
+        "head": {
+          "bundle": "cos0365_head",
+          "id": "0396/a02"
+        },
+        "unique_hair": {
+          "bundle": "cos0365_unique_hair",
+          "id": "01/0396n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0365_unique_head_01",
+          "id": "01/0396a"
+        },
+        "body": {
+          "bundle": "cos0365_body_01",
+          "id": "99/0396"
+        },
+        "head": {
+          "bundle": "cos0365_head_01",
+          "id": "0396/a02"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0365_unique_head_02",
+          "id": "01/0396b"
+        },
+        "body": {
+          "bundle": "cos0365_body_02",
+          "id": "99/0396"
+        },
+        "head": {
+          "bundle": "cos0365_head_02",
+          "id": "0396/a02"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0365_unique_head_03",
+          "id": "01/0396c"
+        },
+        "body": {
+          "bundle": "cos0365_body_03",
+          "id": "99/0396"
+        },
+        "head": {
+          "bundle": "cos0365_head_03",
+          "id": "0396/a02"
+        }
+      }
+    }
+  },
+  "cos0366": {
+    "name": "メルティペパーミント",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675134000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0366_head",
+          "id": "0398/a02"
+        },
+        "body": {
+          "bundle": "cos0366_body",
+          "id": "99/0398"
+        },
+        "unique_head": {
+          "bundle": "cos0366_unique_head",
+          "id": "15/0398"
+        },
+        "unique_hair": {
+          "bundle": "cos0366_unique_hair",
+          "id": "15/0398n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0366_head_01",
+          "id": "0398/a02"
+        },
+        "body": {
+          "bundle": "cos0366_body_01",
+          "id": "99/0398"
+        },
+        "unique_head": {
+          "bundle": "cos0366_unique_head_01",
+          "id": "15/0398a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0366_head_02",
+          "id": "0398/a02"
+        },
+        "body": {
+          "bundle": "cos0366_body_02",
+          "id": "99/0398"
+        },
+        "unique_head": {
+          "bundle": "cos0366_unique_head_02",
+          "id": "15/0398b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0366_head_03",
+          "id": "0398/a02"
+        },
+        "body": {
+          "bundle": "cos0366_body_03",
+          "id": "99/0398"
+        },
+        "unique_head": {
+          "bundle": "cos0366_unique_head_03",
+          "id": "15/0398c"
+        }
+      }
+    }
+  },
+  "cos0367": {
+    "name": "メルティラベンダー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675134000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0367_head",
+          "id": "0397/a03"
+        },
+        "body": {
+          "bundle": "cos0367_body",
+          "id": "99/0397"
+        },
+        "unique_head": {
+          "bundle": "cos0367_unique_head",
+          "id": "17/0397"
+        },
+        "unique_hair": {
+          "bundle": "cos0367_unique_hair",
+          "id": "17/0397n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0367_head_01",
+          "id": "0397/a03"
+        },
+        "body": {
+          "bundle": "cos0367_body_01",
+          "id": "99/0397"
+        },
+        "unique_head": {
+          "bundle": "cos0367_unique_head_01",
+          "id": "17/0397a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0367_head_02",
+          "id": "0397/a03"
+        },
+        "body": {
+          "bundle": "cos0367_body_02",
+          "id": "99/0397"
+        },
+        "unique_head": {
+          "bundle": "cos0367_unique_head_02",
+          "id": "17/0397b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0367_head_03",
+          "id": "0397/a03"
+        },
+        "body": {
+          "bundle": "cos0367_body_03",
+          "id": "99/0397"
+        },
+        "unique_head": {
+          "bundle": "cos0367_unique_head_03",
+          "id": "17/0397c"
+        }
+      }
+    }
+  },
+  "cos0368": {
+    "name": "花錦",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1675177200000,
+    "design": "三月",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0368_head",
+          "id": "0392/a05"
+        },
+        "body": {
+          "bundle": "cos0368_body",
+          "id": "99/0392"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0368_head_01",
+          "id": "0392/a05"
+        },
+        "body": {
+          "bundle": "cos0368_body_01",
+          "id": "99/0392"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0368_head_02",
+          "id": "0392/a05"
+        },
+        "body": {
+          "bundle": "cos0368_body_02",
+          "id": "99/0392"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0368_head_03",
+          "id": "0392/a05"
+        },
+        "body": {
+          "bundle": "cos0368_body_03",
+          "id": "99/0392"
+        }
+      }
+    }
+  },
+  "cos0369": {
+    "name": "月影ノ忍び",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1675177200000,
+    "design": "くーぜ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0369_head",
+          "id": "0391/a01"
+        },
+        "body": {
+          "bundle": "cos0369_body",
+          "id": "99/0391"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0369_head_01",
+          "id": "0391/a01"
+        },
+        "body": {
+          "bundle": "cos0369_body_01",
+          "id": "99/0391"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0369_head_02",
+          "id": "0391/a01"
+        },
+        "body": {
+          "bundle": "cos0369_body_02",
+          "id": "99/0391"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0369_head_03",
+          "id": "0391/a01"
+        },
+        "body": {
+          "bundle": "cos0369_body_03",
+          "id": "99/0391"
+        }
+      }
+    }
   }
 }
