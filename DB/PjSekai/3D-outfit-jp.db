@@ -20673,5 +20673,200 @@
         }
       }
     }
+  },
+  "cos0370": {
+    "name": "スプリングプリンセス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675998000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0370_head",
+          "id": "0408/a03"
+        },
+        "body": {
+          "bundle": "cos0370_body",
+          "id": "99/0408"
+        },
+        "unique_head": {
+          "bundle": "cos0370_unique_head",
+          "id": "08/0408"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0370_head_01",
+          "id": "0408/a03"
+        },
+        "body": {
+          "bundle": "cos0370_body_01",
+          "id": "99/0408"
+        },
+        "unique_head": {
+          "bundle": "cos0370_unique_head_01",
+          "id": "08/0408a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0370_head_02",
+          "id": "0408/a03"
+        },
+        "body": {
+          "bundle": "cos0370_body_02",
+          "id": "99/0408"
+        },
+        "unique_head": {
+          "bundle": "cos0370_unique_head_02",
+          "id": "08/0408b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0370_head_03",
+          "id": "0408/a03"
+        },
+        "body": {
+          "bundle": "cos0370_body_03",
+          "id": "99/0408"
+        },
+        "unique_head": {
+          "bundle": "cos0370_unique_head_03",
+          "id": "08/0408c"
+        }
+      }
+    }
+  },
+  "cos0371": {
+    "name": "フレッシュグリーンスワロウ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675998000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0371_head",
+          "id": "0406/a02"
+        },
+        "body": {
+          "bundle": "cos0371_body",
+          "id": "99/0406"
+        },
+        "unique_head": {
+          "bundle": "cos0371_unique_head",
+          "id": "05/0406"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0371_head_01",
+          "id": "0406/a02"
+        },
+        "body": {
+          "bundle": "cos0371_body_01",
+          "id": "99/0406"
+        },
+        "unique_head": {
+          "bundle": "cos0371_unique_head_01",
+          "id": "05/0406a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0371_head_02",
+          "id": "0406/a02"
+        },
+        "body": {
+          "bundle": "cos0371_body_02",
+          "id": "99/0406"
+        },
+        "unique_head": {
+          "bundle": "cos0371_unique_head_02",
+          "id": "05/0406b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0371_head_03",
+          "id": "0406/a02"
+        },
+        "body": {
+          "bundle": "cos0371_body_03",
+          "id": "99/0406"
+        },
+        "unique_head": {
+          "bundle": "cos0371_unique_head_03",
+          "id": "05/0406c"
+        }
+      }
+    }
+  },
+  "cos0372": {
+    "name": "フラワーギフトスワロウ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1675998000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0372_head",
+          "id": "0407/a02"
+        },
+        "body": {
+          "bundle": "cos0372_body",
+          "id": "99/0407"
+        },
+        "unique_head": {
+          "bundle": "cos0372_unique_head",
+          "id": "07/0407"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0372_head_01",
+          "id": "0407/a02"
+        },
+        "body": {
+          "bundle": "cos0372_body_01",
+          "id": "99/0407"
+        },
+        "unique_head": {
+          "bundle": "cos0372_unique_head_01",
+          "id": "07/0407a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0372_head_02",
+          "id": "0407/a02"
+        },
+        "body": {
+          "bundle": "cos0372_body_02",
+          "id": "99/0407"
+        },
+        "unique_head": {
+          "bundle": "cos0372_unique_head_02",
+          "id": "07/0407b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0372_head_03",
+          "id": "0407/a02"
+        },
+        "body": {
+          "bundle": "cos0372_body_03",
+          "id": "99/0407"
+        },
+        "unique_head": {
+          "bundle": "cos0372_unique_head_03",
+          "id": "07/0407c"
+        }
+      }
+    }
   }
 }
