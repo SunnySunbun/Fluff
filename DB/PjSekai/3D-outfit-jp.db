@@ -20868,5 +20868,200 @@
         }
       }
     }
+  },
+  "cos0373": {
+    "name": "Flight Kid",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1676775600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0373_head",
+          "id": "0401/a03"
+        },
+        "body": {
+          "bundle": "cos0373_body",
+          "id": "99/0401"
+        },
+        "unique_head": {
+          "bundle": "cos0373_unique_head",
+          "id": "09/0401"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0373_head_01",
+          "id": "0401/a03"
+        },
+        "body": {
+          "bundle": "cos0373_body_01",
+          "id": "99/0401"
+        },
+        "unique_head": {
+          "bundle": "cos0373_unique_head_01",
+          "id": "09/0401a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0373_head_02",
+          "id": "0401/a03"
+        },
+        "body": {
+          "bundle": "cos0373_body_02",
+          "id": "99/0401"
+        },
+        "unique_head": {
+          "bundle": "cos0373_unique_head_02",
+          "id": "09/0401b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0373_head_03",
+          "id": "0401/a03"
+        },
+        "body": {
+          "bundle": "cos0373_body_03",
+          "id": "99/0401"
+        },
+        "unique_head": {
+          "bundle": "cos0373_unique_head_03",
+          "id": "09/0401c"
+        }
+      }
+    }
+  },
+  "cos0374": {
+    "name": "Fallen Kid",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1676775600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0374_head",
+          "id": "0402/a02"
+        },
+        "body": {
+          "bundle": "cos0374_body",
+          "id": "99/0402"
+        },
+        "unique_head": {
+          "bundle": "cos0374_unique_head",
+          "id": "10/0402"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0374_head_01",
+          "id": "0402/a02"
+        },
+        "body": {
+          "bundle": "cos0374_body_01",
+          "id": "99/0402"
+        },
+        "unique_head": {
+          "bundle": "cos0374_unique_head_01",
+          "id": "10/0402a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0374_head_02",
+          "id": "0402/a02"
+        },
+        "body": {
+          "bundle": "cos0374_body_02",
+          "id": "99/0402"
+        },
+        "unique_head": {
+          "bundle": "cos0374_unique_head_02",
+          "id": "10/0402b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0374_head_03",
+          "id": "0402/a02"
+        },
+        "body": {
+          "bundle": "cos0374_body_03",
+          "id": "99/0402"
+        },
+        "unique_head": {
+          "bundle": "cos0374_unique_head_03",
+          "id": "10/0402c"
+        }
+      }
+    }
+  },
+  "cos0375": {
+    "name": "Hound Kid",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1676775600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0375_unique_head",
+          "id": "11/0403"
+        },
+        "body": {
+          "bundle": "cos0375_body",
+          "id": "99/0403"
+        },
+        "head": {
+          "bundle": "cos0375_head",
+          "id": "0403/a03"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0375_unique_head_01",
+          "id": "11/0403a"
+        },
+        "body": {
+          "bundle": "cos0375_body_01",
+          "id": "99/0403"
+        },
+        "head": {
+          "bundle": "cos0375_head_01",
+          "id": "0403/a03"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0375_unique_head_02",
+          "id": "11/0403b"
+        },
+        "body": {
+          "bundle": "cos0375_body_02",
+          "id": "99/0403"
+        },
+        "head": {
+          "bundle": "cos0375_head_02",
+          "id": "0403/a03"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0375_unique_head_03",
+          "id": "11/0403c"
+        },
+        "body": {
+          "bundle": "cos0375_body_03",
+          "id": "99/0403"
+        },
+        "head": {
+          "bundle": "cos0375_head_03",
+          "id": "0403/a03"
+        }
+      }
+    }
   }
 }
