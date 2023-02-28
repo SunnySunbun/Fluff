@@ -21063,5 +21063,310 @@
         }
       }
     }
+  },
+  "cos0376": {
+    "name": "シュヴァリエ・ノワール",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1677553200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0376_head",
+          "id": "0410/a02"
+        },
+        "body": {
+          "bundle": "cos0376_body",
+          "id": "99/0410"
+        },
+        "unique_head": {
+          "bundle": "cos0376_unique_head",
+          "id": "12/0410"
+        },
+        "unique_hair": {
+          "bundle": "cos0376_unique_hair",
+          "id": "12/0410n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0376_head_01",
+          "id": "0410/a02"
+        },
+        "body": {
+          "bundle": "cos0376_body_01",
+          "id": "99/0410"
+        },
+        "unique_head": {
+          "bundle": "cos0376_unique_head_01",
+          "id": "12/0410a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0376_head_02",
+          "id": "0410/a02"
+        },
+        "body": {
+          "bundle": "cos0376_body_02",
+          "id": "99/0410"
+        },
+        "unique_head": {
+          "bundle": "cos0376_unique_head_02",
+          "id": "12/0410b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0376_head_03",
+          "id": "0410/a02"
+        },
+        "body": {
+          "bundle": "cos0376_body_03",
+          "id": "99/0410"
+        },
+        "unique_head": {
+          "bundle": "cos0376_unique_head_03",
+          "id": "12/0410c"
+        }
+      }
+    }
+  },
+  "cos0377": {
+    "name": "マッド・ソーサラー",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1677553200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0377_head",
+          "id": "0411/a03"
+        },
+        "body": {
+          "bundle": "cos0377_body",
+          "id": "99/0411"
+        },
+        "unique_head": {
+          "bundle": "cos0377_unique_head",
+          "id": "16/0411"
+        },
+        "unique_hair": {
+          "bundle": "cos0377_unique_hair",
+          "id": "16/0411n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0377_head_01",
+          "id": "0411/a03"
+        },
+        "body": {
+          "bundle": "cos0377_body_01",
+          "id": "99/0411"
+        },
+        "unique_head": {
+          "bundle": "cos0377_unique_head_01",
+          "id": "16/0411a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0377_head_02",
+          "id": "0411/a03"
+        },
+        "body": {
+          "bundle": "cos0377_body_02",
+          "id": "99/0411"
+        },
+        "unique_head": {
+          "bundle": "cos0377_unique_head_02",
+          "id": "16/0411b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0377_head_03",
+          "id": "0411/a03"
+        },
+        "body": {
+          "bundle": "cos0377_body_03",
+          "id": "99/0411"
+        },
+        "unique_head": {
+          "bundle": "cos0377_unique_head_03",
+          "id": "16/0411c"
+        }
+      }
+    }
+  },
+  "cos0378": {
+    "name": "ワンダリング・ガンナー",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1677553200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0378_head",
+          "id": "0409/a02"
+        },
+        "body": {
+          "bundle": "cos0378_body",
+          "id": "99/0409"
+        },
+        "unique_head": {
+          "bundle": "cos0378_unique_head",
+          "id": "26/0409"
+        },
+        "unique_hair": {
+          "bundle": "cos0378_unique_hair",
+          "id": "26/0409n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0378_head_01",
+          "id": "0409/a02"
+        },
+        "body": {
+          "bundle": "cos0378_body_01",
+          "id": "99/0409"
+        },
+        "unique_head": {
+          "bundle": "cos0378_unique_head_01",
+          "id": "26/0409a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0378_head_02",
+          "id": "0409/a02"
+        },
+        "body": {
+          "bundle": "cos0378_body_02",
+          "id": "99/0409"
+        },
+        "unique_head": {
+          "bundle": "cos0378_unique_head_02",
+          "id": "26/0409b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0378_head_03",
+          "id": "0409/a02"
+        },
+        "body": {
+          "bundle": "cos0378_body_03",
+          "id": "99/0409"
+        },
+        "unique_head": {
+          "bundle": "cos0378_unique_head_03",
+          "id": "26/0409c"
+        }
+      }
+    }
+  },
+  "cos0379": {
+    "name": "shot",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1677596400000,
+    "design": "鴨ひれ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0379_head",
+          "id": "0405/a05"
+        },
+        "body": {
+          "bundle": "cos0379_body",
+          "id": "99/0405"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0379_head_01",
+          "id": "0405/a05"
+        },
+        "body": {
+          "bundle": "cos0379_body_01",
+          "id": "99/0405"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0379_head_02",
+          "id": "0405/a05"
+        },
+        "body": {
+          "bundle": "cos0379_body_02",
+          "id": "99/0405"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0379_head_03",
+          "id": "0405/a05"
+        },
+        "body": {
+          "bundle": "cos0379_body_03",
+          "id": "99/0405"
+        }
+      }
+    }
+  },
+  "cos0380": {
+    "name": "BRILLIANT COWBOY!!",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1677596400000,
+    "design": "ヲタ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0380_head",
+          "id": "0404/a05"
+        },
+        "body": {
+          "bundle": "cos0380_body",
+          "id": "99/0404"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0380_head_01",
+          "id": "0404/a05"
+        },
+        "body": {
+          "bundle": "cos0380_body_01",
+          "id": "99/0404"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0380_head_02",
+          "id": "0404/a05"
+        },
+        "body": {
+          "bundle": "cos0380_body_02",
+          "id": "99/0404"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0380_head_03",
+          "id": "0404/a05"
+        },
+        "body": {
+          "bundle": "cos0380_body_03",
+          "id": "99/0404"
+        }
+      }
+    }
   }
 }
