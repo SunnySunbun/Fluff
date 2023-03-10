@@ -21368,5 +21368,200 @@
         }
       }
     }
+  },
+  "cos0381": {
+    "name": "Fearless Clown",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1678503600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0381_head",
+          "id": "0415/a02"
+        },
+        "body": {
+          "bundle": "cos0381_body",
+          "id": "99/0415"
+        },
+        "unique_head": {
+          "bundle": "cos0381_unique_head",
+          "id": "13/0415"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0381_head_01",
+          "id": "0415/a02"
+        },
+        "body": {
+          "bundle": "cos0381_body_01",
+          "id": "99/0415"
+        },
+        "unique_head": {
+          "bundle": "cos0381_unique_head_01",
+          "id": "13/0415a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0381_head_02",
+          "id": "0415/a02"
+        },
+        "body": {
+          "bundle": "cos0381_body_02",
+          "id": "99/0415"
+        },
+        "unique_head": {
+          "bundle": "cos0381_unique_head_02",
+          "id": "13/0415b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0381_head_03",
+          "id": "0415/a02"
+        },
+        "body": {
+          "bundle": "cos0381_body_03",
+          "id": "99/0415"
+        },
+        "unique_head": {
+          "bundle": "cos0381_unique_head_03",
+          "id": "13/0415c"
+        }
+      }
+    }
+  },
+  "cos0382": {
+    "name": "Innocent Clown",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1678503600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0382_head",
+          "id": "0416/a02"
+        },
+        "body": {
+          "bundle": "cos0382_body",
+          "id": "99/0416"
+        },
+        "unique_head": {
+          "bundle": "cos0382_unique_head",
+          "id": "14/0416"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0382_head_01",
+          "id": "0416/a02"
+        },
+        "body": {
+          "bundle": "cos0382_body_01",
+          "id": "99/0416"
+        },
+        "unique_head": {
+          "bundle": "cos0382_unique_head_01",
+          "id": "14/0416a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0382_head_02",
+          "id": "0416/a02"
+        },
+        "body": {
+          "bundle": "cos0382_body_02",
+          "id": "99/0416"
+        },
+        "unique_head": {
+          "bundle": "cos0382_unique_head_02",
+          "id": "14/0416b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0382_head_03",
+          "id": "0416/a02"
+        },
+        "body": {
+          "bundle": "cos0382_body_03",
+          "id": "99/0416"
+        },
+        "unique_head": {
+          "bundle": "cos0382_unique_head_03",
+          "id": "14/0416c"
+        }
+      }
+    }
+  },
+  "cos0383": {
+    "name": "Sway Clown",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1678503600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0383_head",
+          "id": "0417/a03"
+        },
+        "body": {
+          "bundle": "cos0383_body",
+          "id": "99/0417"
+        },
+        "unique_head": {
+          "bundle": "cos0383_unique_head",
+          "id": "15/0417"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0383_head_01",
+          "id": "0417/a03"
+        },
+        "body": {
+          "bundle": "cos0383_body_01",
+          "id": "99/0417"
+        },
+        "unique_head": {
+          "bundle": "cos0383_unique_head_01",
+          "id": "15/0417a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0383_head_02",
+          "id": "0417/a03"
+        },
+        "body": {
+          "bundle": "cos0383_body_02",
+          "id": "99/0417"
+        },
+        "unique_head": {
+          "bundle": "cos0383_unique_head_02",
+          "id": "15/0417b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0383_head_03",
+          "id": "0417/a03"
+        },
+        "body": {
+          "bundle": "cos0383_body_03",
+          "id": "99/0417"
+        },
+        "unique_head": {
+          "bundle": "cos0383_unique_head_03",
+          "id": "15/0417c"
+        }
+      }
+    }
   }
 }
