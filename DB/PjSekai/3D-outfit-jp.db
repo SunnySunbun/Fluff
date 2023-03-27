@@ -21563,5 +21563,200 @@
         }
       }
     }
+  },
+  "cos0384": {
+    "name": "レヴェル・アンキャニー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1679367600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0384_head",
+          "id": "0412/a03"
+        },
+        "body": {
+          "bundle": "cos0384_body",
+          "id": "99/0412"
+        },
+        "unique_head": {
+          "bundle": "cos0384_unique_head",
+          "id": "17/0412"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0384_head_01",
+          "id": "0412/a03"
+        },
+        "body": {
+          "bundle": "cos0384_body_01",
+          "id": "99/0412"
+        },
+        "unique_head": {
+          "bundle": "cos0384_unique_head_01",
+          "id": "17/0412a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0384_head_02",
+          "id": "0412/a03"
+        },
+        "body": {
+          "bundle": "cos0384_body_02",
+          "id": "99/0412"
+        },
+        "unique_head": {
+          "bundle": "cos0384_unique_head_02",
+          "id": "17/0412b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0384_head_03",
+          "id": "0412/a03"
+        },
+        "body": {
+          "bundle": "cos0384_body_03",
+          "id": "99/0412"
+        },
+        "unique_head": {
+          "bundle": "cos0384_unique_head_03",
+          "id": "17/0412c"
+        }
+      }
+    }
+  },
+  "cos0385": {
+    "name": "プロヴォーク・クリーピー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1679367600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0385_head",
+          "id": "0413/a02"
+        },
+        "body": {
+          "bundle": "cos0385_body",
+          "id": "99/0413"
+        },
+        "unique_head": {
+          "bundle": "cos0385_unique_head",
+          "id": "19/0413"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0385_head_01",
+          "id": "0413/a02"
+        },
+        "body": {
+          "bundle": "cos0385_body_01",
+          "id": "99/0413"
+        },
+        "unique_head": {
+          "bundle": "cos0385_unique_head_01",
+          "id": "19/0413a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0385_head_02",
+          "id": "0413/a02"
+        },
+        "body": {
+          "bundle": "cos0385_body_02",
+          "id": "99/0413"
+        },
+        "unique_head": {
+          "bundle": "cos0385_unique_head_02",
+          "id": "19/0413b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0385_head_03",
+          "id": "0413/a02"
+        },
+        "body": {
+          "bundle": "cos0385_body_03",
+          "id": "99/0413"
+        },
+        "unique_head": {
+          "bundle": "cos0385_unique_head_03",
+          "id": "19/0413c"
+        }
+      }
+    }
+  },
+  "cos0386": {
+    "name": "テンプテーション・イアリー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1679367600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0386_head",
+          "id": "0414/a02"
+        },
+        "body": {
+          "bundle": "cos0386_body",
+          "id": "99/0414"
+        },
+        "unique_head": {
+          "bundle": "cos0386_unique_head",
+          "id": "20/0414"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0386_head_01",
+          "id": "0414/a02"
+        },
+        "body": {
+          "bundle": "cos0386_body_01",
+          "id": "99/0414"
+        },
+        "unique_head": {
+          "bundle": "cos0386_unique_head_01",
+          "id": "20/0414a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0386_head_02",
+          "id": "0414/a02"
+        },
+        "body": {
+          "bundle": "cos0386_body_02",
+          "id": "99/0414"
+        },
+        "unique_head": {
+          "bundle": "cos0386_unique_head_02",
+          "id": "20/0414b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0386_head_03",
+          "id": "0414/a02"
+        },
+        "body": {
+          "bundle": "cos0386_body_03",
+          "id": "99/0414"
+        },
+        "unique_head": {
+          "bundle": "cos0386_unique_head_03",
+          "id": "20/0414c"
+        }
+      }
+    }
   }
 }
