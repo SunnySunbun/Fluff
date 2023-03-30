@@ -21758,5 +21758,697 @@
         }
       }
     }
+  },
+  "cos0387": {
+    "name": "祈りのホーリードレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0387_head",
+          "id": "0423/a03"
+        },
+        "body": {
+          "bundle": "cos0387_body",
+          "id": "99/0423"
+        },
+        "unique_head": {
+          "bundle": "cos0387_unique_head",
+          "id": "22/0423"
+        },
+        "unique_hair": {
+          "bundle": "cos0387_unique_hair",
+          "id": "22/0423n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0387_head_01",
+          "id": "0423/a03"
+        },
+        "body": {
+          "bundle": "cos0387_body_01",
+          "id": "99/0423"
+        },
+        "unique_head": {
+          "bundle": "cos0387_unique_head_01",
+          "id": "22/0423a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0387_head_02",
+          "id": "0423/a03"
+        },
+        "body": {
+          "bundle": "cos0387_body_02",
+          "id": "99/0423"
+        },
+        "unique_head": {
+          "bundle": "cos0387_unique_head_02",
+          "id": "22/0423b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0387_head_03",
+          "id": "0423/a03"
+        },
+        "body": {
+          "bundle": "cos0387_body_03",
+          "id": "99/0423"
+        },
+        "unique_head": {
+          "bundle": "cos0387_unique_head_03",
+          "id": "22/0423c"
+        }
+      }
+    }
+  },
+  "cos0388": {
+    "name": "願いのホーリーコート",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0388_head",
+          "id": "0424/a02"
+        },
+        "body": {
+          "bundle": "cos0388_body",
+          "id": "99/0424"
+        },
+        "unique_head": {
+          "bundle": "cos0388_unique_head",
+          "id": "23/0424"
+        },
+        "unique_hair": {
+          "bundle": "cos0388_unique_hair",
+          "id": "23/0424n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0388_head_01",
+          "id": "0424/a02"
+        },
+        "body": {
+          "bundle": "cos0388_body_01",
+          "id": "99/0424"
+        },
+        "unique_head": {
+          "bundle": "cos0388_unique_head_01",
+          "id": "23/0424a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0388_head_02",
+          "id": "0424/a02"
+        },
+        "body": {
+          "bundle": "cos0388_body_02",
+          "id": "99/0424"
+        },
+        "unique_head": {
+          "bundle": "cos0388_unique_head_02",
+          "id": "23/0424b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0388_head_03",
+          "id": "0424/a02"
+        },
+        "body": {
+          "bundle": "cos0388_body_03",
+          "id": "99/0424"
+        },
+        "unique_head": {
+          "bundle": "cos0388_unique_head_03",
+          "id": "23/0424c"
+        }
+      }
+    }
+  },
+  "cos0389": {
+    "name": "花咲く乙女の羽衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0389_head",
+          "id": "0426/a02"
+        },
+        "body": {
+          "bundle": "cos0389_body",
+          "id": "99/0426"
+        },
+        "unique_head": {
+          "bundle": "cos0389_unique_head",
+          "id": "04/0426"
+        },
+        "unique_hair": {
+          "bundle": "cos0389_unique_hair",
+          "id": "04/0426n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0389_head_01",
+          "id": "0426/a02"
+        },
+        "body": {
+          "bundle": "cos0389_body_01",
+          "id": "99/0426"
+        },
+        "unique_head": {
+          "bundle": "cos0389_unique_head_01",
+          "id": "04/0426a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0389_head_02",
+          "id": "0426/a02"
+        },
+        "body": {
+          "bundle": "cos0389_body_02",
+          "id": "99/0426"
+        },
+        "unique_head": {
+          "bundle": "cos0389_unique_head_02",
+          "id": "04/0426b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0389_head_03",
+          "id": "0426/a02"
+        },
+        "body": {
+          "bundle": "cos0389_body_03",
+          "id": "99/0426"
+        },
+        "unique_head": {
+          "bundle": "cos0389_unique_head_03",
+          "id": "04/0426c"
+        }
+      }
+    }
+  },
+  "cos0390": {
+    "name": "春立つ乙女の羽衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0390_head",
+          "id": "0427/a03"
+        },
+        "body": {
+          "bundle": "cos0390_body",
+          "id": "99/0427"
+        },
+        "unique_head": {
+          "bundle": "cos0390_unique_head",
+          "id": "10/0427"
+        },
+        "unique_hair": {
+          "bundle": "cos0390_unique_hair",
+          "id": "10/0427n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0390_head_01",
+          "id": "0427/a03"
+        },
+        "body": {
+          "bundle": "cos0390_body_01",
+          "id": "99/0427"
+        },
+        "unique_head": {
+          "bundle": "cos0390_unique_head_01",
+          "id": "10/0427a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0390_head_02",
+          "id": "0427/a03"
+        },
+        "body": {
+          "bundle": "cos0390_body_02",
+          "id": "99/0427"
+        },
+        "unique_head": {
+          "bundle": "cos0390_unique_head_02",
+          "id": "10/0427b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0390_head_03",
+          "id": "0427/a03"
+        },
+        "body": {
+          "bundle": "cos0390_body_03",
+          "id": "99/0427"
+        },
+        "unique_head": {
+          "bundle": "cos0390_unique_head_03",
+          "id": "10/0427c"
+        }
+      }
+    }
+  },
+  "cos0391": {
+    "name": "曙香る乙女の羽衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0391_head",
+          "id": "0428/a02"
+        },
+        "body": {
+          "bundle": "cos0391_body",
+          "id": "99/0428"
+        },
+        "unique_head": {
+          "bundle": "cos0391_unique_head",
+          "id": "19/0428"
+        },
+        "unique_hair": {
+          "bundle": "cos0391_unique_hair",
+          "id": "19/0428n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0391_head_01",
+          "id": "0428/a02"
+        },
+        "body": {
+          "bundle": "cos0391_body_01",
+          "id": "99/0428"
+        },
+        "unique_head": {
+          "bundle": "cos0391_unique_head_01",
+          "id": "19/0428a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0391_head_02",
+          "id": "0428/a02"
+        },
+        "body": {
+          "bundle": "cos0391_body_02",
+          "id": "99/0428"
+        },
+        "unique_head": {
+          "bundle": "cos0391_unique_head_02",
+          "id": "19/0428b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0391_head_03",
+          "id": "0428/a02"
+        },
+        "body": {
+          "bundle": "cos0391_body_03",
+          "id": "99/0428"
+        },
+        "unique_head": {
+          "bundle": "cos0391_unique_head_03",
+          "id": "19/0428c"
+        }
+      }
+    }
+  },
+  "cos0392": {
+    "name": "心躍る乙女の羽衣",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0392_head",
+          "id": "0425/a03"
+        },
+        "body": {
+          "bundle": "cos0392_body",
+          "id": "99/0425"
+        },
+        "unique_head": {
+          "bundle": "cos0392_unique_head",
+          "id": "27/0425"
+        },
+        "unique_hair": {
+          "bundle": "cos0392_unique_hair",
+          "id": "27/0425n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0392_head_01",
+          "id": "0425/a03"
+        },
+        "body": {
+          "bundle": "cos0392_body_01",
+          "id": "99/0425"
+        },
+        "unique_head": {
+          "bundle": "cos0392_unique_head_01",
+          "id": "27/0425a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0392_head_02",
+          "id": "0425/a03"
+        },
+        "body": {
+          "bundle": "cos0392_body_02",
+          "id": "99/0425"
+        },
+        "unique_head": {
+          "bundle": "cos0392_unique_head_02",
+          "id": "27/0425b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0392_head_03",
+          "id": "0425/a03"
+        },
+        "body": {
+          "bundle": "cos0392_body_03",
+          "id": "99/0425"
+        },
+        "unique_head": {
+          "bundle": "cos0392_unique_head_03",
+          "id": "27/0425c"
+        }
+      }
+    }
+  },
+  "cos0393": {
+    "name": "Magic Academy of Sekai(レディース)",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1680145200000,
+    "design": "Rella",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0393_head",
+          "id": "0400/a02"
+        },
+        "body": {
+          "bundle": "cos0393_body",
+          "id": "99/0400"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0393_head_01",
+          "id": "0400/a02"
+        },
+        "body": {
+          "bundle": "cos0393_body_01",
+          "id": "99/0400"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0393_head_02",
+          "id": "0400/a02"
+        },
+        "body": {
+          "bundle": "cos0393_body_02",
+          "id": "99/0400"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0393_head_03",
+          "id": "0400/a02"
+        },
+        "body": {
+          "bundle": "cos0393_body_03",
+          "id": "99/0400"
+        }
+      }
+    }
+  },
+  "cos0394": {
+    "name": "Magic Academy of Sekai(メンズ)",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1680145200000,
+    "design": "Rella",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0394_head",
+          "id": "0399/a01"
+        },
+        "body": {
+          "bundle": "cos0394_body",
+          "id": "99/0399"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0394_head_01",
+          "id": "0399/a01"
+        },
+        "body": {
+          "bundle": "cos0394_body_01",
+          "id": "99/0399"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0394_head_02",
+          "id": "0399/a01"
+        },
+        "body": {
+          "bundle": "cos0394_body_02",
+          "id": "99/0399"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0394_head_03",
+          "id": "0399/a01"
+        },
+        "body": {
+          "bundle": "cos0394_body_03",
+          "id": "99/0399"
+        }
+      }
+    }
+  },
+  "cos0395": {
+    "name": "瑞雲エレガントドレス",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0395_head",
+          "id": "0430/a05"
+        },
+        "body": {
+          "bundle": "cos0395_body",
+          "id": "99/0430"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0395_head_01",
+          "id": "0430/a05"
+        },
+        "body": {
+          "bundle": "cos0395_body_01",
+          "id": "99/0430"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0395_head_02",
+          "id": "0430/a05"
+        },
+        "body": {
+          "bundle": "cos0395_body_02",
+          "id": "99/0430"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0395_head_03",
+          "id": "0430/a05"
+        },
+        "body": {
+          "bundle": "cos0395_body_03",
+          "id": "99/0430"
+        }
+      }
+    }
+  },
+  "cos0396": {
+    "name": "瑞雲クラッシースタイル",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1680145200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "body": {
+          "bundle": "cos0396_body",
+          "id": "99/0429"
+        }
+      },
+      "アナザー1": {
+        "body": {
+          "bundle": "cos0396_body_01",
+          "id": "99/0429"
+        }
+      },
+      "アナザー2": {
+        "body": {
+          "bundle": "cos0396_body_02",
+          "id": "99/0429"
+        }
+      },
+      "アナザー3": {
+        "body": {
+          "bundle": "cos0396_body_03",
+          "id": "99/0429"
+        }
+      }
+    }
+  },
+  "cos0397": {
+    "name": "girly spring flower",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1680274800000,
+    "design": "ｓｋｃ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0397_head",
+          "id": "0419/a05"
+        },
+        "body": {
+          "bundle": "cos0397_body",
+          "id": "99/0419"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0397_head_01",
+          "id": "0419/a05"
+        },
+        "body": {
+          "bundle": "cos0397_body_01",
+          "id": "99/0419"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0397_head_02",
+          "id": "0419/a05"
+        },
+        "body": {
+          "bundle": "cos0397_body_02",
+          "id": "99/0419"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0397_head_03",
+          "id": "0419/a05"
+        },
+        "body": {
+          "bundle": "cos0397_body_03",
+          "id": "99/0419"
+        }
+      }
+    }
+  },
+  "cos0398": {
+    "name": "S×S",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1680274800000,
+    "design": "はやみ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0398_head",
+          "id": "0418/a01"
+        },
+        "body": {
+          "bundle": "cos0398_body",
+          "id": "99/0418"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0398_head_01",
+          "id": "0418/a01"
+        },
+        "body": {
+          "bundle": "cos0398_body_01",
+          "id": "99/0418"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0398_head_02",
+          "id": "0418/a01"
+        },
+        "body": {
+          "bundle": "cos0398_body_02",
+          "id": "99/0418"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0398_head_03",
+          "id": "0418/a01"
+        },
+        "body": {
+          "bundle": "cos0398_body_03",
+          "id": "99/0418"
+        }
+      }
+    }
   }
 }
