@@ -22450,5 +22450,200 @@
         }
       }
     }
+  },
+  "cos0403": {
+    "name": "ユニバーサルトレーニー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1681182000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0403_head",
+          "id": "0464/a02"
+        },
+        "body": {
+          "bundle": "cos0403_body",
+          "id": "99/0464"
+        },
+        "unique_head": {
+          "bundle": "cos0403_unique_head",
+          "id": "02/0464"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0403_head_01",
+          "id": "0464/a02"
+        },
+        "body": {
+          "bundle": "cos0403_body_01",
+          "id": "99/0464"
+        },
+        "unique_head": {
+          "bundle": "cos0403_unique_head_01",
+          "id": "02/0464a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0403_head_02",
+          "id": "0464/a02"
+        },
+        "body": {
+          "bundle": "cos0403_body_02",
+          "id": "99/0464"
+        },
+        "unique_head": {
+          "bundle": "cos0403_unique_head_02",
+          "id": "02/0464b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0403_head_03",
+          "id": "0464/a02"
+        },
+        "body": {
+          "bundle": "cos0403_body_03",
+          "id": "99/0464"
+        },
+        "unique_head": {
+          "bundle": "cos0403_unique_head_03",
+          "id": "02/0464c"
+        }
+      }
+    }
+  },
+  "cos0404": {
+    "name": "アングラビティスーツ",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1681182000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0404_head",
+          "id": "0465/a02"
+        },
+        "body": {
+          "bundle": "cos0404_body",
+          "id": "99/0465"
+        },
+        "unique_head": {
+          "bundle": "cos0404_unique_head",
+          "id": "03/0465"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0404_head_01",
+          "id": "0465/a02"
+        },
+        "body": {
+          "bundle": "cos0404_body_01",
+          "id": "99/0465"
+        },
+        "unique_head": {
+          "bundle": "cos0404_unique_head_01",
+          "id": "03/0465a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0404_head_02",
+          "id": "0465/a02"
+        },
+        "body": {
+          "bundle": "cos0404_body_02",
+          "id": "99/0465"
+        },
+        "unique_head": {
+          "bundle": "cos0404_unique_head_02",
+          "id": "03/0465b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0404_head_03",
+          "id": "0465/a02"
+        },
+        "body": {
+          "bundle": "cos0404_body_03",
+          "id": "99/0465"
+        },
+        "unique_head": {
+          "bundle": "cos0404_unique_head_03",
+          "id": "03/0465c"
+        }
+      }
+    }
+  },
+  "cos0405": {
+    "name": "ギャラクシーリサーチャー",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1681182000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0405_head",
+          "id": "0463/a02"
+        },
+        "body": {
+          "bundle": "cos0405_body",
+          "id": "99/0463"
+        },
+        "unique_head": {
+          "bundle": "cos0405_unique_head",
+          "id": "25/0463"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0405_head_01",
+          "id": "0463/a02"
+        },
+        "body": {
+          "bundle": "cos0405_body_01",
+          "id": "99/0463"
+        },
+        "unique_head": {
+          "bundle": "cos0405_unique_head_01",
+          "id": "25/0463a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0405_head_02",
+          "id": "0463/a02"
+        },
+        "body": {
+          "bundle": "cos0405_body_02",
+          "id": "99/0463"
+        },
+        "unique_head": {
+          "bundle": "cos0405_unique_head_02",
+          "id": "25/0463b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0405_head_03",
+          "id": "0463/a02"
+        },
+        "body": {
+          "bundle": "cos0405_body_03",
+          "id": "99/0463"
+        },
+        "unique_head": {
+          "bundle": "cos0405_unique_head_03",
+          "id": "25/0463c"
+        }
+      }
+    }
   }
 }
