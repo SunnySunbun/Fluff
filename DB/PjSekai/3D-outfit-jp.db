@@ -22645,5 +22645,200 @@
         }
       }
     }
+  },
+  "cos0406": {
+    "name": "フィアー・トラッド",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682046000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0406_head",
+          "id": "0469/a02"
+        },
+        "body": {
+          "bundle": "cos0406_body",
+          "id": "99/0469"
+        },
+        "unique_head": {
+          "bundle": "cos0406_unique_head",
+          "id": "07/0469"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0406_head_01",
+          "id": "0469/a02"
+        },
+        "body": {
+          "bundle": "cos0406_body_01",
+          "id": "99/0469"
+        },
+        "unique_head": {
+          "bundle": "cos0406_unique_head_01",
+          "id": "07/0469a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0406_head_02",
+          "id": "0469/a02"
+        },
+        "body": {
+          "bundle": "cos0406_body_02",
+          "id": "99/0469"
+        },
+        "unique_head": {
+          "bundle": "cos0406_unique_head_02",
+          "id": "07/0469b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0406_head_03",
+          "id": "0469/a02"
+        },
+        "body": {
+          "bundle": "cos0406_body_03",
+          "id": "99/0469"
+        },
+        "unique_head": {
+          "bundle": "cos0406_unique_head_03",
+          "id": "07/0469c"
+        }
+      }
+    }
+  },
+  "cos0407": {
+    "name": "ブライト・トラッド",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682046000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0407_head",
+          "id": "0468/a02"
+        },
+        "body": {
+          "bundle": "cos0407_body",
+          "id": "99/0468"
+        },
+        "unique_head": {
+          "bundle": "cos0407_unique_head",
+          "id": "06/0468"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0407_head_01",
+          "id": "0468/a02"
+        },
+        "body": {
+          "bundle": "cos0407_body_01",
+          "id": "99/0468"
+        },
+        "unique_head": {
+          "bundle": "cos0407_unique_head_01",
+          "id": "06/0468a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0407_head_02",
+          "id": "0468/a02"
+        },
+        "body": {
+          "bundle": "cos0407_body_02",
+          "id": "99/0468"
+        },
+        "unique_head": {
+          "bundle": "cos0407_unique_head_02",
+          "id": "06/0468b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0407_head_03",
+          "id": "0468/a02"
+        },
+        "body": {
+          "bundle": "cos0407_body_03",
+          "id": "99/0468"
+        },
+        "unique_head": {
+          "bundle": "cos0407_unique_head_03",
+          "id": "06/0468c"
+        }
+      }
+    }
+  },
+  "cos0408": {
+    "name": "プロスペクト・トラッド",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682046000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0408_head",
+          "id": "0470/a03"
+        },
+        "body": {
+          "bundle": "cos0408_body",
+          "id": "99/0470"
+        },
+        "unique_head": {
+          "bundle": "cos0408_unique_head",
+          "id": "08/0470"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0408_head_01",
+          "id": "0470/a03"
+        },
+        "body": {
+          "bundle": "cos0408_body_01",
+          "id": "99/0470"
+        },
+        "unique_head": {
+          "bundle": "cos0408_unique_head_01",
+          "id": "08/0470a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0408_head_02",
+          "id": "0470/a03"
+        },
+        "body": {
+          "bundle": "cos0408_body_02",
+          "id": "99/0470"
+        },
+        "unique_head": {
+          "bundle": "cos0408_unique_head_02",
+          "id": "08/0470b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0408_head_03",
+          "id": "0470/a03"
+        },
+        "body": {
+          "bundle": "cos0408_body_03",
+          "id": "99/0470"
+        },
+        "unique_head": {
+          "bundle": "cos0408_unique_head_03",
+          "id": "08/0470c"
+        }
+      }
+    }
   }
 }
