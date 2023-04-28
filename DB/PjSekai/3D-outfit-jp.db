@@ -22840,5 +22840,310 @@
         }
       }
     }
+  },
+  "cos0409": {
+    "name": "Runaway Cat",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682823600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0409_head",
+          "id": "0473/a02"
+        },
+        "body": {
+          "bundle": "cos0409_body",
+          "id": "99/0473"
+        },
+        "unique_head": {
+          "bundle": "cos0409_unique_head",
+          "id": "20/0473"
+        },
+        "unique_hair": {
+          "bundle": "cos0409_unique_hair",
+          "id": "20/0473n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0409_head_01",
+          "id": "0473/a02"
+        },
+        "body": {
+          "bundle": "cos0409_body_01",
+          "id": "99/0473"
+        },
+        "unique_head": {
+          "bundle": "cos0409_unique_head_01",
+          "id": "20/0473a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0409_head_02",
+          "id": "0473/a02"
+        },
+        "body": {
+          "bundle": "cos0409_body_02",
+          "id": "99/0473"
+        },
+        "unique_head": {
+          "bundle": "cos0409_unique_head_02",
+          "id": "20/0473b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0409_head_03",
+          "id": "0473/a02"
+        },
+        "body": {
+          "bundle": "cos0409_body_03",
+          "id": "99/0473"
+        },
+        "unique_head": {
+          "bundle": "cos0409_unique_head_03",
+          "id": "20/0473c"
+        }
+      }
+    }
+  },
+  "cos0410": {
+    "name": "Lost kitten",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682823600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0410_head",
+          "id": "0472/a03"
+        },
+        "body": {
+          "bundle": "cos0410_body",
+          "id": "99/0472"
+        },
+        "unique_head": {
+          "bundle": "cos0410_unique_head",
+          "id": "18/0472"
+        },
+        "unique_hair": {
+          "bundle": "cos0410_unique_hair",
+          "id": "18/0472n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0410_head_01",
+          "id": "0472/a03"
+        },
+        "body": {
+          "bundle": "cos0410_body_01",
+          "id": "99/0472"
+        },
+        "unique_head": {
+          "bundle": "cos0410_unique_head_01",
+          "id": "18/0472a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0410_head_02",
+          "id": "0472/a03"
+        },
+        "body": {
+          "bundle": "cos0410_body_02",
+          "id": "99/0472"
+        },
+        "unique_head": {
+          "bundle": "cos0410_unique_head_02",
+          "id": "18/0472b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0410_head_03",
+          "id": "0472/a03"
+        },
+        "body": {
+          "bundle": "cos0410_body_03",
+          "id": "99/0472"
+        },
+        "unique_head": {
+          "bundle": "cos0410_unique_head_03",
+          "id": "18/0472c"
+        }
+      }
+    }
+  },
+  "cos0411": {
+    "name": "Escape girl",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1682823600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0411_head",
+          "id": "0471/a02"
+        },
+        "body": {
+          "bundle": "cos0411_body",
+          "id": "99/0471"
+        },
+        "unique_head": {
+          "bundle": "cos0411_unique_head",
+          "id": "24/0471"
+        },
+        "unique_hair": {
+          "bundle": "cos0411_unique_hair",
+          "id": "24/0471n"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0411_head_01",
+          "id": "0471/a02"
+        },
+        "body": {
+          "bundle": "cos0411_body_01",
+          "id": "99/0471"
+        },
+        "unique_head": {
+          "bundle": "cos0411_unique_head_01",
+          "id": "24/0471a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0411_head_02",
+          "id": "0471/a02"
+        },
+        "body": {
+          "bundle": "cos0411_body_02",
+          "id": "99/0471"
+        },
+        "unique_head": {
+          "bundle": "cos0411_unique_head_02",
+          "id": "24/0471b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0411_head_03",
+          "id": "0471/a02"
+        },
+        "body": {
+          "bundle": "cos0411_body_03",
+          "id": "99/0471"
+        },
+        "unique_head": {
+          "bundle": "cos0411_unique_head_03",
+          "id": "24/0471c"
+        }
+      }
+    }
+  },
+  "cos0412": {
+    "name": "花園の薔薇令嬢",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": 1682866800000,
+    "design": "海月くらげ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0412_head",
+          "id": "0467/a05"
+        },
+        "body": {
+          "bundle": "cos0412_body",
+          "id": "99/0467"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0412_head_01",
+          "id": "0467/a05"
+        },
+        "body": {
+          "bundle": "cos0412_body_01",
+          "id": "99/0467"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0412_head_02",
+          "id": "0467/a05"
+        },
+        "body": {
+          "bundle": "cos0412_body_02",
+          "id": "99/0467"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0412_head_03",
+          "id": "0467/a05"
+        },
+        "body": {
+          "bundle": "cos0412_body_03",
+          "id": "99/0467"
+        }
+      }
+    }
+  },
+  "cos0413": {
+    "name": "mode parfum",
+    "gender": "Male",
+    "rarity": "Normal",
+    "time": 1682866800000,
+    "design": "シロ",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0413_head",
+          "id": "0466/a05"
+        },
+        "body": {
+          "bundle": "cos0413_body",
+          "id": "99/0466"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0413_head_01",
+          "id": "0466/a05"
+        },
+        "body": {
+          "bundle": "cos0413_body_01",
+          "id": "99/0466"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0413_head_02",
+          "id": "0466/a05"
+        },
+        "body": {
+          "bundle": "cos0413_body_02",
+          "id": "99/0466"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0413_head_03",
+          "id": "0466/a05"
+        },
+        "body": {
+          "bundle": "cos0413_body_03",
+          "id": "99/0466"
+        }
+      }
+    }
   }
 }
