@@ -23145,5 +23145,200 @@
         }
       }
     }
+  },
+  "cos0414": {
+    "name": "セイラーキャプテン",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1683774000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0414_head",
+          "id": "0479/a03"
+        },
+        "body": {
+          "bundle": "cos0414_body",
+          "id": "99/0479"
+        },
+        "unique_head": {
+          "bundle": "cos0414_unique_head",
+          "id": "06/0479"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0414_head_01",
+          "id": "0479/a03"
+        },
+        "body": {
+          "bundle": "cos0414_body_01",
+          "id": "99/0479"
+        },
+        "unique_head": {
+          "bundle": "cos0414_unique_head_01",
+          "id": "06/0479a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0414_head_02",
+          "id": "0479/a03"
+        },
+        "body": {
+          "bundle": "cos0414_body_02",
+          "id": "99/0479"
+        },
+        "unique_head": {
+          "bundle": "cos0414_unique_head_02",
+          "id": "06/0479b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0414_head_03",
+          "id": "0479/a03"
+        },
+        "body": {
+          "bundle": "cos0414_body_03",
+          "id": "99/0479"
+        },
+        "unique_head": {
+          "bundle": "cos0414_unique_head_03",
+          "id": "06/0479c"
+        }
+      }
+    }
+  },
+  "cos0415": {
+    "name": "ネイビーナビゲーター",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1683774000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0415_unique_head",
+          "id": "01/0478"
+        },
+        "body": {
+          "bundle": "cos0415_body",
+          "id": "99/0478"
+        },
+        "head": {
+          "bundle": "cos0415_head",
+          "id": "0478/a02"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0415_unique_head_01",
+          "id": "01/0478a"
+        },
+        "body": {
+          "bundle": "cos0415_body_01",
+          "id": "99/0478"
+        },
+        "head": {
+          "bundle": "cos0415_head_01",
+          "id": "0478/a02"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0415_unique_head_02",
+          "id": "01/0478b"
+        },
+        "body": {
+          "bundle": "cos0415_body_02",
+          "id": "99/0478"
+        },
+        "head": {
+          "bundle": "cos0415_head_02",
+          "id": "0478/a02"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0415_unique_head_03",
+          "id": "01/0478c"
+        },
+        "body": {
+          "bundle": "cos0415_body_03",
+          "id": "99/0478"
+        },
+        "head": {
+          "bundle": "cos0415_head_03",
+          "id": "0478/a02"
+        }
+      }
+    }
+  },
+  "cos0416": {
+    "name": "セイラーアプレンティス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1683774000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0416_head",
+          "id": "0477/a02"
+        },
+        "body": {
+          "bundle": "cos0416_body",
+          "id": "99/0477"
+        },
+        "unique_head": {
+          "bundle": "cos0416_unique_head",
+          "id": "28/0477"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0416_head_01",
+          "id": "0477/a02"
+        },
+        "body": {
+          "bundle": "cos0416_body_01",
+          "id": "99/0477"
+        },
+        "unique_head": {
+          "bundle": "cos0416_unique_head_01",
+          "id": "28/0477a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0416_head_02",
+          "id": "0477/a02"
+        },
+        "body": {
+          "bundle": "cos0416_body_02",
+          "id": "99/0477"
+        },
+        "unique_head": {
+          "bundle": "cos0416_unique_head_02",
+          "id": "28/0477b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0416_head_03",
+          "id": "0477/a02"
+        },
+        "body": {
+          "bundle": "cos0416_body_03",
+          "id": "99/0477"
+        },
+        "unique_head": {
+          "bundle": "cos0416_unique_head_03",
+          "id": "28/0477c"
+        }
+      }
+    }
   }
 }
