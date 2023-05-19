@@ -23340,5 +23340,200 @@
         }
       }
     }
+  },
+  "cos0417": {
+    "name": "イノセントガール",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1684551600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0417_head",
+          "id": "0475/a02"
+        },
+        "body": {
+          "bundle": "cos0417_body",
+          "id": "99/0475"
+        },
+        "unique_head": {
+          "bundle": "cos0417_unique_head",
+          "id": "15/0475"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0417_head_01",
+          "id": "0475/a02"
+        },
+        "body": {
+          "bundle": "cos0417_body_01",
+          "id": "99/0475"
+        },
+        "unique_head": {
+          "bundle": "cos0417_unique_head_01",
+          "id": "15/0475a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0417_head_02",
+          "id": "0475/a02"
+        },
+        "body": {
+          "bundle": "cos0417_body_02",
+          "id": "99/0475"
+        },
+        "unique_head": {
+          "bundle": "cos0417_unique_head_02",
+          "id": "15/0475b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0417_head_03",
+          "id": "0475/a02"
+        },
+        "body": {
+          "bundle": "cos0417_body_03",
+          "id": "99/0475"
+        },
+        "unique_head": {
+          "bundle": "cos0417_unique_head_03",
+          "id": "15/0475c"
+        }
+      }
+    }
+  },
+  "cos0418": {
+    "name": "カジュアルボーイ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1684551600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0418_head",
+          "id": "0476/a02"
+        },
+        "body": {
+          "bundle": "cos0418_body",
+          "id": "99/0476"
+        },
+        "unique_head": {
+          "bundle": "cos0418_unique_head",
+          "id": "16/0476"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0418_head_01",
+          "id": "0476/a02"
+        },
+        "body": {
+          "bundle": "cos0418_body_01",
+          "id": "99/0476"
+        },
+        "unique_head": {
+          "bundle": "cos0418_unique_head_01",
+          "id": "16/0476a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0418_head_02",
+          "id": "0476/a02"
+        },
+        "body": {
+          "bundle": "cos0418_body_02",
+          "id": "99/0476"
+        },
+        "unique_head": {
+          "bundle": "cos0418_unique_head_02",
+          "id": "16/0476b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0418_head_03",
+          "id": "0476/a02"
+        },
+        "body": {
+          "bundle": "cos0418_body_03",
+          "id": "99/0476"
+        },
+        "unique_head": {
+          "bundle": "cos0418_unique_head_03",
+          "id": "16/0476c"
+        }
+      }
+    }
+  },
+  "cos0419": {
+    "name": "クラリティガイ",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1684551600000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0419_head",
+          "id": "0474/a02"
+        },
+        "body": {
+          "bundle": "cos0419_body",
+          "id": "99/0474"
+        },
+        "unique_head": {
+          "bundle": "cos0419_unique_head",
+          "id": "26/0474"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0419_head_01",
+          "id": "0474/a02"
+        },
+        "body": {
+          "bundle": "cos0419_body_01",
+          "id": "99/0474"
+        },
+        "unique_head": {
+          "bundle": "cos0419_unique_head_01",
+          "id": "26/0474a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0419_head_02",
+          "id": "0474/a02"
+        },
+        "body": {
+          "bundle": "cos0419_body_02",
+          "id": "99/0474"
+        },
+        "unique_head": {
+          "bundle": "cos0419_unique_head_02",
+          "id": "26/0474b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0419_head_03",
+          "id": "0474/a02"
+        },
+        "body": {
+          "bundle": "cos0419_body_03",
+          "id": "99/0474"
+        },
+        "unique_head": {
+          "bundle": "cos0419_unique_head_03",
+          "id": "26/0474c"
+        }
+      }
+    }
   }
 }
